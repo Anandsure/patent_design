@@ -20,7 +20,7 @@ import (
 
 func SentryInit() {
 	err := sentry.Init(sentry.ClientOptions{
-		Dsn:              viper.GetString("SENTRY_DSN"),
+		Dsn:              "",
 		Environment:      viper.GetString("ENVIRONMENT"),
 		AttachStacktrace: true,
 		BeforeSend: func(event *sentry.Event, hint *sentry.EventHint) *sentry.Event {

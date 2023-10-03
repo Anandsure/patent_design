@@ -14,7 +14,6 @@ import (
 	"github.com/LegalForceLawRAPC/go-template/api/db"
 	"github.com/LegalForceLawRAPC/go-template/api/migrations"
 	"github.com/LegalForceLawRAPC/go-template/api/router"
-	gofibersentry "github.com/LegalForceLawRAPC/go-template/api/sentry"
 	"github.com/LegalForceLawRAPC/go-template/api/utils"
 )
 
@@ -39,9 +38,9 @@ func main() {
 	app.Get("/health", healthCheck)
 
 	// initialize sentry
-	gofibersentry.SentryInit()
-	sentryHandler := gofibersentry.New(gofibersentry.Options{})
-	app.Use(sentryHandler.Handle)
+	// gofibersentry.SentryInit()
+	// sentryHandler := gofibersentry.New(gofibersentry.Options{})
+	// app.Use(sentryHandler.Handle)
 
 	app.Use(logger.New(logger.Config{Next: func(c *fiber.Ctx) bool {
 		return strings.HasPrefix(c.Path(), "api")
