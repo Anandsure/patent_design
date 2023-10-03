@@ -17,7 +17,8 @@ func GetRedis() (*redis.Client, context.Context) {
 		return rdb, ctx
 	}
 	rdb = redis.NewClient(&redis.Options{
-		Addr:     viper.GetString("REDIS_URL"),
+		Addr: viper.GetString("REDIS_URL"),
+		// Addr:     "http://127.0.0.1:5000",
 		Password: "", // no password set
 		DB:       0,  // use default DB
 	})

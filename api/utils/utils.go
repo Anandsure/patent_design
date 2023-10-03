@@ -16,6 +16,7 @@ func ImportEnv() {
 	viper.SetDefault("PORT", 3000)
 	viper.SetDefault("MIGRATE", false)
 	viper.SetDefault("ENVIRONMENT", "development")
+	viper.SetDefault("REDIS_URL", "http://127.0.0.1:5000")
 
 	viper.AutomaticEnv()
 
