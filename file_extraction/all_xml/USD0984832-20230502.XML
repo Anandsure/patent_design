@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v47-2022-02-17.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.7 2022-02-17" file="USD0984832-20230502.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20230412" date-publ="20230502">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0984832</doc-number>
+<kind>S1</kind>
+<date>20230502</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>29755731</doc-number>
+<date>20201022</date>
+</document-id>
+</application-reference>
+<us-application-series-code>29</us-application-series-code>
+<us-term-of-grant>
+<length-of-grant>15</length-of-grant>
+</us-term-of-grant>
+<classification-locarno>
+<edition>14</edition>
+<main-classification>0606</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D 66753</main-classification>
+</classification-national>
+<invention-title id="d2e53">Floor rack</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>D186561</doc-number>
+<kind>S</kind>
+<name>Howard</name>
+<date>19591100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6566</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>2998107</doc-number>
+<kind>A</kind>
+<name>Zimmerla</name>
+<date>19610800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>E04B 2/76</classification-cpc-text>
+<classification-national><country>US</country><main-classification> 52 366</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>D253213</doc-number>
+<kind>S</kind>
+<name>Hudik</name>
+<date>19791000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 66753</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>D268068</doc-number>
+<kind>S</kind>
+<name>Ellenson</name>
+<date>19830300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6515</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>D302632</doc-number>
+<kind>S</kind>
+<name>Rees</name>
+<date>19890800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 66831</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>5048699</doc-number>
+<kind>A</kind>
+<name>Trevaskis</name>
+<date>19910900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A47F 5/0087</classification-cpc-text>
+<classification-national><country>US</country><main-classification>2111281</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>D344419</doc-number>
+<kind>S</kind>
+<name>Stoddard</name>
+<date>19940200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D34 21</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>D393554</doc-number>
+<kind>S</kind>
+<name>Baluk</name>
+<date>19980400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 66831</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>D422164</doc-number>
+<kind>S</kind>
+<name>Ray</name>
+<date>20000400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 66753</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>6997340</doc-number>
+<kind>B1</kind>
+<name>Stefanik</name>
+<date>20060200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B65D 11/24</classification-cpc-text>
+<classification-national><country>US</country><main-classification>21112615</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>D530541</doc-number>
+<kind>S</kind>
+<name>Raile</name>
+<date>20061000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 66751</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>D613966</doc-number>
+<kind>S</kind>
+<name>Staw</name>
+<date>20100400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 66831</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>D655107</doc-number>
+<kind>S</kind>
+<name>Clark</name>
+<date>20120300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 66831</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>D970932</doc-number>
+<kind>S</kind>
+<name>Zhao</name>
+<date>20221100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 66753</main-classification></classification-national>
+</us-citation>
+</us-references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D 6672</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6673</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6675</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 66751</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 66752</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 66753</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6682</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 66821</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 66822</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 66823</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6702</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6705</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 67051</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 67054</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6512-513</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 67092</main-classification>
+</classification-national>
+<classification-cpc-text>A47B 43/003</classification-cpc-text>
+<classification-cpc-text>A47B 47/021</classification-cpc-text>
+<classification-cpc-text>A47B 57/00</classification-cpc-text>
+<classification-cpc-text>A47B 81/00</classification-cpc-text>
+<classification-cpc-text>A47B 96/02</classification-cpc-text>
+<classification-cpc-text>A47B 96/04</classification-cpc-text>
+<classification-cpc-text>A47F 1/00</classification-cpc-text>
+<classification-cpc-text>A47F 1/04</classification-cpc-text>
+<classification-cpc-text>A47F 3/00</classification-cpc-text>
+<classification-cpc-text>A47F 3/14</classification-cpc-text>
+<classification-cpc-text>A47F 5/0018</classification-cpc-text>
+<classification-cpc-text>A47F 5/0043</classification-cpc-text>
+<classification-cpc-text>A47F 5/0081</classification-cpc-text>
+<classification-cpc-text>A47F 5/0807</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>4</number-of-drawing-sheets>
+<number-of-figures>6</number-of-figures>
+</figures>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Pure Fishing, Inc.</orgname>
+<address>
+<city>Spirit Lake</city>
+<state>IA</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Ivie</last-name>
+<first-name>Cameron</first-name>
+<address>
+<city>Irmo</city>
+<state>SC</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Husch Blackwell LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Pure Fishing, Inc.</orgname>
+<role>02</role>
+<address>
+<city>Spirit Lake</city>
+<state>IA</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Donnelly</last-name>
+<first-name>Kelley A</first-name>
+<department>2913</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="153.42mm" wi="132.59mm" file="USD0984832-20230502-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="168.23mm" wi="134.62mm" file="USD0984832-20230502-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="223.18mm" wi="121.92mm" file="USD0984832-20230502-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="226.14mm" wi="120.82mm" file="USD0984832-20230502-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="100.75mm" wi="121.33mm" file="USD0984832-20230502-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a perspective view of a floor rack;</p>
+<p id="p-0002" num="0002"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a top plan view of the floor rack;</p>
+<p id="p-0003" num="0003"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a front elevation view of the floor rack, the rear elevation view being an identical image to the front elevation view;</p>
+<p id="p-0004" num="0004"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a right side elevation view of the floor rack, the left side elevation view being an identical image to the right side elevation view;</p>
+<p id="p-0005" num="0005"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a bottom plan view of the floor rack; and,</p>
+<p id="p-0006" num="0006"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is a cross-section view of the floor rack taken across line <b>6</b>-<b>6</b> of <figref idref="DRAWINGS">FIG. <b>1</b></figref>.</p>
+<p id="p-0007" num="0007">Broken lines shown in the drawing views are included for illustrative purposes only, and form no part of the claimed design.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>I claim the ornamental design for a floor rack, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

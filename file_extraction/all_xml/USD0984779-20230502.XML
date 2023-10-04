@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v47-2022-02-17.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.7 2022-02-17" file="USD0984779-20230502.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20230412" date-publ="20230502">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0984779</doc-number>
+<kind>S1</kind>
+<date>20230502</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>29812652</doc-number>
+<date>20211022</date>
+</document-id>
+</application-reference>
+<us-application-series-code>29</us-application-series-code>
+<us-term-of-grant>
+<length-of-grant>15</length-of-grant>
+</us-term-of-grant>
+<classification-locarno>
+<edition>14</edition>
+<main-classification>0202</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D 2706</main-classification>
+</classification-national>
+<invention-title id="d2e53">Bra</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>2175676</doc-number>
+<kind>A</kind>
+<name>Walters</name>
+<date>19391000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A41C 3/0021</classification-cpc-text>
+<classification-national><country>US</country><main-classification>450 63</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>D119684</doc-number>
+<kind>S</kind>
+<name>Amyot</name>
+<date>19400300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>D121680</doc-number>
+<kind>S</kind>
+<name>Katz</name>
+<date>19400700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>D121681</doc-number>
+<kind>S</kind>
+<name>Katz</name>
+<date>19400700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>D125662</doc-number>
+<kind>S</kind>
+<name>Katz</name>
+<date>19410300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>D131938</doc-number>
+<kind>S</kind>
+<name>Nelson</name>
+<date>19420400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A41C 5/005</classification-cpc-text>
+<classification-national><country>US</country><main-classification>D 2723</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>2484219</doc-number>
+<kind>A</kind>
+<name>Glick</name>
+<date>19491000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A41C 3/124</classification-cpc-text>
+<classification-national><country>US</country><main-classification>  2265</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>D168360</doc-number>
+<kind>S</kind>
+<name>Levy</name>
+<date>19521200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>2628357</doc-number>
+<kind>A</kind>
+<name>Sider</name>
+<date>19530200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A41C 3/0007</classification-cpc-text>
+<classification-national><country>US</country><main-classification>D 2709</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>3077198</doc-number>
+<kind>A</kind>
+<name>Williamson</name>
+<date>19630200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A41C 3/00</classification-cpc-text>
+<classification-national><country>US</country><main-classification>450 74</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>D301932</doc-number>
+<kind>S</kind>
+<name>Guss</name>
+<date>19890700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>5823851</doc-number>
+<kind>A</kind>
+<name>Dicker</name>
+<date>19981000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A41C 3/0057</classification-cpc-text>
+<classification-national><country>US</country><main-classification>450 74</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>D713620</doc-number>
+<kind>S</kind>
+<name>Pezzimenti et al.</name>
+<date>20140900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>D713621</doc-number>
+<kind>S</kind>
+<name>Pezzimenti et al.</name>
+<date>20140900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>8915764</doc-number>
+<kind>B2</kind>
+<name>Scott</name>
+<date>20141200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A41C 3/12</classification-cpc-text>
+<classification-national><country>US</country><main-classification>450 53</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>D775781</doc-number>
+<kind>S</kind>
+<name>Lee et al.</name>
+<date>20170100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>D786530</doc-number>
+<kind>S</kind>
+<name>Lee et al.</name>
+<date>20170500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>D791432</doc-number>
+<kind>S</kind>
+<name>Lee</name>
+<date>20170700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>D798534</doc-number>
+<kind>S</kind>
+<name>Staub</name>
+<date>20171000</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>D822945</doc-number>
+<kind>S</kind>
+<name>Staub</name>
+<date>20180700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>D830037</doc-number>
+<kind>S</kind>
+<name>Staub</name>
+<date>20181000</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>D865325</doc-number>
+<kind>S</kind>
+<name>Carpenter et al.</name>
+<date>20191100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>D866120</doc-number>
+<kind>S</kind>
+<name>Rendone</name>
+<date>20191100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A41C 3/00</classification-cpc-text>
+<classification-national><country>US</country><main-classification>D 2706</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>D877452</doc-number>
+<kind>S</kind>
+<name>Hu</name>
+<date>20200300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>D892434</doc-number>
+<kind>S</kind>
+<name>Wang</name>
+<date>20200800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>10820635</doc-number>
+<kind>B2</kind>
+<name>Blibech</name>
+<date>20201100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A41C 3/0021</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>10986890</doc-number>
+<kind>B2</kind>
+<name>DeVoe</name>
+<date>20210400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A43B 13/181</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00028">
+<document-id>
+<country>US</country>
+<doc-number>11058155</doc-number>
+<kind>B2</kind>
+<name>Roddis</name>
+<date>20210700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A41C 5/005</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00029">
+<document-id>
+<country>US</country>
+<doc-number>20090280720</doc-number>
+<kind>A1</kind>
+<name>Ceylan</name>
+<date>20091100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A41C 3/005</classification-cpc-text>
+<classification-national><country>US</country><main-classification>450 86</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00030">
+<document-id>
+<country>US</country>
+<doc-number>20140273740</doc-number>
+<kind>A1</kind>
+<name>Scott</name>
+<date>20140900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A41C 3/12</classification-cpc-text>
+<classification-national><country>US</country><main-classification>450 93</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00031">
+<document-id>
+<country>US</country>
+<doc-number>20200253292</doc-number>
+<kind>A1</kind>
+<name>Schnadt</name>
+<date>20200800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A41C 3/04</classification-cpc-text>
+</us-citation>
+<us-citation>
+<nplcit num="00032">
+<othercit>Champion Women's Racerback Sports Bra, announced Aug. 8, 2005 [online], [site visited Nov. 22, 2022]. Available from internet, URL: &#x3c;https://www.amazon.com.au/Champion-Womens-Freedom-Seamless-Racerback/dp/B071J572HX/&#x3e; (Year: 2006).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00033">
+<othercit>Jockey Women Sports Bra, announced Jan. 1, 2012 [online], [site visited Nov. 22, 2022]. Available from internet, URL: &#x3c;https://www.amazon.in/Jockey-Performance-Seamless-Sportbra-Melange/dp/B019l7XDOA/?th=1&#x3e; (Year: 2012).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00034">
+<othercit>Nike; Nike Indy UltraBreathe; Accessed on Sep. 2, 2021 from https://www.nike.com/t/indy-ultrabreathe-womens-light-support-padded-sports-bra-BZpR6k/CZ4441-695; 2 pages.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00035">
+<othercit>Nike, Nike Air Max 97; Accessed on Oct. 14, 2021 from https://www.nike.com/t/air-max-97-mens-shoes-SD3ZmW/921826-101; 5 pages.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00036">
+<othercit>Nike, Nike Dri-FIT ADV Swoosh; Accessed on Oct. 14, 2021 from https://www.nike.com/t/dri-fit-adv-swoosh-womens-medium-support-sports-bra-nKpnRT/CZ4439-010; 4 pages.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00037">
+<othercit>Nike, Nike FE/NOM Flyknit; Accessed on Oct. 14, 2021 from https://www.nike.com/t/fe-nom-flyknit-womens-high-support-non-padded-sports-bra-eoTVDqL3/AJ4047-014; 6 pages.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00038">
+<othercit>Nike, Nike Swoosh UltraBreathe; Accessed on Jul. 7, 2021 from https://www.nike.com/t/swoosh-ultrabreathe-womens-medium-support-padded-sports-bra-nKpnRT/CZ4439-410; 4 pages.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+</us-references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D 2500</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2700</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2703</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2706</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2707</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2708</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2709</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2731</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2840</main-classification>
+</classification-national>
+<classification-cpc-text>A41C 3/0057</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>6</number-of-drawing-sheets>
+<number-of-figures>6</number-of-figures>
+</figures>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>NIKE, Inc.</orgname>
+<address>
+<city>Beaverton</city>
+<state>OR</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Brucker</last-name>
+<first-name>Greta</first-name>
+<address>
+<city>Portland</city>
+<state>OR</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="002" designation="us-only">
+<addressbook>
+<last-name>Mechanic</last-name>
+<first-name>Lisa</first-name>
+<address>
+<city>Portland</city>
+<state>OR</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Schwabe, Williamson &#x26; Wyatt, P.C.</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>NIKE, Inc.</orgname>
+<role>02</role>
+<address>
+<city>Beaverton</city>
+<state>OR</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Rudzinski</last-name>
+<first-name>Kevin K</first-name>
+<department>2911</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Rabie</last-name>
+<first-name>Amber J</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="170.94mm" wi="144.02mm" file="USD0984779-20230502-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="191.35mm" wi="146.13mm" file="USD0984779-20230502-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="197.36mm" wi="141.82mm" file="USD0984779-20230502-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="191.35mm" wi="146.22mm" file="USD0984779-20230502-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="196.93mm" wi="120.40mm" file="USD0984779-20230502-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="196.85mm" wi="120.40mm" file="USD0984779-20230502-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="143.09mm" wi="138.85mm" file="USD0984779-20230502-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a left, front perspective view of a bra, showing our new design;</p>
+<p id="p-0002" num="0002"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a front view thereof;</p>
+<p id="p-0003" num="0003"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a right, front perspective view thereof;</p>
+<p id="p-0004" num="0004"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a left side view thereof;</p>
+<p id="p-0005" num="0005"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a right side view thereof; and,</p>
+<p id="p-0006" num="0006"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is a bottom view thereof.</p>
+<p id="p-0007" num="0007">The broken lines illustrating portions of the bra represent features that form no part of the claimed design. The broken lines immediately adjacent to the shaded area represent boundaries of the claim and form no part of the claimed design.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>We claim the ornamental design for a bra, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

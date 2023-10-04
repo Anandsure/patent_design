@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v47-2022-02-17.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.7 2022-02-17" file="USD0984785-20230502.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20230412" date-publ="20230502">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0984785</doc-number>
+<kind>S1</kind>
+<date>20230502</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>29827279</doc-number>
+<date>20220218</date>
+</document-id>
+</application-reference>
+<us-application-series-code>29</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="regional">
+<country>EM</country>
+<doc-number>007801725</doc-number>
+<date>20200409</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<length-of-grant>15</length-of-grant>
+</us-term-of-grant>
+<classification-locarno>
+<edition>14</edition>
+<main-classification>0204</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D 2917</main-classification>
+<further-classification> D2969</further-classification>
+</classification-national>
+<invention-title id="d2e71">Sandal</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>D855950</doc-number>
+<kind>S</kind>
+<name>Post</name>
+<date>20190800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>D874101</doc-number>
+<kind>S</kind>
+<name>Post</name>
+<date>20200200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 2916</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>D879419</doc-number>
+<kind>S</kind>
+<name>Post</name>
+<date>20200300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>D879420</doc-number>
+<kind>S</kind>
+<name>R&#xfc;benach</name>
+<date>20200300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 2917</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>D880117</doc-number>
+<kind>S</kind>
+<name>R&#xfc;benach</name>
+<date>20200400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 2917</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>D885716</doc-number>
+<kind>S</kind>
+<name>R&#xfc;benach</name>
+<date>20200600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 2926</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>D890481</doc-number>
+<kind>S</kind>
+<name>Post</name>
+<date>20200700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 2917</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>D945127</doc-number>
+<kind>S</kind>
+<name>Schaetz</name>
+<date>20220300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 2916</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>D959103</doc-number>
+<kind>S</kind>
+<name>Schaetz</name>
+<date>20220800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 2919</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>20120260529</doc-number>
+<kind>A1</kind>
+<name>Katz</name>
+<date>20121000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A43B 23/24</classification-cpc-text>
+<classification-national><country>US</country><main-classification> 36100</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>20130000145</doc-number>
+<kind>A1</kind>
+<name>Wreede</name>
+<date>20130100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A43B 23/24</classification-cpc-text>
+<classification-national><country>US</country><main-classification>  2245</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>20180035745</doc-number>
+<kind>A1</kind>
+<name>Fremming</name>
+<date>20180200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A43B 3/122</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>EM</country>
+<doc-number>007801725</doc-number>
+<date>20200900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<patcit num="00014">
+<document-id>
+<country>WO</country>
+<doc-number>D210769-005</doc-number>
+<date>20201000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00015">
+<othercit>Birkenstock Women's Gizeh Big Buckle Sandals, Amazon First Available: Nov. 31, 2021, viewed Sep. 28, 2022, available online at URL: https://www.amazon.com/Birkenstock-Gizeh-Buckle-White-Leather/dp/B08RRRFMJM/ref=asc_df_B08RRRFMJM?tag=bingshoppinga-20&#x26;linkCode=df0&#x26;hvadid=80608062549000&#x26;hvnetw=o&#x26;hvqmt=e&#x26;hvbmt=be&#x26;hvdev=c&#x26;h.</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00016">
+<othercit>Birkenstock Women's Gizeh Sandals, Birkenstock, Amazon first available Apr. 29, 2011, viewed Sep. 27, 2022, available at URL: https://www.amazon.com/Birkenstock-Womens-Glzeh-Sandal-Silver/dp/B000I66VYA/ref=sr_1_4?crid=1CDTMZ564QAMF&#x26;keywords=gizeh+platform&#x26;qid=1664302645&#x26;qu=eyJxc2MiOil0Ljk5liwicXNhljoiMy4yNCIslnFzcCI6ljEuN.</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00017">
+<othercit>Birkenstock Women's Spring Summer Sandal, Amazon first available Feb. 9, 2018, viewed Sep. 27, 2022, available at URL: https://www.amazon.com/Birkenstock-Sandal-1006525-Madrid-Buckle/dp/B07KYP9T6L/ref=sr_1_3?crid=6JAQ77EC8T9C&#x26;keywords=birkenstock%2Bbig%2Bbuckle%2Bsandal&#x26;qid=1664302696&#x26;qu=eyJxc2MiOilyLjk5liwicXNhljoiMS45Mi.</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00018">
+<othercit>Birkenstock &#x201c;Gizeh: The classic gizeh thong sandal makes it feel like summer&#x201d; (claiming the shoe has remainded the same since 1983) viewed on Sep. 28, 2022, available at URL: https://www.birkenstock.com/us/gizeh/home-top-models-gizeh.html.</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00019">
+<othercit>Bridgette Raes &#x201c;Birkenstock Gizeh: My favorite Summer Sandals and Why&#x201d; published online Apr. 28, 2015, viewed Sep. 28, 2022, available online at URL: https://www.bridgetteraes.com/2015/04/28/birkenstock-gizeh-my-favorite-summer-sandals-and-why/.</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00020">
+<othercit>Fashion Gone Rogue : &#x201c;Oversized Chic: Birkenstock Launches Big Buckle Sandals Collection&#x201d; published online Mar. 15, 2018, viewed Sep. 28, 2022, available online at URL: https://www.fashiongonerogue.com/birkenstock-big-buckle-sandals-shop-buy/.</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00021">
+<othercit>Birkenstock; &#x201c;Gizeh&#x201d;; https://www.birkenstock.com/us/gizeh-birko-flor/gizeh-core-birkoflor-0-eva-u_79.html#lang=en_US&#x26;q=gizeh; available at least as early as Apr. 8, 2019; date accessed Jul. 1, 2022.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+</us-references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D 2914</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2916-922</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2925-929</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2931</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2932</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2939-941</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2943</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2969</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2974</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2976</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2923</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2972</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2973</main-classification>
+</classification-national>
+<classification-cpc-text>A43B 3/12</classification-cpc-text>
+<classification-cpc-text>A43B 3/242</classification-cpc-text>
+<classification-cpc-text>A43B 23/24</classification-cpc-text>
+<classification-cpc-text>A43B 3/102</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>7</number-of-drawing-sheets>
+<number-of-figures>7</number-of-figures>
+</figures>
+<us-related-documents>
+<division>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>35510613</doc-number>
+<date>20201008</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>D965260</doc-number>
+</document-id>
+</parent-grant-document>
+<international-filing-date><date>20201008</date></international-filing-date>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>29827279</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</division>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only" applicant-authority-category="obligated-assignee">
+<addressbook>
+<orgname>BIRKENSTOCK IP GMBH</orgname>
+<address>
+<city>Linz am Rhein</city>
+<country>DE</country>
+</address>
+</addressbook>
+<residence>
+<country>DE</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Schaetz</last-name>
+<first-name>Julia</first-name>
+<address>
+<city>Cologne</city>
+<country>DE</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Fross, Zelnick, Lehrman &#x26; Zissu PC</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+<agent sequence="02" rep-type="attorney">
+<addressbook>
+<last-name>Weigell, Esq.</last-name>
+<first-name>Charles T. J.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>BIRKENSTOCK IP GMBH</orgname>
+<role>03</role>
+<address>
+<city>Linz am Rhein</city>
+<country>DE</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Watkins</last-name>
+<first-name>Jennifer L</first-name>
+<department>2915</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="68.16mm" wi="139.36mm" file="USD0984785-20230502-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="99.14mm" wi="141.39mm" file="USD0984785-20230502-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="101.52mm" wi="83.74mm" file="USD0984785-20230502-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="96.35mm" wi="76.12mm" file="USD0984785-20230502-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="86.19mm" wi="152.57mm" file="USD0984785-20230502-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="90.25mm" wi="161.71mm" file="USD0984785-20230502-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="184.57mm" wi="67.14mm" file="USD0984785-20230502-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="210.31mm" wi="76.62mm" file="USD0984785-20230502-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a front perspective view of the sandal showing my new design;</p>
+<p id="p-0002" num="0002"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a front view thereof;</p>
+<p id="p-0003" num="0003"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a rear view thereof;</p>
+<p id="p-0004" num="0004"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a right side view thereof;</p>
+<p id="p-0005" num="0005"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a left side view thereof;</p>
+<p id="p-0006" num="0006"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is a top view thereof; and,</p>
+<p id="p-0007" num="0007"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is a bottom view thereof.</p>
+<p id="p-0008" num="0008">The broken lines depicting portions of the shoe sole show portions of the sandal that form no part of the claimed design.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>The ornamental design for a sandal, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

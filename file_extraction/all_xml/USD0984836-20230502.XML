@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v47-2022-02-17.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.7 2022-02-17" file="USD0984836-20230502.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20230412" date-publ="20230502">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0984836</doc-number>
+<kind>S1</kind>
+<date>20230502</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>29766173</doc-number>
+<date>20210114</date>
+</document-id>
+</application-reference>
+<us-application-series-code>29</us-application-series-code>
+<us-term-of-grant>
+<length-of-grant>15</length-of-grant>
+</us-term-of-grant>
+<classification-locarno>
+<edition>14</edition>
+<main-classification>0613</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D 6611</main-classification>
+</classification-national>
+<invention-title id="d2e53">Baby carriage cover</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>D313912</doc-number>
+<kind>S</kind>
+<name>Kosciusko</name>
+<date>19910100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 2876</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>D431940</doc-number>
+<kind>S</kind>
+<name>Brown</name>
+<date>20001000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 671829</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>7384098</doc-number>
+<kind>B1</kind>
+<name>Allwin</name>
+<date>20080600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B60N 2/2881</classification-cpc-text>
+<classification-national><country>US</country><main-classification>29721912</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>D634575</doc-number>
+<kind>S</kind>
+<name>Russo</name>
+<date>20110300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6611</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>D676220</doc-number>
+<kind>S</kind>
+<name>Bostajian</name>
+<date>20130200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 2831</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>D683169</doc-number>
+<kind>S</kind>
+<name>Lang</name>
+<date>20130500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 67152</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>D691834</doc-number>
+<kind>S</kind>
+<name>Bourgoin</name>
+<date>20131000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6611</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>20020125747</doc-number>
+<kind>A1</kind>
+<name>Drost</name>
+<date>20020900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A41B 13/00</classification-cpc-text>
+<classification-national><country>US</country><main-classification>29718413</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>20040026965</doc-number>
+<kind>A1</kind>
+<name>Haney</name>
+<date>20040200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B60N 2/28</classification-cpc-text>
+<classification-national><country>US</country><main-classification>29718413</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>20050275257</doc-number>
+<kind>A1</kind>
+<name>McGregor</name>
+<date>20051200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B60N 2/2842</classification-cpc-text>
+<classification-national><country>US</country><main-classification>29721912</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>20090193561</doc-number>
+<kind>A1</kind>
+<name>Masukawa</name>
+<date>20090800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A47D 15/00</classification-cpc-text>
+<classification-national><country>US</country><main-classification>  2104</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>20120178543</doc-number>
+<kind>A1</kind>
+<name>Monachello</name>
+<date>20120700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A63G 9/12</classification-cpc-text>
+<classification-national><country>US</country><main-classification>472118</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>20120286547</doc-number>
+<kind>A1</kind>
+<name>Gibbons</name>
+<date>20121100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B62B 9/142</classification-cpc-text>
+<classification-national><country>US</country><main-classification>29718411</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>20140319886</doc-number>
+<kind>A1</kind>
+<name>Coffman</name>
+<date>20141000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A47D 15/00</classification-cpc-text>
+<classification-national><country>US</country><main-classification>29718013</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>20170224128</doc-number>
+<kind>A1</kind>
+<name>Tebbe</name>
+<date>20170800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B60N 2/6009</classification-cpc-text>
+</us-citation>
+<us-citation>
+<nplcit num="00016">
+<othercit>Yoofoss baby car seat cover, available in amazon.com, review date of Nov. 20, 2020, site visited Jul. 14, 2022, URL:https://www.amazon.com/Yoofoss-Carseat-Canopies-Protect-Carrier/dp/B08H4WCFXV/ref=cm_cr_arp_d_product_top?ie=UTF8&#x26;th=1 (Year: 2020).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00017">
+<othercit>Cozy cover infant Car Seat Cover, found in Amazon.com, oldest review date Jan. 1, 2018, site visited Jul. 13, 2022, URL:https://www.amazon.com/Cozy-Cover-Infant-Seat-Charcoal/dp/B008QYZ6CY?th=1 (Year: 2018).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+</us-references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D 6333</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6335</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6391</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6392</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6389</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6604</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6605</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6601</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6602</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6610</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6611</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6595</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6596</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 67152</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 671823</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D12133</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D12401-403</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D21803</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D21809</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D24183</main-classification>
+</classification-national>
+<classification-cpc-text>A47D 5/00</classification-cpc-text>
+<classification-cpc-text>A47D 5/006</classification-cpc-text>
+<classification-cpc-text>A47D 7/002</classification-cpc-text>
+<classification-cpc-text>A47D 15/003</classification-cpc-text>
+<classification-cpc-text>A47D 15/008</classification-cpc-text>
+<classification-cpc-text>A47D 15/006</classification-cpc-text>
+<classification-cpc-text>A47D 15/001</classification-cpc-text>
+<classification-cpc-text>A47C 27/00</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>8</number-of-drawing-sheets>
+<number-of-figures>8</number-of-figures>
+</figures>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only">
+<addressbook>
+<last-name>Hu</last-name>
+<first-name>Yadong</first-name>
+<address>
+<city>Guangdong</city>
+<country>CN</country>
+</address>
+</addressbook>
+<residence>
+<country>CN</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Hu</last-name>
+<first-name>Yadong</first-name>
+<address>
+<city>Guangdong</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Shenzhenshi Azsifang clothing Co., ltd.</orgname>
+<role>03</role>
+<address>
+<city>Guangdong</city>
+<country>CN</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Calabrese</last-name>
+<first-name>Mary Ann</first-name>
+<department>2913</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Wolfley</last-name>
+<first-name>Mark David</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="162.22mm" wi="206.16mm" file="USD0984836-20230502-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="187.37mm" wi="105.24mm" file="USD0984836-20230502-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="198.04mm" wi="104.99mm" file="USD0984836-20230502-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="198.04mm" wi="105.07mm" file="USD0984836-20230502-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="198.12mm" wi="21.59mm" file="USD0984836-20230502-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="198.12mm" wi="19.47mm" file="USD0984836-20230502-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="122.43mm" wi="104.82mm" file="USD0984836-20230502-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="128.02mm" wi="104.82mm" file="USD0984836-20230502-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="182.80mm" wi="106.09mm" file="USD0984836-20230502-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a perspective view of a baby carriage cover showing my new design;</p>
+<p id="p-0002" num="0002"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a front elevation view thereof;</p>
+<p id="p-0003" num="0003"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a rear elevation view thereof;</p>
+<p id="p-0004" num="0004"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a left side elevation view thereof;</p>
+<p id="p-0005" num="0005"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a right side elevation view thereof;</p>
+<p id="p-0006" num="0006"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is a top plan view thereof;</p>
+<p id="p-0007" num="0007"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is a bottom plan view thereof; and,</p>
+<p id="p-0008" num="0008"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is another perspective thereof, showing the baby carriage cover in a state of use.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>The ornamental design for a baby carriage cover, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

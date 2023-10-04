@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v47-2022-02-17.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.7 2022-02-17" file="USD0985069-20230502.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20230412" date-publ="20230502">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0985069</doc-number>
+<kind>S1</kind>
+<date>20230502</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>29863976</doc-number>
+<date>20221226</date>
+</document-id>
+</application-reference>
+<us-application-series-code>29</us-application-series-code>
+<us-term-of-grant>
+<length-of-grant>15</length-of-grant>
+</us-term-of-grant>
+<classification-locarno>
+<edition>14</edition>
+<main-classification>2102</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D21485</main-classification>
+</classification-national>
+<invention-title id="d2e53">Building block toy brick display stand</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>D174113</doc-number>
+<kind>S</kind>
+<name>Dey</name>
+<date>19550300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D21453</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>3242610</doc-number>
+<kind>A</kind>
+<name>Christiansen</name>
+<date>19660300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A63H 33/086</classification-cpc-text>
+<classification-national><country>US</country><main-classification>446128</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>D279697</doc-number>
+<kind>S</kind>
+<name>Tapdrup</name>
+<date>19850700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D21502</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>D280432</doc-number>
+<kind>S</kind>
+<name>Tapdrup</name>
+<date>19850900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D21502</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>D280533</doc-number>
+<kind>S</kind>
+<name>Pedersen</name>
+<date>19850900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D21502</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>D303404</doc-number>
+<kind>S</kind>
+<name>Tapdrup</name>
+<date>19890900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D21453</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>D315754</doc-number>
+<kind>S</kind>
+<name>Eggert</name>
+<date>19910300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D21492</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>D325056</doc-number>
+<kind>S</kind>
+<name>Pagel</name>
+<date>19920300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D21486</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>D327518</doc-number>
+<kind>S</kind>
+<name>Pagel</name>
+<date>19920600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D21502</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>D353499</doc-number>
+<kind>S</kind>
+<name>Schwallenstecker</name>
+<date>19941200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6678</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>D365249</doc-number>
+<kind>S</kind>
+<name>Reisman</name>
+<date>19951200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 7601</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>D383568</doc-number>
+<kind>S</kind>
+<name>Giedd</name>
+<date>19970900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 66822</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>D491747</doc-number>
+<kind>S</kind>
+<name>Walters</name>
+<date>20040600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 66781</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>D568808</doc-number>
+<kind>S</kind>
+<name>Hamasaki</name>
+<date>20080500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D13108</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>D585666</doc-number>
+<kind>S</kind>
+<name>Hamasaki</name>
+<date>20090200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6682</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>D601642</doc-number>
+<kind>S</kind>
+<name>Talavera</name>
+<date>20091000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D21504</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>D613524</doc-number>
+<kind>S</kind>
+<name>Jeffers</name>
+<date>20100400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6682</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>D773563</doc-number>
+<kind>S</kind>
+<name>Kiribuchi</name>
+<date>20161200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D21489</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>D857429</doc-number>
+<kind>S</kind>
+<name>Kuehnast</name>
+<date>20190800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 66811</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>D886212</doc-number>
+<kind>S</kind>
+<name>Marko</name>
+<date>20200600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00021">
+<othercit>2&#xd7;4 by Brick Visions dated no date given. Found online [Mar. 13, 2023] https://www.brickvisions.com/index.php?c=show&#x26;id=591.</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00022">
+<othercit>4&#xd7;4 by Brick Visions dated no date given. Found online [Mar. 13, 2023] https://www.brickvisions.com/index.php?c=show&#x26;id=590#.</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+</us-references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D21363</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D21453</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D21502</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D21504</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D21565</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D21483</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D21484</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D21485</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D21486</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D21489</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D21492</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D21491</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D21497</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D21500</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D21501</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D21503</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D21506</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6678</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 66781</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 66811</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6682</main-classification>
+</classification-national>
+<classification-cpc-text>A63H 33/062</classification-cpc-text>
+<classification-cpc-text>A63H 33/06</classification-cpc-text>
+<classification-cpc-text>A63H 33/086</classification-cpc-text>
+<classification-cpc-text>A63H 33/04</classification-cpc-text>
+<classification-cpc-text>A47F 5/04</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>14</number-of-drawing-sheets>
+<number-of-figures>14</number-of-figures>
+</figures>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only">
+<addressbook>
+<last-name>Huang</last-name>
+<first-name>Jiajie</first-name>
+<address>
+<city>Zhongshan</city>
+<country>CN</country>
+</address>
+</addressbook>
+<residence>
+<country>CN</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Huang</last-name>
+<first-name>Jiajie</first-name>
+<address>
+<city>Zhongshan</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<last-name>Kaushik</last-name>
+<first-name>Nitin</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<last-name>Huang</last-name>
+<first-name>Jiajie</first-name>
+<role>05</role>
+<address>
+<city>Zhongshan</city>
+<country>CN</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Harvey</last-name>
+<first-name>Ryan</first-name>
+<department>2917</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="176.61mm" wi="215.98mm" file="USD0985069-20230502-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="196.34mm" wi="110.07mm" file="USD0985069-20230502-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="186.01mm" wi="129.03mm" file="USD0985069-20230502-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="186.01mm" wi="129.03mm" file="USD0985069-20230502-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="186.01mm" wi="91.44mm" file="USD0985069-20230502-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="186.01mm" wi="91.44mm" file="USD0985069-20230502-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="163.49mm" wi="129.03mm" file="USD0985069-20230502-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="163.49mm" wi="129.03mm" file="USD0985069-20230502-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="207.09mm" wi="110.07mm" file="USD0985069-20230502-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="201.68mm" wi="129.03mm" file="USD0985069-20230502-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="201.68mm" wi="129.03mm" file="USD0985069-20230502-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="201.68mm" wi="91.44mm" file="USD0985069-20230502-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="201.68mm" wi="91.44mm" file="USD0985069-20230502-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="163.49mm" wi="129.03mm" file="USD0985069-20230502-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="163.49mm" wi="129.03mm" file="USD0985069-20230502-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a front perspective view of a building block toy brick display stand, showing my new design;</p>
+<p id="p-0002" num="0002"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a front view thereof;</p>
+<p id="p-0003" num="0003"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a rear view thereof;</p>
+<p id="p-0004" num="0004"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a left side view thereof;</p>
+<p id="p-0005" num="0005"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a right side view thereof;</p>
+<p id="p-0006" num="0006"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is a top view thereof;</p>
+<p id="p-0007" num="0007"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is a bottom view thereof;</p>
+<p id="p-0008" num="0008"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is a front perspective view thereof of another embodiment;</p>
+<p id="p-0009" num="0009"><figref idref="DRAWINGS">FIG. <b>9</b></figref> is a front view thereof;</p>
+<p id="p-0010" num="0010"><figref idref="DRAWINGS">FIG. <b>10</b></figref> is a rear view thereof;</p>
+<p id="p-0011" num="0011"><figref idref="DRAWINGS">FIG. <b>11</b></figref> is a left side view thereof;</p>
+<p id="p-0012" num="0012"><figref idref="DRAWINGS">FIG. <b>12</b></figref> is a right side view thereof;</p>
+<p id="p-0013" num="0013"><figref idref="DRAWINGS">FIG. <b>13</b></figref> is a top view thereof; and,</p>
+<p id="p-0014" num="0014"><figref idref="DRAWINGS">FIG. <b>14</b></figref> is a bottom view thereof.</p>
+<p id="p-0015" num="0015">The broken lines in the drawings illustrate the portions of the building block toy brick display stand, which form no part of the claimed design.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>The ornamental design for a building block toy brick display stand, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

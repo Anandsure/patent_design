@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v47-2022-02-17.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.7 2022-02-17" file="USD0985038-20230502.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20230412" date-publ="20230502">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0985038</doc-number>
+<kind>S1</kind>
+<date>20230502</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>29755878</doc-number>
+<date>20201023</date>
+</document-id>
+</application-reference>
+<us-application-series-code>29</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>KR</country>
+<doc-number>30-2020-0018677</doc-number>
+<date>20200427</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<length-of-grant>15</length-of-grant>
+</us-term-of-grant>
+<classification-locarno>
+<edition>14</edition>
+<main-classification>1601</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D16203</main-classification>
+</classification-national>
+<invention-title id="d2e71">Video recorder for vehicle</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>D264318</doc-number>
+<kind>S</kind>
+<name>Guscott</name>
+<date>19820500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D101066</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>D441386</doc-number>
+<kind>S</kind>
+<name>Yamazaki</name>
+<date>20010500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D16203</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>8908036</doc-number>
+<kind>B2</kind>
+<name>Tanaka</name>
+<date>20141200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>H04N 5/2257</classification-cpc-text>
+<classification-national><country>US</country><main-classification>348148</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>D727991</doc-number>
+<kind>S</kind>
+<name>Hasegawa</name>
+<date>20150400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D16203</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>D730423</doc-number>
+<kind>S</kind>
+<name>Vandenbussche</name>
+<date>20150500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D16218</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>D739452</doc-number>
+<kind>S</kind>
+<name>Adams</name>
+<date>20150900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D16208</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>D765755</doc-number>
+<kind>S</kind>
+<name>Pellegrino</name>
+<date>20160900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D16202</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>D785068</doc-number>
+<kind>S</kind>
+<name>Patsis</name>
+<date>20170400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D16218</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>D789999</doc-number>
+<kind>S</kind>
+<name>Yakabe</name>
+<date>20170600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D16200</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>D820319</doc-number>
+<kind>S</kind>
+<name>Mullins</name>
+<date>20180600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D142033</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>D883362</doc-number>
+<kind>S</kind>
+<name>Lee</name>
+<date>20200500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D16208</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>20100085474</doc-number>
+<kind>A1</kind>
+<name>Morita</name>
+<date>20100400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>H04N 5/2253</classification-cpc-text>
+<classification-national><country>US</country><main-classification>348374</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>20110216195</doc-number>
+<kind>A1</kind>
+<name>Tanaka</name>
+<date>20110900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>H04N 5/2254</classification-cpc-text>
+<classification-national><country>US</country><main-classification>348148</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>20170315427</doc-number>
+<kind>A1</kind>
+<name>Nakano</name>
+<date>20171100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>G03B 17/55</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00015">
+<document-id>
+<country>CN</country>
+<doc-number>304031401</doc-number>
+<date>20170200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<patcit num="00016">
+<document-id>
+<country>CN</country>
+<doc-number>304763277</doc-number>
+<date>20180800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00017">
+<othercit>&#x201c;PixelMan PMD2A Backup Camera, Upgrade HD Metal 170 Degree Wide Angle Rear View Reversing Camera,Super Night Vision IP69 Waterproof Universal Reverse Rearview Cam for Car Vehicle SUV RV Pickup&#x201d; from Amazon.com, first available Nov. 19, 2020 from the internet &#x3c;https://www.amazon.com/dp/B08NW4MF8V/&#x3e; (Year: 2020).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00018">
+<othercit>&#x201c;Dual Lens Dash Cam, Mirror Camera Car Dashboard, LESHP 4.3 Inch LCD Dual Lens DVR Video Recorder TFT Rearview Monitor Screen G-Sensor Waterproof for Car Backup Camera HD 1080P&#x201d; from Amazon.com, first available Apr. 14, 2017 from the internet &#x3c;https://www.amazon.co.uk/Dashboard-LESHP-Recorder-Rearview-Waterproof/dp/B06XZ1LW4J&#x3e;. (Year: 2017).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00019">
+<othercit>&#x201c;Alpine HCE-C2100RD&#x201d; from Crutchfield.com, first retrieved on Nov. 16, 2022 from the internet &#x3c;https://www.crutchfield.com/S-B70dQ4R3MfU/p_500HCEC21/Alpine-HCE-C2100RD.html?XVINQ=GZ0&#x26;XVVer=13GX&#x26;awcr=628428313578&#x26;awdv=c&#x26;awnw=g&#x26;awug=9059726&#x26;awkw=pla-400492812189&#x26;awmt=&#x26;awat=pla&#x26;gclid=EAIalQobChMlqNuy6-iz-wIVT8vlCh18sQkNEAQYBCABEgLR3fD_BwE&#x3e;. (Year: 2022).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+</us-references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D16200-203</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D16208</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D16214</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D10 46</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D10 61</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D10 62</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D10 65</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D10 70</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D101041</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D101066</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D101091</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D142031</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D14204</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D142038</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D142091</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D14317</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D14474</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D14496</main-classification>
+</classification-national>
+<classification-cpc-text>G03B 17/02</classification-cpc-text>
+<classification-cpc-text>G03B 21/10</classification-cpc-text>
+<classification-cpc-text>G03B 2217/00</classification-cpc-text>
+<classification-cpc-text>H04N 5/2251</classification-cpc-text>
+<classification-cpc-text>H04N 5/2252</classification-cpc-text>
+<classification-cpc-text>H04N 5/2253</classification-cpc-text>
+<classification-cpc-text>H04N 5/2254</classification-cpc-text>
+<classification-cpc-text>H04N 5/23216</classification-cpc-text>
+<classification-cpc-text>H04N 5/232939</classification-cpc-text>
+<classification-cpc-text>F16M 13/00</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>8</number-of-drawing-sheets>
+<number-of-figures>13</number-of-figures>
+</figures>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Thinkware Corporation</orgname>
+<address>
+<city>Seongnam-si</city>
+<country>KR</country>
+</address>
+</addressbook>
+<residence>
+<country>KR</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Lee</last-name>
+<first-name>Yong</first-name>
+<address>
+<city>Seongnam-si</city>
+<country>KR</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Hayes Soloway PC</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>THINKWARE CORPORATION</orgname>
+<role>03</role>
+<address>
+<city>Seongnam-si</city>
+<country>KR</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Wilson</last-name>
+<first-name>Michelle E.</first-name>
+<department>2926</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Bowman</last-name>
+<first-name>Lacey Chey</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="51.90mm" wi="158.75mm" file="USD0985038-20230502-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="197.53mm" wi="88.22mm" file="USD0985038-20230502-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="192.87mm" wi="117.94mm" file="USD0985038-20230502-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="97.11mm" wi="118.36mm" file="USD0985038-20230502-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="148.59mm" wi="54.53mm" file="USD0985038-20230502-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="156.72mm" wi="54.61mm" file="USD0985038-20230502-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="137.92mm" wi="128.27mm" file="USD0985038-20230502-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="209.80mm" wi="79.50mm" file="USD0985038-20230502-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="142.07mm" wi="79.33mm" file="USD0985038-20230502-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a perspective view of a video recorder for vehicle showing my new design;</p>
+<p id="p-0002" num="0002"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a front elevational view thereof;</p>
+<p id="p-0003" num="0003"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a rear elevational view thereof;</p>
+<p id="p-0004" num="0004"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a left side elevational view thereof;</p>
+<p id="p-0005" num="0005"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a right side elevational view thereof;</p>
+<p id="p-0006" num="0006"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is a top view thereof;</p>
+<p id="p-0007" num="0007"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is a bottom view thereof;</p>
+<p id="p-0008" num="0008"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is a reference drawing that explains the state of use of the design;</p>
+<p id="p-0009" num="0009"><figref idref="DRAWINGS">FIG. <b>9</b></figref> is a side view thereof;</p>
+<p id="p-0010" num="0010"><figref idref="DRAWINGS">FIG. <b>10</b></figref> is a side view thereof, shown in an alternate position;</p>
+<p id="p-0011" num="0011"><figref idref="DRAWINGS">FIG. <b>11</b></figref> is a side view thereof, shown in another alternate position;</p>
+<p id="p-0012" num="0012"><figref idref="DRAWINGS">FIG. <b>12</b></figref> is a side view thereof; and,</p>
+<p id="p-0013" num="0013"><figref idref="DRAWINGS">FIG. <b>13</b></figref> is a side view thereof, shown in another alternate position.</p>
+<p id="p-0014" num="0014">The broken lines contained in <figref idref="DRAWINGS">FIGS. <b>8</b>-<b>13</b></figref> are for the purpose of illustrating the environmental structure and form no part of the claimed design.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>I claim the ornamental design for a video recorder for vehicle, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

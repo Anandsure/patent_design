@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v47-2022-02-17.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.7 2022-02-17" file="USD0984912-20230502.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20230412" date-publ="20230502">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0984912</doc-number>
+<kind>S1</kind>
+<date>20230502</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>29767204</doc-number>
+<date>20210121</date>
+</document-id>
+</application-reference>
+<us-application-series-code>29</us-application-series-code>
+<us-term-of-grant>
+<length-of-grant>15</length-of-grant>
+</us-term-of-grant>
+<classification-locarno>
+<edition>14</edition>
+<main-classification>1004</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D10 71</main-classification>
+</classification-national>
+<invention-title id="d2e53">Corn ruler</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>325134</doc-number>
+<kind>A</kind>
+<name>Wainwright</name>
+<date>18850800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>679599</doc-number>
+<kind>A</kind>
+<name>Campbell</name>
+<date>19010700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>G03G 7/0006</classification-cpc-text>
+<classification-national><country>US</country><main-classification>D10 71</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>1607097</doc-number>
+<kind>A</kind>
+<name>Murphy</name>
+<date>19261100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B43K 29/08</classification-cpc-text>
+<classification-national><country>US</country><main-classification>D10 71</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>2252311</doc-number>
+<kind>A</kind>
+<name>Ware</name>
+<date>19410800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>G01B 3/04</classification-cpc-text>
+<classification-national><country>US</country><main-classification> 33492</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>3242576</doc-number>
+<kind>A</kind>
+<name>Wheeler</name>
+<date>19660300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>3455028</doc-number>
+<kind>A</kind>
+<name>Murata</name>
+<date>19690700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B43L 7/00</classification-cpc-text>
+<classification-national><country>US</country><main-classification>D10 71</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>3492729</doc-number>
+<kind>A</kind>
+<name>Crain</name>
+<date>19700200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>D272421</doc-number>
+<kind>S</kind>
+<name>Sandel</name>
+<date>19840100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D10 71</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>5042168</doc-number>
+<kind>A</kind>
+<name>Kyle</name>
+<date>19910800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>5450678</doc-number>
+<kind>A</kind>
+<name>Check</name>
+<date>19950900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>5479719</doc-number>
+<kind>A</kind>
+<name>Liu</name>
+<date>19960100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B43L 7/04</classification-cpc-text>
+<classification-national><country>US</country><main-classification> 33464</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>6247240</doc-number>
+<kind>B1</kind>
+<name>Economaki</name>
+<date>20010600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>G01B 3/006</classification-cpc-text>
+<classification-national><country>US</country><main-classification> 33484</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>7543295</doc-number>
+<kind>B2</kind>
+<name>Silberman</name>
+<date>20090600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>8370075</doc-number>
+<kind>B2</kind>
+<name>Goldman</name>
+<date>20130200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>D682127</doc-number>
+<kind>S</kind>
+<name>Wood</name>
+<date>20130500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D10 71</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>20100083515</doc-number>
+<kind>A1</kind>
+<name>Wood</name>
+<date>20100400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B43L 7/00</classification-cpc-text>
+<classification-national><country>US</country><main-classification> 33483</main-classification></classification-national>
+</us-citation>
+</us-references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D10 62</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D10 64</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D10 71</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D10 74</main-classification>
+</classification-national>
+<classification-cpc-text>G01B 3/04</classification-cpc-text>
+<classification-cpc-text>G01B 3/02</classification-cpc-text>
+<classification-cpc-text>G01B 3/1003</classification-cpc-text>
+<classification-cpc-text>G01B 1/00</classification-cpc-text>
+<classification-cpc-text>G01B 3/1041</classification-cpc-text>
+<classification-cpc-text>G01B 11/02</classification-cpc-text>
+<classification-cpc-text>G01B 3/1084</classification-cpc-text>
+<classification-cpc-text>G01B 3/1089</classification-cpc-text>
+<classification-cpc-text>G01B 3/1092</classification-cpc-text>
+<classification-cpc-text>G01B 3/1004</classification-cpc-text>
+<classification-cpc-text>G01B 2003/1097</classification-cpc-text>
+<classification-cpc-text>G01B 3/10</classification-cpc-text>
+<classification-cpc-text>G01B 5/02</classification-cpc-text>
+<classification-cpc-text>G01B 21/02</classification-cpc-text>
+<classification-cpc-text>G01B 5/06</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>6</number-of-drawing-sheets>
+<number-of-figures>7</number-of-figures>
+</figures>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only">
+<addressbook>
+<last-name>Huggart</last-name>
+<first-name>Thomas</first-name>
+<address>
+<city>Treherne</city>
+<country>CA</country>
+</address>
+</addressbook>
+<residence>
+<country>CA</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Huggart</last-name>
+<first-name>Thomas</first-name>
+<address>
+<city>Treherne</city>
+<country>CA</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<examiners>
+<primary-examiner>
+<last-name>Kirschbaum</last-name>
+<first-name>George D.</first-name>
+<department>2922</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Windham</last-name>
+<first-name>Lillian</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="182.46mm" wi="81.03mm" file="USD0984912-20230502-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="195.41mm" wi="43.26mm" file="USD0984912-20230502-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="195.41mm" wi="43.26mm" file="USD0984912-20230502-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="195.41mm" wi="43.26mm" file="USD0984912-20230502-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="195.41mm" wi="42.76mm" file="USD0984912-20230502-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="129.88mm" wi="43.26mm" file="USD0984912-20230502-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="172.89mm" wi="41.91mm" file="USD0984912-20230502-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a front view of a corn ruler showing my new design;</p>
+<p id="p-0002" num="0002"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a rear view of the corn ruler;</p>
+<p id="p-0003" num="0003"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a right side view of the corn ruler;</p>
+<p id="p-0004" num="0004"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a left side view of the corn ruler;</p>
+<p id="p-0005" num="0005"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a top view of the corn ruler;</p>
+<p id="p-0006" num="0006"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is a bottom view of the corn ruler; and,</p>
+<p id="p-0007" num="0007"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is a top front side perspective view of the corn ruler.</p>
+<p id="p-0008" num="0008">The cutaway symbols illustrated in broken lines in the drawings indicate a symbolic break in the length of the design for the corn ruler. The appearance of any portion of the article between the break lines forms no part of the claimed design.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>The ornamental design for a corn ruler, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

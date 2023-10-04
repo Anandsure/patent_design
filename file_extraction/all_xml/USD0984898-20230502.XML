@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v47-2022-02-17.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.7 2022-02-17" file="USD0984898-20230502.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20230411" date-publ="20230502">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0984898</doc-number>
+<kind>S1</kind>
+<date>20230502</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>29724336</doc-number>
+<date>20200214</date>
+</document-id>
+</application-reference>
+<us-application-series-code>29</us-application-series-code>
+<us-term-of-grant>
+<length-of-grant>15</length-of-grant>
+<disclaimer>
+<text>This patent is subject to a terminal disclaimer.</text>
+</disclaimer>
+</us-term-of-grant>
+<classification-locarno>
+<edition>14</edition>
+<main-classification>0901</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D 9552</main-classification>
+<further-classification> D9543</further-classification>
+<further-classification> D9564</further-classification>
+</classification-national>
+<invention-title id="d2e55">Bottle</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>D99374</doc-number>
+<kind>S</kind>
+<name>Smith</name>
+<date>19360400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9563</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>D263373</doc-number>
+<kind>S</kind>
+<name>Howard</name>
+<date>19820300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9563</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>D321133</doc-number>
+<kind>S</kind>
+<name>Wiseman</name>
+<date>19911000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9575</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>D357416</doc-number>
+<kind>S</kind>
+<name>Valentine</name>
+<date>19950400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9516</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>D412849</doc-number>
+<kind>S</kind>
+<name>Fuquen</name>
+<date>19990800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9542</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>D423367</doc-number>
+<kind>S</kind>
+<name>Richiger</name>
+<date>20000400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9557</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>6838138</doc-number>
+<kind>B1</kind>
+<name>Akiyama</name>
+<date>20050100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B65D 23/00</classification-cpc-text>
+<classification-national><country>US</country><main-classification>1563031</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>D526902</doc-number>
+<kind>S</kind>
+<name>Cummings</name>
+<date>20060800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9558</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>D529814</doc-number>
+<kind>S</kind>
+<name>Winkler</name>
+<date>20061000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9563</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>D554520</doc-number>
+<kind>S</kind>
+<name>Kunesh</name>
+<date>20071100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9570</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>D554521</doc-number>
+<kind>S</kind>
+<name>Williams</name>
+<date>20071100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9570</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>D555004</doc-number>
+<kind>S</kind>
+<name>Nukuto</name>
+<date>20071100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9570</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>D559117</doc-number>
+<kind>S</kind>
+<name>Nukuto</name>
+<date>20080100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9570</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>D590719</doc-number>
+<kind>S</kind>
+<name>Zwolbar</name>
+<date>20090400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9558</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>D602782</doc-number>
+<kind>S</kind>
+<name>Lepoitevin</name>
+<date>20091000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9453</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>D643731</doc-number>
+<kind>S</kind>
+<name>Booth</name>
+<date>20110800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9570</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>D643732</doc-number>
+<kind>S</kind>
+<name>Cummings</name>
+<date>20110800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9569</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>D773308</doc-number>
+<kind>S</kind>
+<name>Beckerman</name>
+<date>20161200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9530</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>D799330</doc-number>
+<kind>S</kind>
+<name>Burgbacher</name>
+<date>20171000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9542</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>D828174</doc-number>
+<kind>S</kind>
+<name>Oates</name>
+<date>20180900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9543</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>D920801</doc-number>
+<kind>S</kind>
+<name>Davis</name>
+<date>20210600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9563</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>D920802</doc-number>
+<kind>S</kind>
+<name>Davis</name>
+<date>20210600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9571</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>D920803</doc-number>
+<kind>S</kind>
+<name>Davis</name>
+<date>20210600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9571</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>D940563</doc-number>
+<kind>S</kind>
+<name>Davis</name>
+<date>20220100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9682</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>D951098</doc-number>
+<kind>S</kind>
+<name>Macias Mejia</name>
+<date>20220500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9552</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>D958661</doc-number>
+<kind>S</kind>
+<name>Safiullah</name>
+<date>20220700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9520</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>20130140264</doc-number>
+<kind>A1</kind>
+<name>Hanan</name>
+<date>20130600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B65D 1/44</classification-cpc-text>
+<classification-national><country>US</country><main-classification>215384</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00028">
+<document-id>
+<country>EM</country>
+<doc-number>008113369-0001</doc-number>
+<date>20200800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00029">
+<othercit>Colgate Peroxyl Mouth Sore Rinse Mild Mint&#x2014;16.9 Fl Oz (Pack of 2) Online, published date Dec. 4, 2018. Retrieved on Jul. 29, 2022 from URL: https://www.amazon.com/Colgate-Peroxyl-Mouth-Sore-Rinse/dp/B081HWGPT7.</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+</us-references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D 9434-435</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9439</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9447</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9449</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9450</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9452-454</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9516</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9523</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9524</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9528-531</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9541-544</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9549-551</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9558-560</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9563</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9565</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9566</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9571-575</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9605</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9611</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9626</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9632</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9645</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9649</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9682</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9686</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9687</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9693</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9694</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9715</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9719</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9552</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9564</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 7509</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 76191</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 3202</main-classification>
+</classification-national>
+<classification-cpc-text>B65D 1/46</classification-cpc-text>
+<classification-cpc-text>B65D 1/0223</classification-cpc-text>
+<classification-cpc-text>B65D 21/0202</classification-cpc-text>
+<classification-cpc-text>B65D 21/0205</classification-cpc-text>
+<classification-cpc-text>B65D 23/00</classification-cpc-text>
+<classification-cpc-text>B65D 23/0864</classification-cpc-text>
+<classification-cpc-text>B65D 23/102</classification-cpc-text>
+<classification-cpc-text>B65D 71/508</classification-cpc-text>
+<classification-cpc-text>B65D 2501/0027</classification-cpc-text>
+<classification-cpc-text>B65D 2501/0045</classification-cpc-text>
+<classification-cpc-text>B65D 2501/0081</classification-cpc-text>
+<classification-cpc-text>Y10T 428/13</classification-cpc-text>
+<classification-cpc-text>Y10T 428/139</classification-cpc-text>
+<classification-cpc-text>Y10T 428/1352</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>12</number-of-drawing-sheets>
+<number-of-figures>16</number-of-figures>
+</figures>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Colgate-Palmolive Company</orgname>
+<address>
+<city>New York</city>
+<state>NY</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Macias Mejia</last-name>
+<first-name>Claudia Daniela</first-name>
+<address>
+<city>New York</city>
+<state>NY</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="002" designation="us-only">
+<addressbook>
+<last-name>Xoy</last-name>
+<first-name>Oscar</first-name>
+<address>
+<city>New Brunswick</city>
+<state>NJ</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="003" designation="us-only">
+<addressbook>
+<last-name>Nicholls</last-name>
+<first-name>Dale</first-name>
+<address>
+<city>Oxfordshire</city>
+<country>GB</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Colgate-Palmolive Company</orgname>
+<role>02</role>
+<address>
+<city>New York</city>
+<state>NY</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Liang</last-name>
+<first-name>Jae</first-name>
+<department>2913</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Mendoza</last-name>
+<first-name>Royner</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="169.76mm" wi="67.90mm" file="USD0984898-20230502-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="216.83mm" wi="69.93mm" file="USD0984898-20230502-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="204.98mm" wi="69.85mm" file="USD0984898-20230502-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="209.04mm" wi="82.13mm" file="USD0984898-20230502-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="209.04mm" wi="82.13mm" file="USD0984898-20230502-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="209.04mm" wi="131.06mm" file="USD0984898-20230502-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="166.20mm" wi="82.13mm" file="USD0984898-20230502-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="216.83mm" wi="69.93mm" file="USD0984898-20230502-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="204.98mm" wi="69.85mm" file="USD0984898-20230502-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="209.04mm" wi="82.13mm" file="USD0984898-20230502-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="209.04mm" wi="82.13mm" file="USD0984898-20230502-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="209.04mm" wi="131.06mm" file="USD0984898-20230502-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="166.20mm" wi="82.13mm" file="USD0984898-20230502-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a front perspective view of a bottle according to a first embodiment of the new design;</p>
+<p id="p-0002" num="0002"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a rear perspective view thereof;</p>
+<p id="p-0003" num="0003"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a front view thereof;</p>
+<p id="p-0004" num="0004"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a rear view thereof;</p>
+<p id="p-0005" num="0005"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a left side view thereof,</p>
+<p id="p-0006" num="0006"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is a right side view thereof;</p>
+<p id="p-0007" num="0007"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is a top plan view thereof;</p>
+<p id="p-0008" num="0008"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is a bottom plan view thereof;</p>
+<p id="p-0009" num="0009"><figref idref="DRAWINGS">FIG. <b>9</b></figref> is a front perspective view of a bottle according to a second embodiment of the new design;</p>
+<p id="p-0010" num="0010"><figref idref="DRAWINGS">FIG. <b>10</b></figref> is a rear perspective view thereof;</p>
+<p id="p-0011" num="0011"><figref idref="DRAWINGS">FIG. <b>11</b></figref> is a front view thereof;</p>
+<p id="p-0012" num="0012"><figref idref="DRAWINGS">FIG. <b>12</b></figref> is a rear view thereof;</p>
+<p id="p-0013" num="0013"><figref idref="DRAWINGS">FIG. <b>13</b></figref> is a left side view thereof,</p>
+<p id="p-0014" num="0014"><figref idref="DRAWINGS">FIG. <b>14</b></figref> is a right side view thereof;</p>
+<p id="p-0015" num="0015"><figref idref="DRAWINGS">FIG. <b>15</b></figref> is a top plan top view thereof; and,</p>
+<p id="p-0016" num="0016"><figref idref="DRAWINGS">FIG. <b>16</b></figref> is a bottom plan view thereof.</p>
+<p id="p-0017" num="0017">The dashed broken lines illustrate portions of the bottle that form no part of the claimed design. The dot dash dot broken lines depict the boundaries of the claim and form no part of the claimed design.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>The ornamental design for a bottle, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

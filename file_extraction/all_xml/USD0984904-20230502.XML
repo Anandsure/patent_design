@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v47-2022-02-17.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.7 2022-02-17" file="USD0984904-20230502.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20230412" date-publ="20230502">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0984904</doc-number>
+<kind>S1</kind>
+<date>20230502</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>29845162</doc-number>
+<date>20220705</date>
+</document-id>
+</application-reference>
+<us-application-series-code>29</us-application-series-code>
+<us-term-of-grant>
+<length-of-grant>15</length-of-grant>
+</us-term-of-grant>
+<classification-locarno>
+<edition>14</edition>
+<main-classification>0905</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D 9711</main-classification>
+</classification-national>
+<invention-title id="d2e53">Silicone sleeve for a container</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>D378335</doc-number>
+<kind>S</kind>
+<name>Liebling</name>
+<date>19970300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 7622</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>6019245</doc-number>
+<kind>A</kind>
+<name>Foster</name>
+<date>20000200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B65D 81/3881</classification-cpc-text>
+<classification-national><country>US</country><main-classification>22059224</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>6029847</doc-number>
+<kind>A</kind>
+<name>Mahoney, Jr.</name>
+<date>20000200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A45C 11/20</classification-cpc-text>
+<classification-national><country>US</country><main-classification>22059224</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>D618065</doc-number>
+<kind>S</kind>
+<name>Joy</name>
+<date>20100600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 76242</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>D629259</doc-number>
+<kind>S</kind>
+<name>Joy</name>
+<date>20101200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 76242</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>D637917</doc-number>
+<kind>S</kind>
+<name>Deitelbaum</name>
+<date>20110500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9667</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>D643689</doc-number>
+<kind>S</kind>
+<name>Selina</name>
+<date>20110800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 76242</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>D709736</doc-number>
+<kind>S</kind>
+<name>Gooding</name>
+<date>20140700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 7622</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>D756707</doc-number>
+<kind>S</kind>
+<name>Hsu</name>
+<date>20160500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 7521</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>D771963</doc-number>
+<kind>S</kind>
+<name>Patel</name>
+<date>20161100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6352</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>D772656</doc-number>
+<kind>S</kind>
+<name>Joy</name>
+<date>20161100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 76242</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>D775897</doc-number>
+<kind>S</kind>
+<name>Knox</name>
+<date>20170100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 7532</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>D781113</doc-number>
+<kind>S</kind>
+<name>Kocsis</name>
+<date>20170300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 76242</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>D830786</doc-number>
+<kind>S</kind>
+<name>Miller</name>
+<date>20181000</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>D848799</doc-number>
+<kind>S</kind>
+<name>Appelbaum</name>
+<date>20190500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>D874879</doc-number>
+<kind>S</kind>
+<name>Hughes</name>
+<date>20200200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 7622</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>D885847</doc-number>
+<kind>S</kind>
+<name>Laustsen</name>
+<date>20200600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 76242</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>D899862</doc-number>
+<kind>S</kind>
+<name>Rane</name>
+<date>20201000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 7532</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>D900601</doc-number>
+<kind>S</kind>
+<name>Chen</name>
+<date>20201100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9430</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>D900671</doc-number>
+<kind>S</kind>
+<name>Saporiti</name>
+<date>20201100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D11152</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>D906055</doc-number>
+<kind>S</kind>
+<name>McCabe</name>
+<date>20201200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 76242</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>D929193</doc-number>
+<kind>S</kind>
+<name>McGinnis</name>
+<date>20210800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 76242</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>D932311</doc-number>
+<kind>S</kind>
+<name>Manderfield</name>
+<date>20211000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B65D 81/3881</classification-cpc-text>
+<classification-national><country>US</country><main-classification>D 9558</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>D932318</doc-number>
+<kind>S</kind>
+<name>Chen</name>
+<date>20211000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A45C 11/20</classification-cpc-text>
+<classification-national><country>US</country><main-classification>D 9711</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>D939287</doc-number>
+<kind>S</kind>
+<name>Vazquez</name>
+<date>20211200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B65D 3/22</classification-cpc-text>
+<classification-national><country>US</country><main-classification>D 76242</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>20070215626</doc-number>
+<kind>A1</kind>
+<name>Wright, Jr.</name>
+<date>20070900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B65D 3/22</classification-cpc-text>
+<classification-national><country>US</country><main-classification>220737</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00027">
+<document-id>
+<country>CA</country>
+<doc-number>162489</doc-number>
+<date>20160100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00028">
+<othercit>SHTCSZBA Silicone Sleeve Holder, posted at Amazon.com on Jul. 9, 2022, [site visited Feb. 6, 2023]. Available from internet, URL: &#x3c;https://www.amazon.com/SHTCSZBA-Silicone-Tumblers-Tumbler-Corkcicle/dp/B0B65V24NS?th=1&#x3e; (Year: 2022).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00029">
+<othercit>REUZBL Silicone Sleeve with Handle, posted at Amazon.com on Aug. 2, 2019, [site visited Feb. 9, 2019]. Available from internet, URL: &#x3c;https://www.amazon.ca/REUZBL-Rambler-Tumbler-Silicone-Seafoam/dp/B07VD2KB73?th=1&#x3e; (Year: 2019).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00030">
+<othercit>Gangster Armor Grip, posted at Amazon.com on Jan. 21, 2021, [site visited Feb. 9, 2023]. Available from internet, URL: &#x3c;https://www.amazon.com/Gangster-Simple-Tumbler-silicone-sleeve/dp/B089CG11P4/&#x3e; (Year: 2021).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+</us-references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D 9434</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9435</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9436</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9437</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9438</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9439</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9440</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9441</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9442</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9444</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9446</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9447</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9451</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9452</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9453</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9454</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9711</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 3202</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 3229</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 7387</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 7393</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 73961</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 73962</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 7397</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 7398</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 76191</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 7622</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 76241</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 76242</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 7701</main-classification>
+</classification-national>
+<classification-cpc-text>A45C 2200/20</classification-cpc-text>
+<classification-cpc-text>A45F 3/16</classification-cpc-text>
+<classification-cpc-text>A45F 5/00</classification-cpc-text>
+<classification-cpc-text>A45F 5/02</classification-cpc-text>
+<classification-cpc-text>A47G 23/02</classification-cpc-text>
+<classification-cpc-text>A47G 23/0208</classification-cpc-text>
+<classification-cpc-text>A47G 23/0216</classification-cpc-text>
+<classification-cpc-text>A47G 23/0241</classification-cpc-text>
+<classification-cpc-text>A47G 23/0266</classification-cpc-text>
+<classification-cpc-text>A47G 23/0275</classification-cpc-text>
+<classification-cpc-text>A47G 23/0283</classification-cpc-text>
+<classification-cpc-text>A47G 23/0291</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>8</number-of-drawing-sheets>
+<number-of-figures>8</number-of-figures>
+</figures>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Shenzhen Sanhetongchuang Intelligent Technology Co., Ltd.</orgname>
+<address>
+<city>Shenzhen</city>
+<country>CN</country>
+</address>
+</addressbook>
+<residence>
+<country>CN</country>
+</residence>
+</us-applicant>
+<us-applicant sequence="002" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<last-name>Gan</last-name>
+<first-name>Fei</first-name>
+<address>
+<city>Guangdong</city>
+<country>CN</country>
+</address>
+</addressbook>
+<residence>
+<country>CN</country>
+</residence>
+</us-applicant>
+<us-applicant sequence="003" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<last-name>Jiang</last-name>
+<first-name>Hua</first-name>
+<address>
+<city>Guangdong</city>
+<country>CN</country>
+</address>
+</addressbook>
+<residence>
+<country>CN</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Gan</last-name>
+<first-name>Fei</first-name>
+<address>
+<city>Guangdong</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="002" designation="us-only">
+<addressbook>
+<last-name>Jiang</last-name>
+<first-name>Hua</first-name>
+<address>
+<city>Guangdong</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>ScienBiziP, P.C.</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Shenzhen Sanhetongchuang Intelligent Technology Co., Ltd.</orgname>
+<role>03</role>
+<address>
+<city>Shenzhen</city>
+<country>CN</country>
+</address>
+</addressbook>
+</assignee>
+<assignee>
+<addressbook>
+<last-name>Gan</last-name>
+<first-name>Fei</first-name>
+<role>05</role>
+<address>
+<city>Guangdong</city>
+<country>CN</country>
+</address>
+</addressbook>
+</assignee>
+<assignee>
+<addressbook>
+<last-name>Jiang</last-name>
+<first-name>Hua</first-name>
+<role>05</role>
+<address>
+<city>Guangdong</city>
+<country>CN</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Kerr</last-name>
+<first-name>Andrew</first-name>
+<department>2914</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Alexakis</last-name>
+<first-name>Chariton</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="150.20mm" wi="134.54mm" file="USD0984904-20230502-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="189.82mm" wi="136.57mm" file="USD0984904-20230502-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="195.58mm" wi="136.48mm" file="USD0984904-20230502-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="178.82mm" wi="100.33mm" file="USD0984904-20230502-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="172.04mm" wi="100.33mm" file="USD0984904-20230502-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="189.48mm" wi="142.66mm" file="USD0984904-20230502-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="188.81mm" wi="142.66mm" file="USD0984904-20230502-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="189.15mm" wi="100.25mm" file="USD0984904-20230502-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="178.31mm" wi="100.25mm" file="USD0984904-20230502-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a front, right and top perspective view of a silicone sleeve for a container, showing our design.</p>
+<p id="p-0002" num="0002"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a rear, left and bottom perspective view thereof.</p>
+<p id="p-0003" num="0003"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a front elevation view thereof.</p>
+<p id="p-0004" num="0004"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a rear elevation view thereof.</p>
+<p id="p-0005" num="0005"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a left side elevation view thereof.</p>
+<p id="p-0006" num="0006"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is a right side elevation view thereof.</p>
+<p id="p-0007" num="0007"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is a top plan view thereof; and,</p>
+<p id="p-0008" num="0008"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is a bottom plan view thereof.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>The ornamental design for a silicone sleeve for a container, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

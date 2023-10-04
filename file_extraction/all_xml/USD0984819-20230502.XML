@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v47-2022-02-17.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.7 2022-02-17" file="USD0984819-20230502.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20230412" date-publ="20230502">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0984819</doc-number>
+<kind>S1</kind>
+<date>20230502</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>35513876</doc-number>
+<date>20220310</date>
+</document-id>
+</application-reference>
+<us-application-series-code>35</us-application-series-code>
+<us-term-of-grant>
+<length-of-grant>15</length-of-grant>
+</us-term-of-grant>
+<classification-locarno>
+<edition>14</edition>
+<main-classification>0601</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D 6377</main-classification>
+</classification-national>
+<invention-title id="d2e53">Couch</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>D180141</doc-number>
+<kind>S</kind>
+<name>Futorian</name>
+<date>19570400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6377</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>D180183</doc-number>
+<kind>S</kind>
+<name>Gera</name>
+<date>19570400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6377</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>D183413</doc-number>
+<kind>S</kind>
+<name>Wilson</name>
+<date>19580800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6377</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>D210454</doc-number>
+<kind>S</kind>
+<name>Kagan</name>
+<date>19680300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6374</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>D228325</doc-number>
+<kind>S</kind>
+<name>Korch</name>
+<date>19730900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6377</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>4437704</doc-number>
+<kind>A</kind>
+<name>Hovsepians</name>
+<date>19840300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A47C 4/02</classification-cpc-text>
+<classification-national><country>US</country><main-classification>29744017</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>D288507</doc-number>
+<kind>S</kind>
+<name>Evans</name>
+<date>19870300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6383</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>D321797</doc-number>
+<kind>S</kind>
+<name>Paris</name>
+<date>19911100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6381</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>D414003</doc-number>
+<kind>S</kind>
+<name>Hering</name>
+<date>19990900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D30118</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>D427445</doc-number>
+<kind>S</kind>
+<name>Gomez</name>
+<date>20000700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6377</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>6779211</doc-number>
+<kind>B1</kind>
+<name>Williams</name>
+<date>20040800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A47D 13/08</classification-cpc-text>
+<classification-national><country>US</country><main-classification>  5640</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>D508615</doc-number>
+<kind>S</kind>
+<name>Natuzzi</name>
+<date>20050800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6361</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>D514349</doc-number>
+<kind>S</kind>
+<name>Natuzzi</name>
+<date>20060200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6381</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>D555383</doc-number>
+<kind>S</kind>
+<name>Borgonovo</name>
+<date>20071100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6381</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>D562022</doc-number>
+<kind>S</kind>
+<name>Hackethal</name>
+<date>20080200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6381</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>D574162</doc-number>
+<kind>S</kind>
+<name>Hoppert</name>
+<date>20080800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6381</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>D588390</doc-number>
+<kind>S</kind>
+<name>Brill-Cass</name>
+<date>20090300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6601</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>D591071</doc-number>
+<kind>S</kind>
+<name>Weiss</name>
+<date>20090400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6381</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>D685531</doc-number>
+<kind>S</kind>
+<name>Wozniak</name>
+<date>20130700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6601</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>D698172</doc-number>
+<kind>S</kind>
+<name>Ciani</name>
+<date>20140100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6377</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>D701704</doc-number>
+<kind>S</kind>
+<name>Maier</name>
+<date>20140400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6377</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>D736535</doc-number>
+<kind>S</kind>
+<name>Foersom</name>
+<date>20150800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6377</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>D764825</doc-number>
+<kind>S</kind>
+<name>Grcic</name>
+<date>20160800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6375</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>D850137</doc-number>
+<kind>S</kind>
+<name>Lissoni</name>
+<date>20190600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6377</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>D858131</doc-number>
+<kind>S</kind>
+<name>Celestino</name>
+<date>20190900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6381</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>D863810</doc-number>
+<kind>S</kind>
+<name>Citterio</name>
+<date>20191000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6377</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>D863812</doc-number>
+<kind>S</kind>
+<name>Citterio</name>
+<date>20191000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6377</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00028">
+<document-id>
+<country>US</country>
+<doc-number>D871791</doc-number>
+<kind>S</kind>
+<name>Carter</name>
+<date>20200100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6377</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00029">
+<document-id>
+<country>US</country>
+<doc-number>D878795</doc-number>
+<kind>S</kind>
+<name>Lipparini</name>
+<date>20200300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6377</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00030">
+<document-id>
+<country>US</country>
+<doc-number>D878796</doc-number>
+<kind>S</kind>
+<name>Gabbertas</name>
+<date>20200300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6378</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00031">
+<document-id>
+<country>US</country>
+<doc-number>D878797</doc-number>
+<kind>S</kind>
+<name>Killinger</name>
+<date>20200300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6381</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00032">
+<document-id>
+<country>US</country>
+<doc-number>D885075</doc-number>
+<kind>S</kind>
+<name>Dorner</name>
+<date>20200500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6377</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00033">
+<document-id>
+<country>US</country>
+<doc-number>D887163</doc-number>
+<kind>S</kind>
+<name>Grossinger</name>
+<date>20200600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6381</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00034">
+<document-id>
+<country>US</country>
+<doc-number>D887164</doc-number>
+<kind>S</kind>
+<name>Grossinger</name>
+<date>20200600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6381</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00035">
+<document-id>
+<country>US</country>
+<doc-number>D888446</doc-number>
+<kind>S</kind>
+<name>Grossinger</name>
+<date>20200600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6357</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00036">
+<document-id>
+<country>US</country>
+<doc-number>D888448</doc-number>
+<kind>S</kind>
+<name>Grossinger</name>
+<date>20200600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6381</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00037">
+<document-id>
+<country>US</country>
+<doc-number>D888457</doc-number>
+<kind>S</kind>
+<name>Grossinger</name>
+<date>20200600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6381</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00038">
+<document-id>
+<country>US</country>
+<doc-number>D897715</doc-number>
+<kind>S</kind>
+<name>Smrstick</name>
+<date>20201000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6377</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00039">
+<document-id>
+<country>US</country>
+<doc-number>D933989</doc-number>
+<kind>S</kind>
+<name>Binfar&#xe8;</name>
+<date>20211000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6377</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00040">
+<document-id>
+<country>US</country>
+<doc-number>D938185</doc-number>
+<kind>S</kind>
+<name>Citterio</name>
+<date>20211200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6381</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00041">
+<document-id>
+<country>US</country>
+<doc-number>D960603</doc-number>
+<kind>S</kind>
+<name>H&#xf8;jfeldt</name>
+<date>20220800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6377</main-classification></classification-national>
+</us-citation>
+</us-references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D 6361</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6377</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6378</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6381</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D30118</main-classification>
+</classification-national>
+<classification-cpc-text>A47C 3/14</classification-cpc-text>
+<classification-cpc-text>A47C 3/16</classification-cpc-text>
+<classification-cpc-text>A47C 4/028</classification-cpc-text>
+<classification-cpc-text>A47C 4/54</classification-cpc-text>
+<classification-cpc-text>A47C 5/12</classification-cpc-text>
+<classification-cpc-text>A47C 5/125</classification-cpc-text>
+<classification-cpc-text>A47C 17/00</classification-cpc-text>
+<classification-cpc-text>A47C 17/02</classification-cpc-text>
+<classification-cpc-text>A47C 17/04</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>7</number-of-drawing-sheets>
+<number-of-figures>7</number-of-figures>
+</figures>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only">
+<addressbook>
+<orgname>TECNOPIU' SRL</orgname>
+<address>
+<city>Monza</city>
+<country>IT</country>
+</address>
+</addressbook>
+<residence>
+<country>IT</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Hamdan</last-name>
+<first-name>Jwana</first-name>
+<address>
+<city>Monza</city>
+<country>IT</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>ArentFox Schiff LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>TECNOPIU' SRL</orgname>
+<role>03</role>
+<address>
+<city>Monza</city>
+<country>IT</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Rudzinski</last-name>
+<first-name>Kevin K</first-name>
+<department>2924</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Bohannon</last-name>
+<first-name>Paul D</first-name>
+</assistant-examiner>
+</examiners>
+<hague-agreement-data>
+<international-filing-date><date>20220310</date></international-filing-date>
+<international-registration-publication-date><date>20220325</date></international-registration-publication-date>
+<international-registration-number>DM/219576</international-registration-number>
+<international-registration-date><date>20220310</date></international-registration-date>
+</hague-agreement-data>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="60.11mm" wi="158.75mm" file="USD0984819-20230502-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="143.93mm" wi="195.33mm" file="USD0984819-20230502-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="133.60mm" wi="183.22mm" file="USD0984819-20230502-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="133.60mm" wi="149.86mm" file="USD0984819-20230502-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="134.03mm" wi="179.83mm" file="USD0984819-20230502-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="134.03mm" wi="142.41mm" file="USD0984819-20230502-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="156.04mm" wi="178.22mm" file="USD0984819-20230502-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="155.87mm" wi="179.41mm" file="USD0984819-20230502-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001">1. Couch</p>
+<p id="p-0002" num="0002"><figref idref="DRAWINGS"><b>1</b>.<b>1</b> </figref>: Perspective</p>
+<p id="p-0003" num="0003"><figref idref="DRAWINGS"><b>1</b>.<b>2</b> </figref>: Rear view</p>
+<p id="p-0004" num="0004"><figref idref="DRAWINGS"><b>1</b>.<b>3</b> </figref>: First side view</p>
+<p id="p-0005" num="0005"><figref idref="DRAWINGS"><b>1</b>.<b>4</b> </figref>: Front</p>
+<p id="p-0006" num="0006"><figref idref="DRAWINGS"><b>1</b>.<b>5</b> </figref>: Second side view</p>
+<p id="p-0007" num="0007"><figref idref="DRAWINGS"><b>1</b>.<b>6</b> </figref>: Top</p>
+<p id="p-0008" num="0008"><figref idref="DRAWINGS"><b>1</b>.<b>7</b> </figref>: Bottom</p>
+<p id="p-0009" num="0009">Couch having a back portion formed by two cylindrical cushions.</p>
+<p id="p-0010" num="0010">The broken lines shown in the drawings illustrate portions of the article that form no part of the claimed design.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>The ornamental design for a couch, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

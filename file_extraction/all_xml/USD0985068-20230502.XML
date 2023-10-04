@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v47-2022-02-17.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.7 2022-02-17" file="USD0985068-20230502.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20230412" date-publ="20230502">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0985068</doc-number>
+<kind>S1</kind>
+<date>20230502</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>29752424</doc-number>
+<date>20200927</date>
+</document-id>
+</application-reference>
+<us-application-series-code>29</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>KR</country>
+<doc-number>30-2020-0013825</doc-number>
+<date>20200327</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<length-of-grant>15</length-of-grant>
+</us-term-of-grant>
+<classification-locarno>
+<edition>14</edition>
+<main-classification>2101</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D21478</main-classification>
+</classification-national>
+<invention-title id="d2e71">Puzzle cube</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>4437667</doc-number>
+<kind>A</kind>
+<name>Miller</name>
+<date>19840300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A63F 9/0842</classification-cpc-text>
+<classification-national><country>US</country><main-classification>273153 S</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>4872682</doc-number>
+<kind>A</kind>
+<name>Kuchimanchi</name>
+<date>19891000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A63F 9/083</classification-cpc-text>
+<classification-national><country>US</country><main-classification>273153 S</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>5992850</doc-number>
+<kind>A</kind>
+<name>Li</name>
+<date>19991100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A63F 9/0826</classification-cpc-text>
+<classification-national><country>US</country><main-classification>273153 S</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>6186860</doc-number>
+<kind>B1</kind>
+<name>Liao</name>
+<date>20010200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A63F 9/001</classification-cpc-text>
+<classification-national><country>US</country><main-classification>273153 S</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>6422560</doc-number>
+<kind>B1</kind>
+<name>Harbaugh</name>
+<date>20020700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A63F 9/1204</classification-cpc-text>
+<classification-national><country>US</country><main-classification>273153 S</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>D474691</doc-number>
+<kind>S</kind>
+<name>Gruosi-Scheufele</name>
+<date>20030500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9529</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>D495378</doc-number>
+<kind>S</kind>
+<name>Sugden</name>
+<date>20040800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D21478</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>D528607</doc-number>
+<kind>S</kind>
+<name>Sugden</name>
+<date>20060900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D21478</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>D593976</doc-number>
+<kind>S</kind>
+<name>Liaw</name>
+<date>20090600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14126</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>D655762</doc-number>
+<kind>S</kind>
+<name>Munasur</name>
+<date>20120300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D21373</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>D729323</doc-number>
+<kind>S</kind>
+<name>Kinlay</name>
+<date>20150500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D21478</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>9101822</doc-number>
+<kind>B2</kind>
+<name>Liu</name>
+<date>20150800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A63F 9/0826</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>D818055</doc-number>
+<kind>S</kind>
+<name>Xie</name>
+<date>20180500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D21499</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>10765932</doc-number>
+<kind>B1</kind>
+<name>Tsai</name>
+<date>20200900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A63F 7/042</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>D902320</doc-number>
+<kind>S</kind>
+<name>Garrett</name>
+<date>20201100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D21478</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>11077359</doc-number>
+<kind>B1</kind>
+<name>Wigh</name>
+<date>20210800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A63F 9/0842</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>11311794</doc-number>
+<kind>B2</kind>
+<name>Limaye</name>
+<date>20220400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A63F 9/0612</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>11311795</doc-number>
+<kind>B1</kind>
+<name>Lee</name>
+<date>20220400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A63F 9/34</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>D962348</doc-number>
+<kind>S</kind>
+<name>Osipov</name>
+<date>20220800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D21336</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>20050184458</doc-number>
+<kind>A1</kind>
+<name>Sugden</name>
+<date>20050800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A63F 9/0842</classification-cpc-text>
+<classification-national><country>US</country><main-classification>273153 S</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>20070267813</doc-number>
+<kind>A1</kind>
+<name>Horowitz</name>
+<date>20071100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A63F 9/0842</classification-cpc-text>
+<classification-national><country>US</country><main-classification>273153 S</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>20080070657</doc-number>
+<kind>A1</kind>
+<name>Kratz</name>
+<date>20080300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A63F 9/24</classification-cpc-text>
+<classification-national><country>US</country><main-classification>463  9</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>20110042892</doc-number>
+<kind>A1</kind>
+<name>Pineda</name>
+<date>20110200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A63F 9/12</classification-cpc-text>
+<classification-national><country>US</country><main-classification>273153 S</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>20120013072</doc-number>
+<kind>A1</kind>
+<name>Loveland</name>
+<date>20120100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A63F 9/1204</classification-cpc-text>
+<classification-national><country>US</country><main-classification>273157 R</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>20120184341</doc-number>
+<kind>A1</kind>
+<name>Dai</name>
+<date>20120700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A63F 9/0842</classification-cpc-text>
+<classification-national><country>US</country><main-classification>463  9</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>20120268924</doc-number>
+<kind>A1</kind>
+<name>Whang</name>
+<date>20121000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A63F 9/0842</classification-cpc-text>
+<classification-national><country>US</country><main-classification>362184</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>20120302303</doc-number>
+<kind>A1</kind>
+<name>Rosendo</name>
+<date>20121100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A63F 9/0842</classification-cpc-text>
+<classification-national><country>US</country><main-classification>463  9</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00028">
+<document-id>
+<country>US</country>
+<doc-number>20150076766</doc-number>
+<kind>A1</kind>
+<name>Liu</name>
+<date>20150300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A63F 9/0826</classification-cpc-text>
+<classification-national><country>US</country><main-classification>273153 S</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00029">
+<document-id>
+<country>US</country>
+<doc-number>20190374849</doc-number>
+<kind>A1</kind>
+<name>Limaye</name>
+<date>20191200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A63F 9/0842</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00030">
+<document-id>
+<country>US</country>
+<doc-number>20220072414</doc-number>
+<kind>A1</kind>
+<name>Su</name>
+<date>20220300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A63F 9/0838</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00031">
+<document-id>
+<country>US</country>
+<doc-number>20220143492</doc-number>
+<kind>A1</kind>
+<name>Lee</name>
+<date>20220500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A63F 9/24</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00032">
+<document-id>
+<country>US</country>
+<doc-number>20220241679</doc-number>
+<kind>A1</kind>
+<name>Cornia</name>
+<date>20220800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A63F 3/00214</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00033">
+<document-id>
+<country>US</country>
+<doc-number>20220288486</doc-number>
+<kind>A1</kind>
+<name>Kaburagi</name>
+<date>20220900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A63F 9/0842</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00034">
+<document-id>
+<country>CN</country>
+<doc-number>3624289</doc-number>
+<date>20070300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<patcit num="00035">
+<document-id>
+<country>CN</country>
+<doc-number>302044568</doc-number>
+<date>20120800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<patcit num="00036">
+<document-id>
+<country>CN</country>
+<doc-number>303240287</doc-number>
+<date>20150600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<patcit num="00037">
+<document-id>
+<country>CN</country>
+<doc-number>304888180</doc-number>
+<date>20181100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<patcit num="00038">
+<document-id>
+<country>FR</country>
+<doc-number>820238-001</doc-number>
+<date>19820300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<patcit num="00039">
+<document-id>
+<country>JP</country>
+<doc-number>D1632762</doc-number>
+<date>20190600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00040">
+<othercit>Geniewoos Junecube, available on Facebook.com, updated cover photo posted Apr. 21, 2019, [site visited Jan. 7, 2022], URL: https://www.facebook.com/junecubeforjuniors (Year: 2019).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00041">
+<othercit>June Cube, available on YouTube.com, date posted Aug. 16, 2020, [site visited Jan. 7, 2022], URL: https://www.youtube.com/watch?v=xjwT3KpV6Q8 (Year: 2020).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00042">
+<othercit>JuneCube Kickstarter Campaign, available on Kickstarter.com, Kickstarter funding period started Jul. 29, 2019, [site visited Jan. 7, 2022], URL: https://www.kickstarter.com/projects/junecube/smart-rubiks-cube-with-mobile-apps (Year: 2019).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00043">
+<othercit>JuneCube, available on Indiegogo.com, funding backers date Sep. 27, 2019, [site visited Jan. 7, 2022], URL: https://www.indiegogo.com/projects/smart-led-cube-with-mobile-apps#/ (Year: 2019).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00044">
+<othercit>Geniewoos JuneCube, available on web.archive.org, Wayback Machine date Aug. 14, 2020, [site visited Jan. 7, 2022], URL: https://web.archive.org/web/20200814135549/https://geniewoos.com/product (Year: 2020).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00045">
+<othercit>Futurocube, available on YouTube.com, date posted Dec. 13, 2012, [site visited Jan. 7, 2022], URL: https://www.youtube.com/watch?v=MaHGYUziQ4l (Year: 2012).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00046">
+<othercit>Futuro Cube lights up tap and turn game, available on newatlas.com, date published Apr. 4, 2013, [site visited Jan. 7, 2022], URL: https://newatlas.com/futuro-cube/26937/ (Year: 2013).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00047">
+<othercit>Winning Fingers Flashing Cube, available on amazon.com, oldest customer review with photo Dec. 15, 2019, [site visited Jan. 7, 2022], URL: https://www.amazon.com/Flashdash-4-1-Electronic-Cognition/dp/B07YSVBYHW/ (Year: 2019).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00048">
+<othercit>Rubik's Cube Light, available on YouTube.com, date posted Sep. 13, 2014, [site visited Jan. 7, 2022], URL: https://www.youtube.com/watch?v=JuSXWXrK04E (Year: 2014).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+</us-references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D21398</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D21455</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D21468</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D21470</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D21484</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D21491</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D21499</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D21478</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D14204</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D14216</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D14231</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D14496</main-classification>
+</classification-national>
+<classification-cpc-text>A63F 9/0826</classification-cpc-text>
+<classification-cpc-text>A63F 9/0842</classification-cpc-text>
+<classification-cpc-text>A63F 9/06</classification-cpc-text>
+<classification-cpc-text>A63F 9/08</classification-cpc-text>
+<classification-cpc-text>G09B 1/00</classification-cpc-text>
+<classification-cpc-text>G09B 1/02</classification-cpc-text>
+<classification-cpc-text>G09B 1/06</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>15</number-of-drawing-sheets>
+<number-of-figures>15</number-of-figures>
+</figures>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Geniewoos Inc.</orgname>
+<address>
+<city>Seoul</city>
+<country>KR</country>
+</address>
+</addressbook>
+<residence>
+<country>KR</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Lee</last-name>
+<first-name>Tae Hyung</first-name>
+<address>
+<city>Seoul</city>
+<country>KR</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="002" designation="us-only">
+<addressbook>
+<last-name>Lee</last-name>
+<first-name>Woo Jun</first-name>
+<address>
+<city>Seoul</city>
+<country>KR</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Geniewoos Inc.</orgname>
+<role>03</role>
+<address>
+<city>Seoul</city>
+<country>KR</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Robinson</last-name>
+<first-name>Cary M</first-name>
+<department>2925</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Saunders</last-name>
+<first-name>Emily Anna</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="172.04mm" wi="150.28mm" file="USD0985068-20230502-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="188.98mm" wi="152.32mm" file="USD0985068-20230502-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="152.23mm" wi="138.18mm" file="USD0985068-20230502-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="152.23mm" wi="138.18mm" file="USD0985068-20230502-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="152.23mm" wi="138.18mm" file="USD0985068-20230502-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="152.23mm" wi="138.18mm" file="USD0985068-20230502-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="152.23mm" wi="138.18mm" file="USD0985068-20230502-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="152.23mm" wi="138.18mm" file="USD0985068-20230502-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="188.72mm" wi="152.48mm" file="USD0985068-20230502-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="188.30mm" wi="152.32mm" file="USD0985068-20230502-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="188.55mm" wi="151.98mm" file="USD0985068-20230502-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="188.13mm" wi="151.98mm" file="USD0985068-20230502-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="188.64mm" wi="152.48mm" file="USD0985068-20230502-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="188.04mm" wi="152.15mm" file="USD0985068-20230502-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="188.30mm" wi="151.81mm" file="USD0985068-20230502-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00015" num="00015">
+<img id="EMI-D00015" he="188.30mm" wi="152.23mm" file="USD0985068-20230502-D00015.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a perspective view of a puzzle cube in accordance with our new design;</p>
+<p id="p-0002" num="0002"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a front view of the puzzle cube of <figref idref="DRAWINGS">FIG. <b>1</b></figref>;</p>
+<p id="p-0003" num="0003"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a rear view of the puzzle cube of <figref idref="DRAWINGS">FIG. <b>1</b></figref>;</p>
+<p id="p-0004" num="0004"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a left side view of the puzzle cube of <figref idref="DRAWINGS">FIG. <b>1</b></figref>;</p>
+<p id="p-0005" num="0005"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a right side view of the puzzle cube of <figref idref="DRAWINGS">FIG. <b>1</b></figref>;</p>
+<p id="p-0006" num="0006"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is a top view of the puzzle cube of <figref idref="DRAWINGS">FIG. <b>1</b></figref>;</p>
+<p id="p-0007" num="0007"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is a bottom view of the puzzle cube of <figref idref="DRAWINGS">FIG. <b>1</b></figref>;</p>
+<p id="p-0008" num="0008"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is a perspective view of the puzzle cube shown in an environment of use with light emitting from a surface portion;</p>
+<p id="p-0009" num="0009"><figref idref="DRAWINGS">FIG. <b>9</b></figref> is another perspective view of the puzzle cube shown in an environment of use with light emitting from a surface portion;</p>
+<p id="p-0010" num="0010"><figref idref="DRAWINGS">FIG. <b>10</b></figref> is another perspective view of the puzzle cube shown in an environment of use with light emitting from a surface portion;</p>
+<p id="p-0011" num="0011"><figref idref="DRAWINGS">FIG. <b>11</b></figref> is another perspective view of the puzzle cube shown in an environment of use with light emitting from a surface portion;</p>
+<p id="p-0012" num="0012"><figref idref="DRAWINGS">FIG. <b>12</b></figref> is another perspective view of the puzzle cube shown in an environment of use with light emitting from a surface portion;</p>
+<p id="p-0013" num="0013"><figref idref="DRAWINGS">FIG. <b>13</b></figref> is another perspective view of the puzzle cube shown in an environment of use with light emitting from a surface portion;</p>
+<p id="p-0014" num="0014"><figref idref="DRAWINGS">FIG. <b>14</b></figref> is another perspective view of the puzzle cube shown in an environment of use with light emitting from a surface portion; and,</p>
+<p id="p-0015" num="0015"><figref idref="DRAWINGS">FIG. <b>15</b></figref> is another perspective view of the puzzle cube shown in an environment of use with light emitting from a surface portion.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>The ornamental design for a puzzle cube, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

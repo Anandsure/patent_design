@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v47-2022-02-17.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.7 2022-02-17" file="USD0985111-20230502.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20230412" date-publ="20230502">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0985111</doc-number>
+<kind>S1</kind>
+<date>20230502</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>29794474</doc-number>
+<date>20210612</date>
+</document-id>
+</application-reference>
+<us-application-series-code>29</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>CN</country>
+<doc-number>202130076547.0</doc-number>
+<date>20210202</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<length-of-grant>15</length-of-grant>
+</us-term-of-grant>
+<classification-locarno>
+<edition>14</edition>
+<main-classification>2304</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D23364</main-classification>
+</classification-national>
+<invention-title id="d2e71">Air purifier</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>D882056</doc-number>
+<kind>S</kind>
+<name>Baillie</name>
+<date>20200400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D23364</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>D886975</doc-number>
+<kind>S</kind>
+<name>Yang</name>
+<date>20200600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D23364</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>D888923</doc-number>
+<kind>S</kind>
+<name>Zhong</name>
+<date>20200600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D23364</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>D905220</doc-number>
+<kind>S</kind>
+<name>Farone</name>
+<date>20201200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D23364</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>D906501</doc-number>
+<kind>S</kind>
+<name>Lim</name>
+<date>20201200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D23364</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>D912795</doc-number>
+<kind>S</kind>
+<name>Wang</name>
+<date>20210300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D23364</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>D935590</doc-number>
+<kind>S</kind>
+<name>Xu</name>
+<date>20211100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D23364</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>D935591</doc-number>
+<kind>S</kind>
+<name>Xu</name>
+<date>20211100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D23364</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>D938565</doc-number>
+<kind>S</kind>
+<name>Yang</name>
+<date>20211200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D23364</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>D944959</doc-number>
+<kind>S</kind>
+<name>Wang</name>
+<date>20220300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D23364</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>D948016</doc-number>
+<kind>S</kind>
+<name>Yoon</name>
+<date>20220400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D23364</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>D950034</doc-number>
+<kind>S</kind>
+<name>Peng</name>
+<date>20220400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D23364</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>D966482</doc-number>
+<kind>S</kind>
+<name>Shan</name>
+<date>20221000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D23364</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>20180256770</doc-number>
+<kind>A1</kind>
+<name>Jang</name>
+<date>20180900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A61L 9/12</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00015">
+<document-id>
+<country>CN</country>
+<doc-number>202130087050.9</doc-number>
+<date>20210700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<patcit num="00016">
+<document-id>
+<country>CN</country>
+<doc-number>202130368021.X</doc-number>
+<date>20211000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<patcit num="00017">
+<document-id>
+<country>CN</country>
+<doc-number>202230032403.X</doc-number>
+<date>20220200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<patcit num="00018">
+<document-id>
+<country>KR</country>
+<doc-number>3020210051455</doc-number>
+<date>20220900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00019">
+<othercit>Megawise True HEPA Filter. Catalogue [Online]. Amazon Standard ID# B08L8QGPB8. Amazon.com 2020. [Date First Available {Jun. 16, 2020][Retrieved on Dec. 13, 2022]. Retrieved from the Internet: &#x3c;URL:https://www.amazon.com/MEGAWISE-Compatible-Purifier-Filtration-Eliminate/dp/B08L8QGPB8&#x3e; (Year: 2020).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00020">
+<othercit>Mooka EPI135 Air Purifier. Amazon Standard ID# B09MLGQ2NR. Catalogue [Online]. Amazon.com 2021. [Date First Available {Nov. 26, 2021][Retrieved on Dec. 13, 2022]. Retrieved from the Internet: &#x3c;URL:https://www.amazon.com/Purifier-Eliminator-Allergies-Wildfire-Ozone-Free/dp/B09MLGQ2NR&#x3e; (Year: 2021).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00021">
+<othercit>Toppin TPAP002 Air Purifier. Amazon Standard ID# B08JM7M8W9. Catalogue [Online]. Amazon.com 2020. [Date First Available {Apr. 17, 2021][Retrieved on Dec. 13, 2022]. Retrieved from the Internet: &#x3c;URL:https://www.amazon.com/TOPPIN-Purifiers-Bedroom-Airborne-Contaminants/dp/B08JM7M8W9 &#x3e; (Year: 2020).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+</us-references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D23314</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D23332</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D23333</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D23335</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D23336</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D23355</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D23356</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D23364</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D23365</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D23366</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D23378</main-classification>
+</classification-national>
+<classification-cpc-text>F24F 1/0022</classification-cpc-text>
+<classification-cpc-text>F24F 3/14</classification-cpc-text>
+<classification-cpc-text>F24F 6/06</classification-cpc-text>
+<classification-cpc-text>F24F 8/80</classification-cpc-text>
+<classification-cpc-text>B01D 46/00281</classification-cpc-text>
+<classification-cpc-text>B01D 46/0043</classification-cpc-text>
+<classification-cpc-text>A61L 2209/12</classification-cpc-text>
+<classification-cpc-text>A61L 2209/14</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>9</number-of-drawing-sheets>
+<number-of-figures>9</number-of-figures>
+</figures>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Healthlead Corporation Limited</orgname>
+<address>
+<city>Shenzhen</city>
+<country>CN</country>
+</address>
+</addressbook>
+<residence>
+<country>CN</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Chen</last-name>
+<first-name>Yaogang</first-name>
+<address>
+<city>Shenzhen</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="002" designation="us-only">
+<addressbook>
+<last-name>Zou</last-name>
+<first-name>Zhixue</first-name>
+<address>
+<city>Shenzhen</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="003" designation="us-only">
+<addressbook>
+<last-name>Zhang</last-name>
+<first-name>Hongzeng</first-name>
+<address>
+<city>Shenzhen</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Westbridge IP LLC</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Healthlead Corporation Limited</orgname>
+<role>03</role>
+<address>
+<city>Shenzhen</city>
+<country>CN</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Hallmark</last-name>
+<first-name>Janice</first-name>
+<department>2932</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Odeyale</last-name>
+<first-name>Adedoyin Taiwo</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="170.52mm" wi="254.00mm" file="USD0985111-20230502-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="202.78mm" wi="111.42mm" file="USD0985111-20230502-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="204.55mm" wi="103.55mm" file="USD0985111-20230502-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="192.96mm" wi="114.13mm" file="USD0985111-20230502-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="193.89mm" wi="114.13mm" file="USD0985111-20230502-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="194.39mm" wi="146.73mm" file="USD0985111-20230502-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="194.06mm" wi="146.73mm" file="USD0985111-20230502-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="203.45mm" wi="114.13mm" file="USD0985111-20230502-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="186.86mm" wi="113.88mm" file="USD0985111-20230502-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="194.99mm" wi="157.23mm" file="USD0985111-20230502-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a front perspective view of an air purifier showing our new design;</p>
+<p id="p-0002" num="0002"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a rear perspective view thereof;</p>
+<p id="p-0003" num="0003"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a front elevation view thereof;</p>
+<p id="p-0004" num="0004"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a rear elevation view thereof;</p>
+<p id="p-0005" num="0005"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a left side elevation view thereof;</p>
+<p id="p-0006" num="0006"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is a right side elevation view thereof;</p>
+<p id="p-0007" num="0007"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is a top plan view thereof;</p>
+<p id="p-0008" num="0008"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is a bottom plan view thereof; and,</p>
+<p id="p-0009" num="0009"><figref idref="DRAWINGS">FIG. <b>9</b></figref> is an enlarged view of portion <b>9</b> in <figref idref="DRAWINGS">FIG. <b>1</b></figref>.</p>
+<p id="p-0010" num="0010">The evenly broken lines in the drawings illustrate portions of the air purifier that form no part of the claim.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>The ornamental design for an air purifier, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v47-2022-02-17.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.7 2022-02-17" file="USD0984838-20230502.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20230412" date-publ="20230502">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0984838</doc-number>
+<kind>S1</kind>
+<date>20230502</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>29803783</doc-number>
+<date>20210816</date>
+</document-id>
+</application-reference>
+<us-application-series-code>29</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="international">
+<country>WO</country>
+<doc-number>WIPO102198</doc-number>
+<date>20210226</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<length-of-grant>15</length-of-grant>
+</us-term-of-grant>
+<classification-locarno>
+<edition>14</edition>
+<main-classification>0701</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D 7300</main-classification>
+</classification-national>
+<invention-title id="d2e71">Carafe</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>D295145</doc-number>
+<kind>S</kind>
+<name>Jeanjean</name>
+<date>19880400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 7300</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>D384238</doc-number>
+<kind>S</kind>
+<name>Huang</name>
+<date>19970900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 7319</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>D411318</doc-number>
+<kind>S</kind>
+<name>Joergensen</name>
+<date>19990600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D26 11</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>D472148</doc-number>
+<kind>S</kind>
+<name>Dowd</name>
+<date>20030300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9504</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>D498419</doc-number>
+<kind>S</kind>
+<name>Martin</name>
+<date>20041100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9504</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>D560414</doc-number>
+<kind>S</kind>
+<name>Kaptein</name>
+<date>20080100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 7316</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>D570690</doc-number>
+<kind>S</kind>
+<name>McGuinness</name>
+<date>20080600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9686</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>D573390</doc-number>
+<kind>S</kind>
+<name>Ablo</name>
+<date>20080700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 7300</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>D620742</doc-number>
+<kind>S</kind>
+<name>Lion</name>
+<date>20100800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9504</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>D637445</doc-number>
+<kind>S</kind>
+<name>Chung</name>
+<date>20110500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 7505</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>D702131</doc-number>
+<kind>S</kind>
+<name>Handy</name>
+<date>20140400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9691</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>D728316</doc-number>
+<kind>S</kind>
+<name>Breit</name>
+<date>20150500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 7598</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>D751331</doc-number>
+<kind>S</kind>
+<name>Rashid</name>
+<date>20160300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9504</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>D815532</doc-number>
+<kind>S</kind>
+<name>Zhou</name>
+<date>20180400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9504</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>D817096</doc-number>
+<kind>S</kind>
+<name>Kauss</name>
+<date>20180500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9503</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>D821200</doc-number>
+<kind>S</kind>
+<name>Harris</name>
+<date>20180600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9500</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>D835464</doc-number>
+<kind>S</kind>
+<name>Dom&#xe8;nech</name>
+<date>20181200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 7509</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>D850181</doc-number>
+<kind>S</kind>
+<name>Eisen</name>
+<date>20190600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 7312</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>D878135</doc-number>
+<kind>S</kind>
+<name>Bodum</name>
+<date>20200300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 7317</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>D887765</doc-number>
+<kind>S</kind>
+<name>Henkel</name>
+<date>20200600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 7316</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>D899172</doc-number>
+<kind>S</kind>
+<name>Burns</name>
+<date>20201000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 73001</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>D899173</doc-number>
+<kind>S</kind>
+<name>Burns</name>
+<date>20201000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 73001</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>D947715</doc-number>
+<kind>S</kind>
+<name>Cossu</name>
+<date>20220400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D11154</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>D961319</doc-number>
+<kind>S</kind>
+<name>Keeley</name>
+<date>20220800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 7316</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<nplcit num="00025">
+<othercit>PI-Design AG, U.S. Appl. No. 29/803,787, filed Aug. 16, 2021.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+</us-references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D 7300</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 7309</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 7310</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 7311</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 7312</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 7316</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 7317</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 7318</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 7319</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 7321</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 7392</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 73921</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 7399</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 7400</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 7509</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 7510</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 7511</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 7598</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 7601</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 7603</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 7608</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 7621</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 7622</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9434</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9447</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9504</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9655</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D23207</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D23209</main-classification>
+</classification-national>
+<classification-cpc-text>A47G 19/12</classification-cpc-text>
+<classification-cpc-text>A47G 19/2205</classification-cpc-text>
+<classification-cpc-text>A47G 19/2272</classification-cpc-text>
+<classification-cpc-text>A47G 23/0241</classification-cpc-text>
+<classification-cpc-text>A47G 2019/122</classification-cpc-text>
+<classification-cpc-text>A47J 31/057</classification-cpc-text>
+<classification-cpc-text>A47J 41/02</classification-cpc-text>
+<classification-cpc-text>A47J 43/27</classification-cpc-text>
+<classification-cpc-text>B67D 1/06</classification-cpc-text>
+<classification-cpc-text>B67D 3/0029</classification-cpc-text>
+<classification-cpc-text>B67D 3/0083</classification-cpc-text>
+<classification-cpc-text>B67D 2001/0812</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>7</number-of-drawing-sheets>
+<number-of-figures>7</number-of-figures>
+</figures>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>PI-Design AG</orgname>
+<address>
+<city>Triengen</city>
+<country>CH</country>
+</address>
+</addressbook>
+<residence>
+<country>CH</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Bodum</last-name>
+<first-name>Jorgen</first-name>
+<address>
+<city>Meggen</city>
+<country>CH</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>McDonnell Boehnen Hulbert &#x26; Berghoff LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>PI-DESIGN AG</orgname>
+<role>03</role>
+<address>
+<city>Triengen</city>
+<country>CH</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Kukella</last-name>
+<first-name>Joseph</first-name>
+<department>2912</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Dardenne</last-name>
+<first-name>Darryl J</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="149.44mm" wi="62.31mm" file="USD0984838-20230502-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="167.81mm" wi="64.35mm" file="USD0984838-20230502-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="168.91mm" wi="64.52mm" file="USD0984838-20230502-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="168.91mm" wi="64.52mm" file="USD0984838-20230502-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="168.91mm" wi="64.52mm" file="USD0984838-20230502-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="168.91mm" wi="64.52mm" file="USD0984838-20230502-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="124.12mm" wi="64.35mm" file="USD0984838-20230502-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="124.12mm" wi="64.35mm" file="USD0984838-20230502-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a perspective view of a carafe showing my new design;</p>
+<p id="p-0002" num="0002"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a front view thereof;</p>
+<p id="p-0003" num="0003"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a rear view thereof;</p>
+<p id="p-0004" num="0004"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a left side view thereof;</p>
+<p id="p-0005" num="0005"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a right side view thereof;</p>
+<p id="p-0006" num="0006"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is a top view thereof; and,</p>
+<p id="p-0007" num="0007"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is a bottom view thereof.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>The ornamental design for a carafe, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>
