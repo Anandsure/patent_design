@@ -1,0 +1,19 @@
+{
+  "XMLName": {
+    "Space": "",
+    "Local": "us-patent-grant"
+  },
+  "PublicationReference": {
+    "Country": "US",
+    "DocNumber": "D0984780",
+    "Kind": "S1",
+    "Date": "20230502"
+  },
+  "ApplicationReference": {
+    "Country": "US",
+    "DocNumber": "29778602",
+    "Kind": "",
+    "Date": "20210414"
+  },
+  "InventionTitle": "Sports jersey"
+}
