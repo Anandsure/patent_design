@@ -17,7 +17,7 @@ import (
 )
 
 func healthCheck(c *fiber.Ctx) error {
-	return c.SendString("OK")
+	return c.SendString("Running fine bro")
 }
 
 func main() {
