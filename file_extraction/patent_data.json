@@ -1,19 +1,42 @@
 {
-  "XMLName": {
-    "Space": "",
-    "Local": "us-patent-grant"
-  },
-  "PublicationReference": {
-    "Country": "US",
-    "DocNumber": "D0984780",
-    "Kind": "S1",
-    "Date": "20230502"
-  },
-  "ApplicationReference": {
-    "Country": "US",
-    "DocNumber": "29778602",
-    "Kind": "",
-    "Date": "20210414"
-  },
-  "InventionTitle": "Sports jersey"
+    "PatentTitle": "Earphone box",
+    "PatentNumber": "D0984793",
+    "Authors": [
+        "Ying Zhao",
+        "Donghyeok Park"
+    ],
+    "Assignee": "Huawei Device Co., Ltd.",
+    "ApplicationDate": "20201229",
+    "IssueDate": "20230502",
+    "DesignClass": "D 3201",
+    "ReferencesCited": [
+        "Holloway",
+        "Holloway",
+        "Wacker",
+        "Kalin",
+        "Fu",
+        "Chou",
+        "Bulens"
+    ],
+    "Description": [
+        "is a front view of the lid portion of an earphone box, showing our new design, shown separate;",
+        "is a front perspective view thereof;",
+        "is a back perspective view thereof;",
+        "is a left side view thereof;",
+        "is a top view thereof;",
+        "is a bottom view thereof;",
+        "is a front view of the base of an earphone box, showing our new design, shown separate;",
+        "is a front perspective view thereof;",
+        "is a back view thereof;",
+        "is a back perspective view thereof;",
+        "is a left side view thereof;",
+        "is a right side view thereof;",
+        "is a top view thereof;",
+        "is a bottom view thereof;",
+        "is a perspective view of the base of the earphone box, shown with environment;",
+        "is another perspective view thereof;",
+        "is a front perspective view of the earphone box in a closed state; and,",
+        "is a back perspective view thereof.",
+        "The broken lines in  show portions of the earphone box and form no part of the claimed design. The broken lines illustrating earphones in  represent environment and form no part of the claimed design."
+    ]
 }
