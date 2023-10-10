@@ -40,95 +40,29 @@ type SearchResult struct {
 }
 
 func Search(searchTerm string) (map[string]interface{}, error) {
-	fmt.Println("Search Term inside Search:", searchTerm)
 	es, err := elasticsearch.NewDefaultClient()
 	if err != nil {
-		log.Fatalf("Error creating the Elasticsearch client: %s", err)
+		return nil, fmt.Errorf("error creating the Elasticsearch client: %v", err)
 	}
 
-	// Define the fields to search and the prefix query
-	fieldsToSearch := []string{"PatentTitle", "Authors", "Assignee", "DesignClass"}
-	prefixQuery := searchTerm // Prefix for the search
+	// Define the fields to search
+	fieldsToSearch := []string{"PatentTitle", "Authors", "Assignee", "DesignClass", "ApplicationDate", "IssueDate", "PatentNumber"}
 
-	// Create a bool query with should clauses for each field
-	shouldClauses := make([]map[string]interface{}, len(fieldsToSearch))
-	for i, field := range fieldsToSearch {
-		wildcardQueryForField := map[string]interface{}{
-			"wildcard": map[string]interface{}{
-				field: "*" + strings.ToLower(prefixQuery) + "*", // Case-insensitive wildcard query
-			},
-		}
-		shouldClauses[i] = map[string]interface{}{"bool": wildcardQueryForField}
-	}
-
-	searchQuery := map[string]interface{}{
+	// Construct the query
+	query := map[string]interface{}{
 		"query": map[string]interface{}{
-			"bool": map[string]interface{}{
-				"should": []map[string]interface{}{
-					{
-						"match": map[string]interface{}{
-							"ApplicationDate": map[string]interface{}{
-								"query":     prefixQuery,
-								"fuzziness": "AUTO",
-							},
-						},
-					},
-					{
-						"match": map[string]interface{}{
-							"Assignee": map[string]interface{}{
-								"query":     prefixQuery,
-								"fuzziness": "AUTO",
-							},
-						},
-					},
-					{
-						"match": map[string]interface{}{
-							"Authors": map[string]interface{}{
-								"query":     prefixQuery,
-								"fuzziness": "AUTO",
-							},
-						},
-					},
-					{
-						"match": map[string]interface{}{
-							"DesignClass": map[string]interface{}{
-								"query":     prefixQuery,
-								"fuzziness": "AUTO",
-							},
-						},
-					},
-					{
-						"match": map[string]interface{}{
-							"IssueDate": map[string]interface{}{
-								"query":     prefixQuery,
-								"fuzziness": "AUTO",
-							},
-						},
-					},
-					{
-						"match": map[string]interface{}{
-							"PatentNumber": map[string]interface{}{
-								"query":     prefixQuery,
-								"fuzziness": "AUTO",
-							},
-						},
-					},
-					{
-						"match": map[string]interface{}{
-							"PatentTitle": map[string]interface{}{
-								"query":     prefixQuery,
-								"fuzziness": "AUTO",
-							},
-						},
-					},
-				},
+			"query_string": map[string]interface{}{
+				"query":     fmt.Sprintf("*%s*", strings.ToLower(searchTerm)),
+				"fields":    fieldsToSearch,
+				"fuzziness": "AUTO",
 			},
 		},
 	}
 
+	// Encode the query
 	var buf bytes.Buffer
-	if err := json.NewEncoder(&buf).Encode(searchQuery); err != nil {
-		log.Fatalf("Error encoding the search query: %s", err)
+	if err := json.NewEncoder(&buf).Encode(query); err != nil {
+		return nil, fmt.Errorf("error encoding the search query: %v", err)
 	}
 
 	// Perform the search request
@@ -151,7 +85,7 @@ func Search(searchTerm string) (map[string]interface{}, error) {
 
 	// Check for successful status code from Elasticsearch
 	if res.IsError() {
-		return nil, fmt.Errorf("Elasticsearch request failed with status code: %d", res.StatusCode)
+		return nil, fmt.Errorf("elasticsearch request failed with status code: %d", res.StatusCode)
 	}
 
 	// Unmarshal the response body into a map

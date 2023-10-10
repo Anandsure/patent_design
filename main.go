@@ -38,6 +38,8 @@ func main() {
 	app.Get("/health", healthCheck)
 	// Add the /search route
 	app.Get("/search", controllers.SearchHandler)
+	// Add the /query route
+	app.Get("/query", controllers.QueryHandler)
 
 	app.Use(logger.New(logger.Config{Next: func(c *fiber.Ctx) bool {
 		return strings.HasPrefix(c.Path(), "api")
