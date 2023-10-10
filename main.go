@@ -11,6 +11,7 @@ import (
 	"github.com/spf13/viper"
 
 	"github.com/LegalForceLawRAPC/go-template/api/cache"
+	"github.com/LegalForceLawRAPC/go-template/api/db"
 	"github.com/LegalForceLawRAPC/go-template/api/migrations"
 	"github.com/LegalForceLawRAPC/go-template/api/router"
 	"github.com/LegalForceLawRAPC/go-template/api/utils"
@@ -57,7 +58,7 @@ func main() {
 	}
 
 	// Initialize DB
-	// db.InitServices()
+	db.InitServices()
 
 	// Mount Routes
 	router.MountRoutes(app)

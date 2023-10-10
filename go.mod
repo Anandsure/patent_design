@@ -5,6 +5,7 @@ go 1.17
 require (
 	github.com/gofiber/fiber/v2 v2.22.0
 	github.com/google/uuid v1.3.0
+	github.com/lib/pq v1.10.2
 )
 
 require (
@@ -46,7 +47,7 @@ require (
 	github.com/klauspost/compress v1.13.4 // indirect
 	github.com/spf13/viper v1.9.0
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
-	github.com/valyala/fasthttp v1.31.0 // indirect
+	github.com/valyala/fasthttp v1.31.0
 	github.com/valyala/tcplisten v1.0.0 // indirect
 	golang.org/x/sys v0.0.0-20210823070655-63515b42dcdf // indirect
 	gopkg.in/go-playground/validator.v9 v9.31.0
