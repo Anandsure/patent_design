@@ -1,4 +1,4 @@
-package esdb
+package es_utils
 
 import (
 	"bytes"
@@ -6,33 +6,12 @@ import (
 	"encoding/json"
 	"fmt"
 	"io"
-	"log"
 	"strings"
 
+	"github.com/Anandsure/patent_design/api/db"
+
 	"github.com/elastic/go-elasticsearch/esapi"
-	"github.com/elastic/go-elasticsearch/v8"
 )
-
-var esClient *elasticsearch.Client
-
-func InitElasticsearch() (*elasticsearch.Client, error) {
-	cfg := elasticsearch.Config{
-		Addresses: []string{"http://localhost:9200"},
-	}
-
-	client, err := elasticsearch.NewClient(cfg)
-	if err != nil {
-		log.Fatalf("Error creating the Elasticsearch client: %s", err)
-		return nil, err
-	}
-
-	esClient = client
-	return client, nil
-}
-
-func GetESClient() *elasticsearch.Client {
-	return esClient
-}
 
 type SearchResult struct {
 	Response *esapi.Response
@@ -40,10 +19,7 @@ type SearchResult struct {
 }
 
 func Search(searchTerm string) (map[string]interface{}, error) {
-	es, err := elasticsearch.NewDefaultClient()
-	if err != nil {
-		return nil, fmt.Errorf("error creating the Elasticsearch client: %v", err)
-	}
+	es := db.GetESClient()
 
 	// Define the fields to search
 	fieldsToSearch := []string{"PatentTitle", "Authors", "Assignee", "DesignClass", "ApplicationDate", "IssueDate", "PatentNumber"}
@@ -68,7 +44,7 @@ func Search(searchTerm string) (map[string]interface{}, error) {
 	// Perform the search request
 	res, err := es.Search(
 		es.Search.WithContext(context.Background()),
-		es.Search.WithIndex("design_patent"),
+		es.Search.WithIndex(db.ES_INDEX_NAME),
 		es.Search.WithBody(&buf),
 		es.Search.WithTrackTotalHits(true),
 	)

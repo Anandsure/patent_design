@@ -1,52 +1,67 @@
 package main
 
 import (
-	"database/sql"
+	"encoding/json"
 	"fmt"
+	"io/ioutil"
 	"log"
+	"time"
 
-	_ "github.com/lib/pq"
+	"github.com/Anandsure/patent_design/api/db"
+	"github.com/Anandsure/patent_design/api/utils"
+	"github.com/Anandsure/patent_design/pkg/models"
 )
 
 const (
-	host      = "localhost"
-	port      = 5432
-	user      = "anands"
-	password  = "87szLCJM"
-	dbname    = "design_patent"
-	tableName = "patents"
+	dbName   = "design_patents"
+	jsonFile = "../file_extraction/json_extraction/combined_patent_data.json"
 )
 
+func insertData() {
+	// Read the JSON data
+	byteValue, err := ioutil.ReadFile(jsonFile)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	var patentData []models.Patent
+	err = json.Unmarshal(byteValue, &patentData)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	// Establish a PostgreSQL connection
+	gormDB := db.GetDB()
+
+	// Insert data into the table
+	for _, data := range patentData {
+		t, err := time.Parse("20060102", data.ApplicationDate)
+		if err != nil {
+			continue
+		}
+		x, err := time.Parse("20060102", data.IssueDate)
+		if err != nil {
+			continue
+		}
+
+		data.ApplicationDate = fmt.Sprintf("%d", t.Unix())
+		data.IssueDate = fmt.Sprintf("%d", x.Unix())
+
+		err = gormDB.Create(&data).Error
+		if err != nil {
+			log.Printf("Error inserting data for patent %s: %v", data.PatentNumber, err)
+		} else {
+			fmt.Printf("Data inserted successfully for patent %s!\n", data.PatentNumber)
+		}
+	}
+}
+
 func main() {
-	connStr := fmt.Sprintf("host=%s port=%d user=%s password=%s dbname=%s sslmode=disable",
-		host, port, user, password, dbname)
+	utils.ImportEnv()
 
-	db, err := sql.Open("postgres", connStr)
-	if err != nil {
-		log.Fatal(err)
-	}
-	defer db.Close()
+	gormDb := db.GetDB()
 
-	// Create the table
-	createTableStmt := fmt.Sprintf(`
-	CREATE TABLE IF NOT EXISTS %s (
-		PatentNumber VARCHAR(255) PRIMARY KEY,
-		PatentTitle VARCHAR(255),
-		Authors TEXT[],
-		Assignee VARCHAR(255),
-		ApplicationDate DATE,
-		IssueDate DATE,
-		DesignClass VARCHAR(255),
-		ReferencesCited TEXT[],
-		Description TEXT[]
-	);`, tableName)
-
-	_, err = db.Exec(createTableStmt)
-	if err != nil {
-		log.Fatal(err)
-	}
-
-	fmt.Printf("Table '%s' created successfully.\n", tableName)
-	//inserting data into the table
-	insert_data_into_table()
+	gormDb.AutoMigrate(&models.Patent{})
+	// Inserting data into the table
+	insertData()
 }

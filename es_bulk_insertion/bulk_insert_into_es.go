@@ -4,6 +4,7 @@ import (
 	"bytes"
 	"context"
 	"encoding/json"
+	"github.com/spf13/viper"
 	"io"
 	"io/ioutil"
 	"log"
@@ -14,7 +15,7 @@ import (
 func main() {
 	// Initialize the Elasticsearch client
 	cfg := elasticsearch.Config{
-		Addresses: []string{"http://localhost:9200"},
+		Addresses: []string{viper.GetString("ES_HOST")},
 	}
 
 	es, err := elasticsearch.NewClient(cfg)

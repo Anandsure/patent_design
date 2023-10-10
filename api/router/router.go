@@ -1,13 +1,13 @@
 package router
 
-// import (
-// 	"github.com/Anandsure/patent_design/api/controllers"
+import (
+	"github.com/Anandsure/patent_design/api/controllers"
+	"github.com/gofiber/fiber/v2"
+)
 
-// 	"github.com/gin-gonic/gin"
-// )
-
-// func SetupRouter() *gin.Engine {
-// 	r := gin.Default()
-// 	r.GET("/search", controllers.SearchHandler)
-// 	return r
-// }
+func MountRoutes(app fiber.Router) {
+	// Add the /search route
+	app.Get("/search", controllers.SearchHandler)
+	// Add the /query route
+	app.Get("/query", controllers.QueryHandler)
+}
