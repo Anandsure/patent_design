@@ -49,10 +49,10 @@ To run this project, you need the following prerequisites:
    
 
 ### Usage
-    ```bash
+    bash
     go mod download
     go run main.go
-    ```
+    
 
 ## Search Functionality
 The Search engine uses fuzzy logic coupled with ElasticSearch (indexed against a postgres DB)
