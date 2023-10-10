@@ -11,9 +11,9 @@ import (
 	"github.com/spf13/viper"
 
 	"github.com/Anandsure/patent_design/api/cache"
+	"github.com/Anandsure/patent_design/api/controllers"
 	"github.com/Anandsure/patent_design/api/db"
 	"github.com/Anandsure/patent_design/api/migrations"
-	"github.com/Anandsure/patent_design/api/router"
 	"github.com/Anandsure/patent_design/api/utils"
 )
 
@@ -36,11 +36,8 @@ func main() {
 
 	app.Get("/", healthCheck)
 	app.Get("/health", healthCheck)
-
-	// initialize sentry
-	// gofibersentry.SentryInit()
-	// sentryHandler := gofibersentry.New(gofibersentry.Options{})
-	// app.Use(sentryHandler.Handle)
+	// Add the /search route
+	app.Get("/search", controllers.SearchHandler)
 
 	app.Use(logger.New(logger.Config{Next: func(c *fiber.Ctx) bool {
 		return strings.HasPrefix(c.Path(), "api")
@@ -60,9 +57,6 @@ func main() {
 	// Initialize DB
 	db.InitServices()
 
-	// Mount Routes
-	router.MountRoutes(app)
-
 	// Get Port
 	port := utils.GetPort()
 
@@ -71,5 +65,8 @@ func main() {
 	if err != nil {
 		panic(err)
 	}
+
+	// r := router.SetupRouter()
+	// r.Run(":8080")
 
 }
