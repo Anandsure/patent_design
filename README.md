@@ -45,12 +45,10 @@ To run this project, you need the following prerequisites:
 1. Clone the repository:
     ```bash
    git clone https://github.com/yourusername/patent_designs.git
-   cd patent_designs```
-
+   cd patent_designs
    
 
 ### Usage
-    bash
     go mod download
     go run main.go
     
