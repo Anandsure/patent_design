@@ -1,16 +1,18 @@
 package db
 
 import (
+	"log"
+	"sync"
+
 	"github.com/elastic/go-elasticsearch/v8"
 	"github.com/spf13/viper"
-	"log"
 )
 
 var esClient *elasticsearch.Client
-
+var esClientOnce sync.Once
 var ES_INDEX_NAME string
 
-func InitElasticsearch() (*elasticsearch.Client, error) {
+func initializeElasticsearch() {
 	cfg := elasticsearch.Config{
 		Addresses: []string{viper.GetString("ES_HOST")},
 	}
@@ -18,13 +20,15 @@ func InitElasticsearch() (*elasticsearch.Client, error) {
 	client, err := elasticsearch.NewClient(cfg)
 	if err != nil {
 		log.Fatalf("Error creating the Elasticsearch client: %s", err)
-		return nil, err
 	}
 
 	ES_INDEX_NAME = viper.GetString("ES_INDEX_NAME")
 
 	esClient = client
-	return client, nil
+}
+
+func InitElasticsearch() {
+	esClientOnce.Do(initializeElasticsearch)
 }
 
 func GetESClient() *elasticsearch.Client {

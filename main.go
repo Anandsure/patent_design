@@ -2,8 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/Anandsure/patent_design/api/router"
 	"strings"
+
+	"github.com/Anandsure/patent_design/api/router"
 
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/cors"
@@ -48,7 +49,7 @@ func main() {
 		migrations.Migrate()
 	}
 
-	// Initialize DB
+	// Initialize DB and ES
 	db.InitServices()
 
 	// Get Port
