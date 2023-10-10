@@ -90,7 +90,7 @@ func processXMLFile(xmlFilePath string) (map[string]interface{}, error) {
 }
 
 func main() {
-	xmlFiles, err := filepath.Glob("all_xml/*.XML")
+	xmlFiles, err := filepath.Glob("../all_xml/*.XML")
 	if err != nil {
 		fmt.Printf("Error finding XML files: %v\n", err)
 		return
