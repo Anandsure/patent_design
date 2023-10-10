@@ -32,13 +32,13 @@ func main() {
 	CREATE TABLE IF NOT EXISTS %s (
 		PatentNumber VARCHAR(255) PRIMARY KEY,
 		PatentTitle VARCHAR(255),
-		Authors JSONB,
+		Authors TEXT[],
 		Assignee VARCHAR(255),
 		ApplicationDate DATE,
 		IssueDate DATE,
 		DesignClass VARCHAR(255),
-		ReferencesCited JSONB,
-		Description JSONB
+		ReferencesCited TEXT[],
+		Description TEXT[]
 	);`, tableName)
 
 	_, err = db.Exec(createTableStmt)
@@ -47,4 +47,6 @@ func main() {
 	}
 
 	fmt.Printf("Table '%s' created successfully.\n", tableName)
+	//inserting data into the table
+	insert_data_into_table()
 }

@@ -11,11 +11,8 @@ import (
 )
 
 const (
-	dbName    = "design_patent"
-	user      = "anands"
-	password  = "87szLCJM"
-	tableName = "patents"
-	jsonFile  = "../file_extraction/json_extraction/combined_patent_data.json"
+	dbName   = "design_patent"
+	jsonFile = "../file_extraction/json_extraction/combined_patent_data.json"
 )
 
 type PatentData struct {
@@ -30,7 +27,7 @@ type PatentData struct {
 	Description     []string `json:"Description"`
 }
 
-func main() {
+func insert_data_into_table() {
 	// Read the JSON data
 	byteValue, err := ioutil.ReadFile(jsonFile)
 	if err != nil {
@@ -44,7 +41,7 @@ func main() {
 	}
 
 	// Establish a PostgreSQL connection
-	connStr := fmt.Sprintf("user=%s dbname=%s password=%s sslmode=disable", user, dbName, password)
+	connStr := fmt.Sprintf("user=%s dbname=%s password=%s sslmode=disable", user, dbname, password)
 	db, err := sql.Open("postgres", connStr)
 	if err != nil {
 		log.Fatal(err)
