@@ -4,97 +4,73 @@ import (
 	"bytes"
 	"context"
 	"encoding/json"
-	"fmt"
+	"io"
+	"io/ioutil"
 	"log"
-	"os"
 
 	"github.com/elastic/go-elasticsearch/v8"
-	"github.com/elastic/go-elasticsearch/v8/esapi"
 )
 
 func main() {
-	// Read data from JSON file
-	filePath := "../file_extraction/json_extraction/combined_patent_data.json"
-	data, err := os.ReadFile(filePath)
-	if err != nil {
-		log.Fatalf("Error reading JSON file: %s", err)
-	}
-
-	// Initialize Elasticsearch client
-	client, err := initElasticsearch()
-	if err != nil {
-		log.Fatalf("Error initializing Elasticsearch: %v", err)
-	}
-
-	// Parse JSON data
-	var docs []map[string]interface{}
-	if err := json.Unmarshal(data, &docs); err != nil {
-		log.Fatalf("Error parsing JSON data: %v", err)
-	}
-
-	// Bulk insert the documents
-	if err := bulkInsert(client, docs); err != nil {
-		log.Fatalf("Error performing bulk insert: %v", err)
-	}
-
-	fmt.Println("Bulk insert completed successfully.")
-}
-
-func initElasticsearch() (*elasticsearch.Client, error) {
+	// Initialize the Elasticsearch client
 	cfg := elasticsearch.Config{
 		Addresses: []string{"http://localhost:9200"},
 	}
 
-	client, err := elasticsearch.NewClient(cfg)
+	es, err := elasticsearch.NewClient(cfg)
 	if err != nil {
-		return nil, err
+		log.Fatalf("Error creating the Elasticsearch client: %s", err)
 	}
 
-	return client, nil
-}
+	// Read data from JSON file
+	filePath := "../file_extraction/json_extraction/combined_patent_data.json"
+	data, err := ioutil.ReadFile(filePath)
+	if err != nil {
+		log.Fatalf("Error reading JSON file: %s", err)
+	}
 
-func bulkInsert(client *elasticsearch.Client, docs []map[string]interface{}) error {
-	var bulkBody []byte
+	// Unmarshal JSON data
+	var jsonData []map[string]interface{}
+	if err := json.Unmarshal(data, &jsonData); err != nil {
+		log.Fatalf("Error unmarshaling JSON: %s", err)
+	}
 
-	for _, doc := range docs {
+	// Bulk index request
+	var bulkRequestBody bytes.Buffer
+
+	for _, doc := range jsonData {
+		// Exclude Description and ReferencesCited fields
+		delete(doc, "Description")
+		delete(doc, "ReferencesCited")
+
 		metaData := map[string]interface{}{
 			"index": map[string]interface{}{
-				"_index": "patent_data",
+				"_index": "design_patent", // Change the index name here
 			},
 		}
 
-		metaDataBytes, err := json.Marshal(metaData)
-		if err != nil {
-			return err
+		if err := json.NewEncoder(&bulkRequestBody).Encode(metaData); err != nil {
+			log.Fatalf("Error encoding metadata: %s", err)
 		}
 
-		docBytes, err := json.Marshal(doc)
-		if err != nil {
-			return err
+		if err := json.NewEncoder(&bulkRequestBody).Encode(doc); err != nil {
+			log.Fatalf("Error encoding document: %s", err)
 		}
-
-		bulkBody = append(bulkBody, metaDataBytes...)
-		bulkBody = append(bulkBody, []byte("\n")...)
-		bulkBody = append(bulkBody, docBytes...)
-		bulkBody = append(bulkBody, []byte("\n")...)
 	}
 
-	req := esapi.BulkRequest{
-		Body:    bytes.NewReader(bulkBody),
-		Index:   "patent_data",
-		Refresh: "true",
-	}
-
-	res, err := req.Do(context.Background(), client)
+	// Perform the bulk request
+	res, err := es.Bulk(bytes.NewReader(bulkRequestBody.Bytes()), es.Bulk.WithContext(context.Background()))
 	if err != nil {
-		return err
+		log.Fatalf("Error performing bulk insert: %s", err)
 	}
 
 	defer res.Body.Close()
 
 	if res.IsError() {
-		return fmt.Errorf("bulk request failed with status: %s", res.Status())
+		var buf bytes.Buffer
+		io.Copy(&buf, res.Body)
+		log.Fatalf("Error response: %s", buf.String())
 	}
 
-	return nil
+	log.Println("Bulk insertion completed successfully.")
 }
