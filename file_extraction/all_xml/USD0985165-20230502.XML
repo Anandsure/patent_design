@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v47-2022-02-17.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.7 2022-02-17" file="USD0985165-20230502.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20230411" date-publ="20230502">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0985165</doc-number>
+<kind>S1</kind>
+<date>20230502</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>29781841</doc-number>
+<date>20210430</date>
+</document-id>
+</application-reference>
+<us-application-series-code>29</us-application-series-code>
+<us-term-of-grant>
+<length-of-grant>15</length-of-grant>
+</us-term-of-grant>
+<classification-locarno>
+<edition>14</edition>
+<main-classification>2602</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D26 52</main-classification>
+</classification-national>
+<invention-title id="d2e53">Light with playback function</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>D525740</doc-number>
+<kind>S</kind>
+<name>Parker</name>
+<date>20060700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D26104</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>D603374</doc-number>
+<kind>S</kind>
+<name>Peters</name>
+<date>20091100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14216</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>D756161</doc-number>
+<kind>S</kind>
+<name>Sands</name>
+<date>20160500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 7354</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>D783872</doc-number>
+<kind>S</kind>
+<name>Aksnes</name>
+<date>20170400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D26 41</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>D845791</doc-number>
+<kind>S</kind>
+<name>Yao</name>
+<date>20190400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D10 22</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>D871373</doc-number>
+<kind>S</kind>
+<name>Adani</name>
+<date>20191200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14216</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>D902638</doc-number>
+<kind>S</kind>
+<name>Chen</name>
+<date>20201100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 7354</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>D931517</doc-number>
+<kind>S</kind>
+<name>Wu</name>
+<date>20210900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D26110</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>D942672</doc-number>
+<kind>S</kind>
+<name>Chen</name>
+<date>20220200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D26104</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>D957037</doc-number>
+<kind>S</kind>
+<name>Yi</name>
+<date>20220700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D26104</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>D970074</doc-number>
+<kind>S</kind>
+<name>Chen</name>
+<date>20221100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14216</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>CN</country>
+<doc-number>306763972</doc-number>
+<date>20210800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00013">
+<othercit>Amazon | Viiwuu Flame Light Speaker, posted on Aug. 7, 2019, &#xa9; 1996-2022, Amazon.com, Inc. [online], site visited Dec. 5, 2022]. Available from Internet, &#x3c;URL: https://www.amazon.com/Viiwuu-Speakers-Atmosphere-Bluetooth-Portable/dp/B07W4LHLTW&#x3e; (Year: 2019).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+</us-references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D26 24</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D26 40</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D26 52</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D26 54</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D26104</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D10  5</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D10 21</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D10 22</main-classification>
+</classification-national>
+<classification-cpc-text>F21Y 2115/10</classification-cpc-text>
+<classification-cpc-text>F21V 33/0056</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>7</number-of-drawing-sheets>
+<number-of-figures>7</number-of-figures>
+</figures>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>SHENZHEN HAIKE INNOVATION ELECTRONICS CO., LTD.</orgname>
+<address>
+<city>Shenzhen</city>
+<country>CN</country>
+</address>
+</addressbook>
+<residence>
+<country>CN</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Wan</last-name>
+<first-name>Gangbin</first-name>
+<address>
+<city>Shenzhen</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<examiners>
+<primary-examiner>
+<last-name>Robinson</last-name>
+<first-name>Cary M</first-name>
+<department>2923</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Bailey</last-name>
+<first-name>Julie Marie</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="161.46mm" wi="118.87mm" file="USD0985165-20230502-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="213.44mm" wi="120.90mm" file="USD0985165-20230502-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="204.39mm" wi="120.90mm" file="USD0985165-20230502-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="206.67mm" wi="120.90mm" file="USD0985165-20230502-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="206.67mm" wi="120.90mm" file="USD0985165-20230502-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="206.67mm" wi="120.90mm" file="USD0985165-20230502-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="188.21mm" wi="120.90mm" file="USD0985165-20230502-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="188.13mm" wi="120.90mm" file="USD0985165-20230502-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a front, right side, top perspective view of a light with playback function showing my new design;</p>
+<p id="p-0002" num="0002"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a front elevational view thereof;</p>
+<p id="p-0003" num="0003"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a rear elevational view thereof;</p>
+<p id="p-0004" num="0004"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a left side elevational view thereof;</p>
+<p id="p-0005" num="0005"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a right side elevational view thereof;</p>
+<p id="p-0006" num="0006"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is a top plan view thereof; and,</p>
+<p id="p-0007" num="0007"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is a bottom plan view thereof.</p>
+<p id="p-0008" num="0008">The broken lines depict portions of the light with playback function that form no part of the claimed design.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>The ornamental design for a light with playback function, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

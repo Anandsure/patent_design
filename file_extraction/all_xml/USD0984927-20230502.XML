@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v47-2022-02-17.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.7 2022-02-17" file="USD0984927-20230502.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20230412" date-publ="20230502">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0984927</doc-number>
+<kind>S1</kind>
+<date>20230502</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>29812013</doc-number>
+<date>20211019</date>
+</document-id>
+</application-reference>
+<us-application-series-code>29</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="regional">
+<country>EM</country>
+<doc-number>008546733-0001</doc-number>
+<date>20210520</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<length-of-grant>15</length-of-grant>
+</us-term-of-grant>
+<classification-locarno>
+<edition>14</edition>
+<main-classification>1208</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D12 91</main-classification>
+</classification-national>
+<invention-title id="d2e71">Motor vehicle body, toy vehicle body replica and/or other replica</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>D641665</doc-number>
+<kind>S</kind>
+<name>Larson</name>
+<date>20110700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>D663240</doc-number>
+<kind>S</kind>
+<name>Scheinh&#xfc;tte</name>
+<date>20120700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>D669001</doc-number>
+<kind>S</kind>
+<name>Varga</name>
+<date>20121000</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>D684896</doc-number>
+<kind>S</kind>
+<name>Scheinh&#xfc;tte</name>
+<date>20130600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>D701146</doc-number>
+<kind>S</kind>
+<name>Varga</name>
+<date>20140300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>D704099</doc-number>
+<kind>S</kind>
+<name>Varga</name>
+<date>20140500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>D705131</doc-number>
+<kind>S</kind>
+<name>Larson</name>
+<date>20140500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>D731929</doc-number>
+<kind>S</kind>
+<name>Schramm</name>
+<date>20150600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>D733614</doc-number>
+<kind>S</kind>
+<name>Scheinh&#xfc;tte</name>
+<date>20150700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>D753023</doc-number>
+<kind>S</kind>
+<name>Villevoye</name>
+<date>20160400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>D774421</doc-number>
+<kind>S</kind>
+<name>Larson</name>
+<date>20161200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>D797607</doc-number>
+<kind>S</kind>
+<name>Preuninger</name>
+<date>20170900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>D805435</doc-number>
+<kind>S</kind>
+<name>Baum</name>
+<date>20171200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12 92</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>D805436</doc-number>
+<kind>S</kind>
+<name>Yamashita</name>
+<date>20171200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>D805437</doc-number>
+<kind>S</kind>
+<name>Varga</name>
+<date>20171200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12 92</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>D808862</doc-number>
+<kind>S</kind>
+<name>Ujhasi</name>
+<date>20180100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>D823727</doc-number>
+<kind>S</kind>
+<name>Hauser</name>
+<date>20180700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>D824288</doc-number>
+<kind>S</kind>
+<name>Hauser</name>
+<date>20180700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>D826784</doc-number>
+<kind>S</kind>
+<name>Hauser</name>
+<date>20180800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>D833331</doc-number>
+<kind>S</kind>
+<name>Yamashita</name>
+<date>20181100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12 92</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>D835730</doc-number>
+<kind>S</kind>
+<name>Chung</name>
+<date>20181200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D21548</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>D839786</doc-number>
+<kind>S</kind>
+<name>Baum</name>
+<date>20190200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12 92</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>D842759</doc-number>
+<kind>S</kind>
+<name>Baum</name>
+<date>20190300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12 92</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>D868631</doc-number>
+<kind>S</kind>
+<name>Larson</name>
+<date>20191200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>D870596</doc-number>
+<kind>S</kind>
+<name>Yamashita</name>
+<date>20191200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>D880359</doc-number>
+<kind>S</kind>
+<name>Baum</name>
+<date>20200400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>D881075</doc-number>
+<kind>S</kind>
+<name>Larson</name>
+<date>20200400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12 92</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00028">
+<document-id>
+<country>US</country>
+<doc-number>D883145</doc-number>
+<kind>S</kind>
+<name>Baum</name>
+<date>20200500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00029">
+<document-id>
+<country>US</country>
+<doc-number>D883146</doc-number>
+<kind>S</kind>
+<name>Baum</name>
+<date>20200500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00030">
+<document-id>
+<country>US</country>
+<doc-number>D885258</doc-number>
+<kind>S</kind>
+<name>Larson</name>
+<date>20200500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00031">
+<document-id>
+<country>US</country>
+<doc-number>D887900</doc-number>
+<kind>S</kind>
+<name>Stopka</name>
+<date>20200600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00032">
+<document-id>
+<country>US</country>
+<doc-number>D897902</doc-number>
+<kind>S</kind>
+<name>Scholz</name>
+<date>20201000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12 92</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00033">
+<document-id>
+<country>US</country>
+<doc-number>D897903</doc-number>
+<kind>S</kind>
+<name>Scholz</name>
+<date>20201000</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00034">
+<document-id>
+<country>US</country>
+<doc-number>D897904</doc-number>
+<kind>S</kind>
+<name>Stopka</name>
+<date>20201000</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00035">
+<document-id>
+<country>US</country>
+<doc-number>D913854</doc-number>
+<kind>S</kind>
+<name>Lenglin</name>
+<date>20210300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12 92</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00036">
+<document-id>
+<country>US</country>
+<doc-number>D918090</doc-number>
+<kind>S</kind>
+<name>Frank</name>
+<date>20210500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12 92</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00037">
+<document-id>
+<country>US</country>
+<doc-number>D951140</doc-number>
+<kind>S</kind>
+<name>Lenglin</name>
+<date>20220500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12 92</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00038">
+<document-id>
+<country>US</country>
+<doc-number>D951141</doc-number>
+<kind>S</kind>
+<name>Verbrugge</name>
+<date>20220500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12 92</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00039">
+<document-id>
+<country>US</country>
+<doc-number>D960047</doc-number>
+<kind>S</kind>
+<name>Larson</name>
+<date>20220800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12 92</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00040">
+<document-id>
+<country>US</country>
+<doc-number>D978728</doc-number>
+<kind>S</kind>
+<name>Larson</name>
+<date>20230200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12 91</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00041">
+<document-id>
+<country>US</country>
+<doc-number>D979730</doc-number>
+<kind>S</kind>
+<name>Paiho</name>
+<date>20230200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D23364</main-classification></classification-national>
+</us-citation>
+</us-references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D12 86</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D12 90- 92</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D12164</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D21433</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D21434</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D21533</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D21535</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>2961811-1815</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>2961831</main-classification>
+</classification-national>
+<classification-cpc-text>B62D 25/00</classification-cpc-text>
+<classification-cpc-text>B62D 25/06</classification-cpc-text>
+<classification-cpc-text>B62D 33/00</classification-cpc-text>
+<classification-cpc-text>B62D 35/00</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>5</number-of-drawing-sheets>
+<number-of-figures>5</number-of-figures>
+</figures>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Dr. Ing. h.c. F. Porsche Aktiengesellschaft</orgname>
+<address>
+<city>Stuttgart</city>
+<country>DE</country>
+</address>
+</addressbook>
+<residence>
+<country>DE</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Larson</last-name>
+<first-name>Grant</first-name>
+<address>
+<city>Stuttgart</city>
+<country>DE</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>RatnerPrestia</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<assignees>
+<assignee>
+<orgname>Dr. Ing. h.c. F. Porsche Aktiengesellschaft</orgname>
+<role>03</role>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Brown</last-name>
+<first-name>Melody N</first-name>
+<department>2917</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="84.33mm" wi="239.52mm" file="USD0984927-20230502-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="241.55mm" wi="105.07mm" orientation="landscape" file="USD0984927-20230502-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="80.01mm" wi="106.17mm" file="USD0984927-20230502-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="79.84mm" wi="106.34mm" file="USD0984927-20230502-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="241.81mm" wi="86.11mm" orientation="landscape" file="USD0984927-20230502-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="251.88mm" wi="106.34mm" file="USD0984927-20230502-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a top, front and right side perspective view of a motor vehicle body, toy vehicle body replica and/or other replica showing my new design;</p>
+<p id="p-0002" num="0002"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a front view thereof;</p>
+<p id="p-0003" num="0003"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a rear view thereof;</p>
+<p id="p-0004" num="0004"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a left side view thereof, the right side being a mirror image thereof; and,</p>
+<p id="p-0005" num="0005"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a top plan view thereof.</p>
+<p id="p-0006" num="0006">The portions of the motor vehicle body, toy vehicle body replica and/or other replica shown in broken lines are for illustrative and environmental purposes and form no part of the claimed design.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>The ornamental design for a motor vehicle body, toy vehicle body replica and/or other replica, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v47-2022-02-17.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.7 2022-02-17" file="USD0985013-20230502.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20230412" date-publ="20230502">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0985013</doc-number>
+<kind>S1</kind>
+<date>20230502</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>29804882</doc-number>
+<date>20210823</date>
+</document-id>
+</application-reference>
+<us-application-series-code>29</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2021-003986 D</doc-number>
+<date>20210226</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<length-of-grant>15</length-of-grant>
+</us-term-of-grant>
+<classification-locarno>
+<edition>14</edition>
+<main-classification>1404</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D14486</main-classification>
+</classification-national>
+<invention-title id="d2e71">Display screen or portion thereof with graphical user interface</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>3724079</doc-number>
+<kind>A</kind>
+<name>Jasperson</name>
+<date>19730400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>G09B 29/10</classification-cpc-text>
+<classification-national><country>US</country><main-classification>353 12</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>D418495</doc-number>
+<kind>S</kind>
+<name>Brockel</name>
+<date>20000100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14492</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>6034695</doc-number>
+<kind>A</kind>
+<name>Silva</name>
+<date>20000300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>G06F 3/0481</classification-cpc-text>
+<classification-national><country>US</country><main-classification>345475</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>8035547</doc-number>
+<kind>B1</kind>
+<name>Flanigan</name>
+<date>20111000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>G01S 19/48</classification-cpc-text>
+<classification-national><country>US</country><main-classification>342 36</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>D729829</doc-number>
+<kind>S</kind>
+<name>Amin</name>
+<date>20150500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14486</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>D732556</doc-number>
+<kind>S</kind>
+<name>Shunock</name>
+<date>20150600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14486</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>D766932</doc-number>
+<kind>S</kind>
+<name>Le Pors</name>
+<date>20160900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14485</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>D767599</doc-number>
+<kind>S</kind>
+<name>Le Pors</name>
+<date>20160900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14485</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>D791158</doc-number>
+<kind>S</kind>
+<name>Shiino</name>
+<date>20170700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14486</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>D795269</doc-number>
+<kind>S</kind>
+<name>Zhong</name>
+<date>20170800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14485</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>D842318</doc-number>
+<kind>S</kind>
+<name>J&#xe4;ger</name>
+<date>20190300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14486</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>D937297</doc-number>
+<kind>S</kind>
+<name>Ueda</name>
+<date>20211100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14486</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>20120265380</doc-number>
+<kind>A1</kind>
+<name>Kuwata</name>
+<date>20121000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>G05D 1/0206</classification-cpc-text>
+<classification-national><country>US</country><main-classification>701 21</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>20130318479</doc-number>
+<kind>A1</kind>
+<name>Porwal</name>
+<date>20131100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>G06F 3/04815</classification-cpc-text>
+<classification-national><country>US</country><main-classification>715849</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>20140071059</doc-number>
+<kind>A1</kind>
+<name>Girault</name>
+<date>20140300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B63B 49/00</classification-cpc-text>
+<classification-national><country>US</country><main-classification>345173</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>20140200806</doc-number>
+<kind>A1</kind>
+<name>Carnevali</name>
+<date>20140700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>G01C 21/203</classification-cpc-text>
+<classification-national><country>US</country><main-classification>701533</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>20150025718</doc-number>
+<kind>A1</kind>
+<name>Miichi</name>
+<date>20150100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B63B 49/00</classification-cpc-text>
+<classification-national><country>US</country><main-classification>701 21</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>20150261379</doc-number>
+<kind>A1</kind>
+<name>Kneuper</name>
+<date>20150900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B64D 43/00</classification-cpc-text>
+<classification-national><country>US</country><main-classification>345173</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>20150330803</doc-number>
+<kind>A1</kind>
+<name>Okuda</name>
+<date>20151100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>G01C 21/20</classification-cpc-text>
+<classification-national><country>US</country><main-classification>701538</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>20180190129</doc-number>
+<kind>A1</kind>
+<name>Park</name>
+<date>20180700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>G08G 3/02</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>20200225042</doc-number>
+<kind>A1</kind>
+<name>Morita</name>
+<date>20200700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>G09B 29/10</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>20200265624</doc-number>
+<kind>A1</kind>
+<name>Okuda</name>
+<date>20200800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>G06T 11/206</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>20210192176</doc-number>
+<kind>A1</kind>
+<name>Galerne</name>
+<date>20210600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>H04W 84/18</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>20210293943</doc-number>
+<kind>A1</kind>
+<name>Komiyama</name>
+<date>20210900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>G01S 7/6281</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>20210350710</doc-number>
+<kind>A1</kind>
+<name>Shimokawabe</name>
+<date>20211100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>G06F 3/04812</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>20220357160</doc-number>
+<kind>A1</kind>
+<name>Okuda</name>
+<date>20221100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>G01C 21/203</classification-cpc-text>
+</us-citation>
+<us-citation>
+<nplcit num="00027">
+<othercit>&#x201c;XO&#x2014;Pre-alpha Gameplay Walkthrough with Jumpdrive Studios&#x201d; Jul. 27, 2015, YouTube, site visited Dec. 8, 2022: https://www.youtube.com/watch?v=z_QNSRIH4v0 (Year: 2015).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+</us-references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D14485-495</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-cpc-text>G06F 3/04845</classification-cpc-text>
+<classification-cpc-text>G06F 3/017</classification-cpc-text>
+<classification-cpc-text>G06F 3/0481</classification-cpc-text>
+<classification-cpc-text>G06F 3/0484</classification-cpc-text>
+<classification-cpc-text>G06F 3/04847</classification-cpc-text>
+<classification-cpc-text>G06F 3/0488</classification-cpc-text>
+<classification-cpc-text>G06F 3/04883</classification-cpc-text>
+<classification-cpc-text>G06F 3/04812</classification-cpc-text>
+<classification-cpc-text>G06F 3/04815</classification-cpc-text>
+<classification-cpc-text>G06F 3/04842</classification-cpc-text>
+<classification-cpc-text>G06F 3/04817</classification-cpc-text>
+<classification-cpc-text>G06F 3/0482</classification-cpc-text>
+<classification-cpc-text>G06F 3/0346</classification-cpc-text>
+<classification-cpc-text>G06F 3/048</classification-cpc-text>
+<classification-cpc-text>G06F 3/04886</classification-cpc-text>
+<classification-cpc-text>G06F 2203/04806</classification-cpc-text>
+<classification-cpc-text>G06F 2203/04809</classification-cpc-text>
+<classification-cpc-text>G01C 21/005</classification-cpc-text>
+<classification-cpc-text>G01C 21/20</classification-cpc-text>
+<classification-cpc-text>G01C 21/03</classification-cpc-text>
+<classification-cpc-text>G01C 13/00</classification-cpc-text>
+<classification-cpc-text>G06T 11/206</classification-cpc-text>
+<classification-cpc-text>G06T 11/20</classification-cpc-text>
+<classification-cpc-text>G06T 17/05</classification-cpc-text>
+<classification-cpc-text>B63B 49/00</classification-cpc-text>
+<classification-cpc-text>B63B 22/16</classification-cpc-text>
+<classification-cpc-text>G01S 17/89</classification-cpc-text>
+<classification-cpc-text>G01S 13/937</classification-cpc-text>
+<classification-cpc-text>G01S 13/862</classification-cpc-text>
+<classification-cpc-text>G01S 7/10</classification-cpc-text>
+<classification-cpc-text>G08G 3/00</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>1</number-of-drawing-sheets>
+<number-of-figures>1</number-of-figures>
+</figures>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>FURUNO ELECTRIC CO., LTD.</orgname>
+<address>
+<city>Hyogo</city>
+<country>JP</country>
+</address>
+</addressbook>
+<residence>
+<country>JP</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Kanamaru</last-name>
+<first-name>Naohiro</first-name>
+<address>
+<city>Nishinomiya</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="002" designation="us-only">
+<addressbook>
+<last-name>Nishiyama</last-name>
+<first-name>Kohji</first-name>
+<address>
+<city>Nishinomiya</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="003" designation="us-only">
+<addressbook>
+<last-name>Hamamoto</last-name>
+<first-name>Kentaroh</first-name>
+<address>
+<city>Osaka</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>JCIPRNET</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>FURUNO ELECTRIC CO., LTD.</orgname>
+<role>03</role>
+<address>
+<city>Hyogo</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Holbrow</last-name>
+<first-name>Katherine A</first-name>
+<department>2923</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Spivey</last-name>
+<first-name>Christopher M</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="89.49mm" wi="158.07mm" file="USD0985013-20230502-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="91.52mm" wi="160.10mm" file="USD0985013-20230502-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001">The file of this patent contains at least one drawing/photograph executed in color. Copies of this patent with color drawing(s)/photograph(s) will be provided by the Office upon request and payment of the necessary fee.</p>
+<p id="p-0002" num="0002">The FIGURE is a front view of a display screen or portion thereof with graphical user interface showing our new design.</p>
+<p id="p-0003" num="0003">The outermost broken lines illustrate a display screen or portion thereof and form no part of the claimed design. The dot-dash broken lines in the graphical user interface represent the bounds of the claimed design and form no part of the claimed design. The low contrast portion inside the area surrounded by the dot-dash broken lines forms no part of the claimed design.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>The ornamental design for a display screen or portion thereof with graphical user interface, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v47-2022-02-17.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.7 2022-02-17" file="USD0985202-20230502.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20230412" date-publ="20230502">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0985202</doc-number>
+<kind>S1</kind>
+<date>20230502</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>29853861</doc-number>
+<date>20220920</date>
+</document-id>
+</application-reference>
+<us-application-series-code>29</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>CN</country>
+<doc-number>202230484722.4</doc-number>
+<date>20220727</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<length-of-grant>15</length-of-grant>
+</us-term-of-grant>
+<classification-locarno>
+<edition>14</edition>
+<main-classification>2899</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D28 912</main-classification>
+</classification-national>
+<invention-title id="d2e71">Back scratcher</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>D392070</doc-number>
+<kind>S</kind>
+<name>Pitaro</name>
+<date>19980300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D28 99</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>D610311</doc-number>
+<kind>S</kind>
+<name>Campbell</name>
+<date>20100200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D28 912</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>D672925</doc-number>
+<kind>S</kind>
+<name>Hungerford</name>
+<date>20121200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D30158</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>D688009</doc-number>
+<kind>S</kind>
+<name>Mahoney, Jr.</name>
+<date>20130800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 8 13</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>D710112</doc-number>
+<kind>S</kind>
+<name>Dunn</name>
+<date>20140800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 4125</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>D908287</doc-number>
+<kind>S</kind>
+<name>Zheng</name>
+<date>20210100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D28 912</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>D925128</doc-number>
+<kind>S</kind>
+<name>Yang et al.</name>
+<date>20210700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>D942694</doc-number>
+<kind>S</kind>
+<name>Yang</name>
+<date>20220200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D28 912</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>D950152</doc-number>
+<kind>S</kind>
+<name>Daniel</name>
+<date>20220400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D28  7</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>D970744</doc-number>
+<kind>S</kind>
+<name>Evans</name>
+<date>20221100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24215</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>D975927</doc-number>
+<kind>S</kind>
+<name>Zhou</name>
+<date>20230100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D28 912</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>20060142679</doc-number>
+<kind>A1</kind>
+<name>Tan</name>
+<date>20060600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A61H 7/001</classification-cpc-text>
+<classification-national><country>US</country><main-classification>601135</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>20190373855</doc-number>
+<kind>A1</kind>
+<name>Tayhan</name>
+<date>20191200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A01K 13/00</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00014">
+<document-id>
+<country>CN</country>
+<doc-number>202230484722.4</doc-number>
+<date>20221200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00015">
+<othercit>WOVTE Bear Claw Telescopic Back Scratcher, first available on Nov. 18, 2015 on amazon.com, retrieved from: https://www.amazon.com/WOVTE-Bear-Black-Telescopic-Scratcher/dp/B018EBNSBO/ref=ice_ac_b_dpb_sspa?crid=2TC96QSWD3SCU&#x26;keywords=wovte%2Bbear%2Bclaw%2Bblack%2Btelescopic%2Bback%2Bscratcher&#x26;qid=1674659669&#x26;sprefix=wo.</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00016">
+<othercit>Cerrxian Telescoping Back Scratcher, first available on Aug. 29, 2016 on amazon.com, retrieved from: https://www.amazon.com/Portable-Extendable-Telescopic-Scratchers-Massager/dp/B01L6Y0U30/ref=sr_1_5?crid=2T541QOQGTGCH&#x26;keywords=cerrxian+back+scratcher&#x26;qid=1674659742&#x26;sprefix=cerr%2Caps%2C243&#x26;sr=8-5.</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+</us-references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D28 912</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D30158-159</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-cpc-text>A61H 7/00</classification-cpc-text>
+<classification-cpc-text>A61H 7/002</classification-cpc-text>
+<classification-cpc-text>A61H 7/003</classification-cpc-text>
+<classification-cpc-text>A61H 2205/081</classification-cpc-text>
+<classification-cpc-text>A61H 2201/169-1692</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>9</number-of-drawing-sheets>
+<number-of-figures>9</number-of-figures>
+</figures>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only">
+<addressbook>
+<last-name>Pang</last-name>
+<first-name>Muxing</first-name>
+<address>
+<city>Maoming</city>
+<country>CN</country>
+</address>
+</addressbook>
+<residence>
+<country>CN</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Pang</last-name>
+<first-name>Muxing</first-name>
+<address>
+<city>Maoming</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<examiners>
+<primary-examiner>
+<last-name>Ofstun</last-name>
+<first-name>Alison M</first-name>
+<department>2924</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="188.38mm" wi="33.19mm" file="USD0985202-20230502-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="202.35mm" wi="35.22mm" file="USD0985202-20230502-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="202.35mm" wi="35.22mm" file="USD0985202-20230502-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="235.63mm" wi="40.98mm" file="USD0985202-20230502-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="235.63mm" wi="40.98mm" file="USD0985202-20230502-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="235.63mm" wi="23.96mm" file="USD0985202-20230502-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="235.63mm" wi="24.21mm" file="USD0985202-20230502-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="36.07mm" wi="40.98mm" file="USD0985202-20230502-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="36.07mm" wi="40.98mm" file="USD0985202-20230502-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="241.47mm" wi="32.26mm" file="USD0985202-20230502-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a front and top perspective view of a back scratcher, showing my new design;</p>
+<p id="p-0002" num="0002"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a rear and bottom perspective view thereof;</p>
+<p id="p-0003" num="0003"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a front elevation view thereof;</p>
+<p id="p-0004" num="0004"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a rear elevation view thereof;</p>
+<p id="p-0005" num="0005"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a left side elevation view thereof;</p>
+<p id="p-0006" num="0006"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is a right side elevation view thereof;</p>
+<p id="p-0007" num="0007"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is a top plan view thereof;</p>
+<p id="p-0008" num="0008"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is a bottom plan view thereof; and,</p>
+<p id="p-0009" num="0009"><figref idref="DRAWINGS">FIG. <b>9</b></figref> is another perspective view thereof, shown in an alternative position.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>The ornamental design for a back scratcher, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

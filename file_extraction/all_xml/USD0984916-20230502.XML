@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v47-2022-02-17.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.7 2022-02-17" file="USD0984916-20230502.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20230412" date-publ="20230502">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0984916</doc-number>
+<kind>S1</kind>
+<date>20230502</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>29788428</doc-number>
+<date>20210525</date>
+</document-id>
+</application-reference>
+<us-application-series-code>29</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>CN</country>
+<doc-number>202030731378.5</doc-number>
+<date>20201130</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<length-of-grant>15</length-of-grant>
+</us-term-of-grant>
+<classification-locarno>
+<edition>14</edition>
+<main-classification>1004</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D10 89</main-classification>
+</classification-national>
+<invention-title id="d2e71">Weighing scale with pendant weigh platform</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>D403976</doc-number>
+<kind>S</kind>
+<name>Suzuki</name>
+<date>19990100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>G01G 21/23</classification-cpc-text>
+<classification-national><country>US</country><main-classification>D10 88</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>D423964</doc-number>
+<kind>S</kind>
+<name>Gander</name>
+<date>20000500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>G01G 21/23</classification-cpc-text>
+<classification-national><country>US</country><main-classification>D10 88</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>D591623</doc-number>
+<kind>S</kind>
+<name>Taylor</name>
+<date>20090500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>G01G 21/23</classification-cpc-text>
+<classification-national><country>US</country><main-classification>D10 88</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>9752921</doc-number>
+<kind>B2</kind>
+<name>Kontschak</name>
+<date>20170900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>G01G 21/23</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>10962406</doc-number>
+<kind>B2</kind>
+<name>Smith</name>
+<date>20210300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>G01G 21/22</classification-cpc-text>
+</us-citation>
+</us-references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D10 89</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D10 93- 95</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-cpc-text>G01G 19/18</classification-cpc-text>
+<classification-cpc-text>G01G 21/23</classification-cpc-text>
+<classification-cpc-text>G01G 21/28</classification-cpc-text>
+<classification-cpc-text>G01G 1/02</classification-cpc-text>
+<classification-cpc-text>G01G 1/025</classification-cpc-text>
+<classification-cpc-text>G01G 1/04</classification-cpc-text>
+<classification-cpc-text>G01G 1/06</classification-cpc-text>
+<classification-cpc-text>G01G 1/08</classification-cpc-text>
+<classification-cpc-text>G01G 1/10</classification-cpc-text>
+<classification-cpc-text>G01G 1/12</classification-cpc-text>
+<classification-cpc-text>G01G 1/14</classification-cpc-text>
+<classification-cpc-text>G01G 1/16</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>7</number-of-drawing-sheets>
+<number-of-figures>8</number-of-figures>
+</figures>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Mettler-Toledo (Changzhou) Measurement Technology Co., Ltd.</orgname>
+<address>
+<city>Changzhou</city>
+<country>CN</country>
+</address>
+</addressbook>
+<residence>
+<country>CN</country>
+</residence>
+</us-applicant>
+<us-applicant sequence="002" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Mettler-Toledo (Changzhou) Precision Instrument Co., Ltd.</orgname>
+<address>
+<city>Changzhou</city>
+<country>CN</country>
+</address>
+</addressbook>
+<residence>
+<country>CN</country>
+</residence>
+</us-applicant>
+<us-applicant sequence="003" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Mettler-Toledo International Trading (Shanghai) Co., Ltd.</orgname>
+<address>
+<city>Shanghai</city>
+<country>CN</country>
+</address>
+</addressbook>
+<residence>
+<country>CN</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Cao</last-name>
+<first-name>Naiging</first-name>
+<address>
+<city>Changzhou</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="002" designation="us-only">
+<addressbook>
+<last-name>Zhu</last-name>
+<first-name>Feibai</first-name>
+<address>
+<city>Changzhou</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="003" designation="us-only">
+<addressbook>
+<last-name>Zhou</last-name>
+<first-name>Kai</first-name>
+<address>
+<city>Changzhou</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="004" designation="us-only">
+<addressbook>
+<last-name>Kempf</last-name>
+<first-name>Edgar</first-name>
+<address>
+<city>Inzigkofen</city>
+<country>DE</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="005" designation="us-only">
+<addressbook>
+<last-name>Kontschak</last-name>
+<first-name>Dieter</first-name>
+<address>
+<city>Winterlingen</city>
+<country>DE</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="006" designation="us-only">
+<addressbook>
+<last-name>Medugorac</last-name>
+<first-name>Kostas</first-name>
+<address>
+<city>Regensburg</city>
+<country>DE</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Standley Law Group LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+<agent sequence="02" rep-type="attorney">
+<addressbook>
+<last-name>Standley</last-name>
+<first-name>Jeffrey S.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+<agent sequence="03" rep-type="attorney">
+<addressbook>
+<last-name>Smith</last-name>
+<first-name>Adam J.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Mettler-Toledo (Changzhou) Measurement Technology Co., Ltd.</orgname>
+<role>03</role>
+<address>
+<city>Changzhou</city>
+<country>CN</country>
+</address>
+</addressbook>
+</assignee>
+<assignee>
+<addressbook>
+<orgname>Mettler-Toledo (Changzhou) Precision Instrument Co., Ltd.</orgname>
+<role>03</role>
+<address>
+<city>Changzhou</city>
+<country>CN</country>
+</address>
+</addressbook>
+</assignee>
+<assignee>
+<addressbook>
+<orgname>Mettler-Toledo International Trading (Shanghai) Co., Ltd.</orgname>
+<role>03</role>
+<address>
+<city>Shanghai</city>
+<country>CN</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Davis</last-name>
+<first-name>Antoine Duval</first-name>
+<department>2917</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="196.77mm" wi="114.47mm" file="USD0984916-20230502-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="218.95mm" wi="116.50mm" file="USD0984916-20230502-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="229.95mm" wi="116.67mm" file="USD0984916-20230502-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="229.70mm" wi="117.01mm" file="USD0984916-20230502-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="232.66mm" wi="72.98mm" file="USD0984916-20230502-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="230.97mm" wi="72.98mm" file="USD0984916-20230502-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="195.58mm" wi="116.76mm" file="USD0984916-20230502-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="221.74mm" wi="139.78mm" file="USD0984916-20230502-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a left front perspective view of a weighing scale with pendant weigh platform;</p>
+<p id="p-0002" num="0002"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a front elevation view thereof;</p>
+<p id="p-0003" num="0003"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a rear elevation view thereof;</p>
+<p id="p-0004" num="0004"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a right side elevation view thereof;</p>
+<p id="p-0005" num="0005"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a left side elevation view thereof;</p>
+<p id="p-0006" num="0006"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is a top plan view thereof;</p>
+<p id="p-0007" num="0007"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is a bottom plan view thereof; and,</p>
+<p id="p-0008" num="0008"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is a further left front perspective view thereof, showing a module thereof detached.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>The ornamental design for a weighing scale with pendant weigh platform, as shown.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

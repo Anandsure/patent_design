@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v47-2022-02-17.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.7 2022-02-17" file="USD0985126-20230502.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20230412" date-publ="20230502">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0985126</doc-number>
+<kind>S1</kind>
+<date>20230502</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>29871014</doc-number>
+<date>20230210</date>
+</document-id>
+</application-reference>
+<us-application-series-code>29</us-application-series-code>
+<us-term-of-grant>
+<length-of-grant>15</length-of-grant>
+</us-term-of-grant>
+<classification-locarno>
+<edition>14</edition>
+<main-classification>2402</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D24165</main-classification>
+</classification-national>
+<invention-title id="d2e53">Blood pressure monitor</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>D473308</doc-number>
+<kind>S</kind>
+<name>Nakanishi</name>
+<date>20030400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24165</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>D475788</doc-number>
+<kind>S</kind>
+<name>Inagaki</name>
+<date>20030600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24165</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>D484980</doc-number>
+<kind>S</kind>
+<name>Hartwein</name>
+<date>20040100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24165</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>D525710</doc-number>
+<kind>S</kind>
+<name>Kobayashi</name>
+<date>20060700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24165</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>D533279</doc-number>
+<kind>S</kind>
+<name>Kobayashi</name>
+<date>20061200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24165</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>D533666</doc-number>
+<kind>S</kind>
+<name>Kobayashi</name>
+<date>20061200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24165</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>D535028</doc-number>
+<kind>S</kind>
+<name>Kobayashi</name>
+<date>20070100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24165</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>D537944</doc-number>
+<kind>S</kind>
+<name>Eda</name>
+<date>20070300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24165</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>D541941</doc-number>
+<kind>S</kind>
+<name>Nakanishi</name>
+<date>20070500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24165</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>D562457</doc-number>
+<kind>S</kind>
+<name>Ferber</name>
+<date>20080200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24165</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>D569521</doc-number>
+<kind>S</kind>
+<name>Omaki</name>
+<date>20080500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>D569978</doc-number>
+<kind>S</kind>
+<name>Eda</name>
+<date>20080500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24165</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>D577440</doc-number>
+<kind>S</kind>
+<name>Ferber</name>
+<date>20080900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24165</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>D583474</doc-number>
+<kind>S</kind>
+<name>Mitsunami</name>
+<date>20081200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24165</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>D642274</doc-number>
+<kind>S</kind>
+<name>Ogihara</name>
+<date>20110700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24165</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>D651716</doc-number>
+<kind>S</kind>
+<name>Shibata</name>
+<date>20120100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24165</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>D654592</doc-number>
+<kind>S</kind>
+<name>Kawasaki</name>
+<date>20120200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24165</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>D665501</doc-number>
+<kind>S</kind>
+<name>Shibata</name>
+<date>20120800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24165</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>D722165</doc-number>
+<kind>S</kind>
+<name>Pukall</name>
+<date>20150200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24165</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>D739938</doc-number>
+<kind>S</kind>
+<name>Schempp</name>
+<date>20150900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24165</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>D739939</doc-number>
+<kind>S</kind>
+<name>Uozumi</name>
+<date>20150900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24165</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>D743035</doc-number>
+<kind>S</kind>
+<name>Uozumi</name>
+<date>20151100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24165</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>D811596</doc-number>
+<kind>S</kind>
+<name>Verbrugge et al.</name>
+<date>20180200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>D811597</doc-number>
+<kind>S</kind>
+<name>Verbrugge</name>
+<date>20180200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24165</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>D816224</doc-number>
+<kind>S</kind>
+<name>Wang</name>
+<date>20180400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24165</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>D861875</doc-number>
+<kind>S</kind>
+<name>Nishiyama</name>
+<date>20191000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24165</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>D862702</doc-number>
+<kind>S</kind>
+<name>Nishiyama</name>
+<date>20191000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24165</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00028">
+<document-id>
+<country>US</country>
+<doc-number>D885582</doc-number>
+<kind>S</kind>
+<name>Nishiyama</name>
+<date>20200500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24165</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00029">
+<document-id>
+<country>US</country>
+<doc-number>D903120</doc-number>
+<kind>S</kind>
+<name>Nishiyama</name>
+<date>20201100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24165</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00030">
+<document-id>
+<country>US</country>
+<doc-number>D922581</doc-number>
+<kind>S</kind>
+<name>Wang</name>
+<date>20210600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24165</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00031">
+<document-id>
+<country>US</country>
+<doc-number>D942628</doc-number>
+<kind>S</kind>
+<name>Dai</name>
+<date>20220200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24165</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00032">
+<document-id>
+<country>US</country>
+<doc-number>D965789</doc-number>
+<kind>S</kind>
+<name>Al-Ali</name>
+<date>20221000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24165</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00033">
+<document-id>
+<country>US</country>
+<doc-number>D978353</doc-number>
+<kind>S</kind>
+<name>Gao</name>
+<date>20230200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24165</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00034">
+<document-id>
+<country>US</country>
+<doc-number>D979065</doc-number>
+<kind>S</kind>
+<name>Wang</name>
+<date>20230200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24165</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00035">
+<document-id>
+<country>US</country>
+<doc-number>D979067</doc-number>
+<kind>S</kind>
+<name>Li</name>
+<date>20230200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24165</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00036">
+<document-id>
+<country>US</country>
+<doc-number>D979068</doc-number>
+<kind>S</kind>
+<name>Li</name>
+<date>20230200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24165</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00037">
+<document-id>
+<country>US</country>
+<doc-number>D979756</doc-number>
+<kind>S</kind>
+<name>Wang</name>
+<date>20230200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24165</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00038">
+<document-id>
+<country>US</country>
+<doc-number>D979757</doc-number>
+<kind>S</kind>
+<name>Hirasawa</name>
+<date>20230200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24165</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00039">
+<document-id>
+<country>US</country>
+<doc-number>D979758</doc-number>
+<kind>S</kind>
+<name>Hirasawa</name>
+<date>20230200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24165</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00040">
+<document-id>
+<country>US</country>
+<doc-number>20100041965</doc-number>
+<kind>A1</kind>
+<name>Kang</name>
+<date>20100200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A61B 5/00</classification-cpc-text>
+<classification-national><country>US</country><main-classification>600301</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00041">
+<document-id>
+<country>US</country>
+<doc-number>20150190064</doc-number>
+<kind>A1</kind>
+<name>Kinoshita</name>
+<date>20150700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A61B 5/7225</classification-cpc-text>
+<classification-national><country>US</country><main-classification>600490</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00042">
+<document-id>
+<country>CN</country>
+<doc-number>305511424</doc-number>
+<date>20191200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<patcit num="00043">
+<document-id>
+<country>GB</country>
+<doc-number>6160928</doc-number>
+<date>20210900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<patcit num="00044">
+<document-id>
+<country>IN</country>
+<doc-number>321055-001-0001</doc-number>
+<date>20191000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<patcit num="00045">
+<document-id>
+<country>IN</country>
+<doc-number>327856-001-0001</doc-number>
+<date>20210100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00046">
+<othercit>[Factory CE Approved Hot Selling Fast Delivery Hospital Wireless Smart BP Electronic Upper Arm Blood Pressure Monitor], alibaba.com, Posted: Date [Jun. 7, 2022], site visited: [Mar. 10, 2023], URL: &#x3c;https://www.alibaba.com/product-detail/Factory-CE-Approved-Hot-Selling-Fast_1600213643888.html?spm=a2700.shop_index.86.3.7b0a254dTMRIqN&#x3e;. (Year: 2022).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00047">
+<othercit>[Blood Pressure Monitor Upper Arm Automatic Digital BP Monitor Large Cuff 8.66-16.5&#x2033;, 2 Users 180 Memory Large Display, Irregular Heart Rate Indication, with DC Adapter], Amazon.com, Date First Available: May 21, 2020 [online], Customer Review Oldest Date: Date [online], site visited: [Mar. 10, 2023], URL: &#x3c;https://www.amazon.com/Pressure-Monitor-8-66-16-5-Irregular-Indication/dp/B0896ZVNHY&#x3e;. (Year: 2020).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00048">
+<othercit>[Paramed Blood Pressure Monitor&#x2014;Bp Machine&#x2014;Automatic Upper Arm Blood Pressure Cuff 8.7-15.7 inches&#x2014;Large LCD Display 120 Sets Memory&#x2014;Device Bag &#x26; Batteries Included], Amazon.com, Date First Available: Oct. 23, 2018[online], Customer Review Oldest Date: Nov. 22, 2018[online], site visited: [Mar. 10, 2023], URL: &#x3c;https://www.amazon.com/dp/B07JN1DF1D/&#x3e;. (Year: 2018).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00049">
+<othercit>[Wrist Blood Pressure Monitor Digital BP Monitor Rechargeable BP Machine with 2&#xd7;99 Readings Memory Large LCD Display Voice Broadcast Portable Carrying Case], Amazon.com, Date First Available: Apr. 15, 2022 [online], Customer Review Oldest Date: Sep. 28, 2021 [online], site visited: [Mar. 10, 2023], URL: &#x3c;https://www.amazon.com/Pressure-Rechargeable-Readings-Broadcast-Portable/dp/B0B7N78RP2/&#x3e;. (Year: 2022).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+</us-references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D24107</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D24164-168</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D24187</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D10 70</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D10 75</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D10 78</main-classification>
+</classification-national>
+<classification-cpc-text>A61B 5/0402</classification-cpc-text>
+<classification-cpc-text>A61B 5/0404</classification-cpc-text>
+<classification-cpc-text>A61B 5/021</classification-cpc-text>
+<classification-cpc-text>A61B 5/024</classification-cpc-text>
+<classification-cpc-text>A61B 5/02438</classification-cpc-text>
+<classification-cpc-text>A61B 5/681</classification-cpc-text>
+<classification-cpc-text>A61B 2560/0205</classification-cpc-text>
+<classification-cpc-text>A61B 2560/0462</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>8</number-of-drawing-sheets>
+<number-of-figures>8</number-of-figures>
+</figures>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Shenzhen Finicare Co., Ltd.</orgname>
+<address>
+<city>Shenzhen</city>
+<country>CN</country>
+</address>
+</addressbook>
+<residence>
+<country>CN</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Li</last-name>
+<first-name>Chao</first-name>
+<address>
+<city>Shenzhen</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<last-name>Park</last-name>
+<first-name>Jeenam</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Shenzhen Finicare Co., Ltd.</orgname>
+<role>03</role>
+<address>
+<city>Shenzhen</city>
+<country>CN</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Han</last-name>
+<first-name>Jonathan J</first-name>
+<department>2924</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Berlinski</last-name>
+<first-name>Amanda J</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="171.45mm" wi="273.90mm" file="USD0985126-20230502-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="190.25mm" wi="153.59mm" file="USD0985126-20230502-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="189.06mm" wi="153.59mm" file="USD0985126-20230502-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="215.98mm" wi="124.46mm" file="USD0985126-20230502-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="215.98mm" wi="124.46mm" file="USD0985126-20230502-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="215.98mm" wi="70.44mm" file="USD0985126-20230502-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="215.98mm" wi="70.44mm" file="USD0985126-20230502-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="164.42mm" wi="124.46mm" file="USD0985126-20230502-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="164.42mm" wi="124.46mm" file="USD0985126-20230502-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a front, right and bottom perspective view of a blood pressure monitor, showing my new design;</p>
+<p id="p-0002" num="0002"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a rear, left and top perspective view thereof;</p>
+<p id="p-0003" num="0003"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a front view thereof;</p>
+<p id="p-0004" num="0004"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a rear view thereof;</p>
+<p id="p-0005" num="0005"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a left side view thereof;</p>
+<p id="p-0006" num="0006"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is a right side view thereof;</p>
+<p id="p-0007" num="0007"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is a top plan view thereof; and,</p>
+<p id="p-0008" num="0008"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is a bottom plan view thereof.</p>
+<p id="p-0009" num="0009">The broken lines shown in the drawings illustrate portions of the blood pressure monitor that form no part of the claimed design.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>The ornamental design for a blood pressure monitor, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

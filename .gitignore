@@ -19,3 +19,6 @@
 
 # Go workspace file
 go.work
+datasets
+file_extraction/full_data
+file_extraction/all_xml

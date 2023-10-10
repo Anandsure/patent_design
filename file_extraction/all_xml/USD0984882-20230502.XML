@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v47-2022-02-17.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.7 2022-02-17" file="USD0984882-20230502.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20230412" date-publ="20230502">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0984882</doc-number>
+<kind>S1</kind>
+<date>20230502</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>29784852</doc-number>
+<date>20210521</date>
+</document-id>
+</application-reference>
+<us-application-series-code>29</us-application-series-code>
+<us-term-of-grant>
+<length-of-grant>15</length-of-grant>
+</us-term-of-grant>
+<classification-locarno>
+<edition>14</edition>
+<main-classification>0903</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D 9418</main-classification>
+</classification-national>
+<invention-title id="d2e53">Unit dose container</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>D474110</doc-number>
+<kind>S</kind>
+<name>Sweeney</name>
+<date>20030500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9425</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>D476735</doc-number>
+<kind>S</kind>
+<name>Zinnbauer</name>
+<date>20030700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24121</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>D493105</doc-number>
+<kind>S</kind>
+<name>Childs</name>
+<date>20040700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9425</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>D520185</doc-number>
+<kind>S</kind>
+<name>Zeng</name>
+<date>20060500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D28  81</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>D606405</doc-number>
+<kind>S</kind>
+<name>Takata</name>
+<date>20091200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9500</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>D647398</doc-number>
+<kind>S</kind>
+<name>Winkler</name>
+<date>20111000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9417</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>D651096</doc-number>
+<kind>S</kind>
+<name>Nakagiri</name>
+<date>20111200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9503</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>D671830</doc-number>
+<kind>S</kind>
+<name>Hudson</name>
+<date>20121200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9428</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>D691468</doc-number>
+<kind>S</kind>
+<name>Markoulis</name>
+<date>20131000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9428</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>D732386</doc-number>
+<kind>S</kind>
+<name>Paton</name>
+<date>20150600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9428</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>D823051</doc-number>
+<kind>S</kind>
+<name>Sharma</name>
+<date>20180700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9503</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>D845771</doc-number>
+<kind>S</kind>
+<name>Davila Bracho</name>
+<date>20190400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9500</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>D868543</doc-number>
+<kind>S</kind>
+<name>Carrette</name>
+<date>20191200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 7602</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>D906801</doc-number>
+<kind>S</kind>
+<name>Ryan</name>
+<date>20210100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9428</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>20220257469</doc-number>
+<kind>A1</kind>
+<name>Wang</name>
+<date>20220800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A61K 9/1652</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00016">
+<document-id>
+<country>GB</country>
+<doc-number>2498449</doc-number>
+<kind>A</kind>
+<date>20130700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B65D 1/46</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00017">
+<document-id>
+<country>KR</country>
+<doc-number>20210087135</doc-number>
+<kind>A</kind>
+<date>20210700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00018">
+<othercit>Velveeta Mac and Cheese Single Serve Cup on YouTube. Date posted: Nov. 7, 2021. Site visited:Dec. 9, 2022. Available online: https://www.youtube.com/watch?v=aoyCKmyDRns (Year: 2021).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00019">
+<othercit>Glass Serving Bowl on Ebay. Date posted: Aug. 25, 2022. Site visited: Dec. 9, 2022. Available online: https://www.ebay.com/itm/294060227055 (Year: 2022).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00020">
+<othercit>Nestle Coffee mate Coffee Creamer. Date first available: Nov. 13, 2018. Site visited: Dec. 9, 2022. Available online: https://www.amazon.com/Nestle-Coffee-Creamer-Portions-vanilla/dp/B009FS5TM2 (Year: 2018).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00021">
+<othercit>Medical Supply Saline Solution. Date first available: May 22, 2019. Site visited: Dec. 9, 2022. Available online: https://www.amazon.com/AMZ-Solution-Irrigation-Injection-Foil-Lidded/dp/B08QJNX8PQ/ref=sr_1_46 (Year: 2019).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+</us-references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D 9414</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9415</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9416</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9418</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9430-433</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9428</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9429</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9424</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9500</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9503</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9707</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 7397-399</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 7400</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 7387</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 7630</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 7602</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 7589</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D24227</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D24230</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D24104</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D19102</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D19103</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D19104</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D28 82</main-classification>
+</classification-national>
+<classification-cpc-text>B65D 85/804</classification-cpc-text>
+<classification-cpc-text>B65D 85/8043</classification-cpc-text>
+<classification-cpc-text>B65D 85/8046</classification-cpc-text>
+<classification-cpc-text>B65D 5/50</classification-cpc-text>
+<classification-cpc-text>B65D 5/00</classification-cpc-text>
+<classification-cpc-text>B65D 5/42</classification-cpc-text>
+<classification-cpc-text>A61J 1/20</classification-cpc-text>
+<classification-cpc-text>A61J 1/1468</classification-cpc-text>
+<classification-cpc-text>A61J 1/18</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>16</number-of-drawing-sheets>
+<number-of-figures>16</number-of-figures>
+</figures>
+<us-related-documents>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>PCT/US2020/055962</doc-number>
+<date>20201016</date>
+</document-id>
+<parent-status>PENDING</parent-status>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>29784852</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Brillian Pharma LLC</orgname>
+<address>
+<city>Monmouth Junction</city>
+<state>NJ</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Wang</last-name>
+<first-name>Nuo</first-name>
+<address>
+<city>Newtown</city>
+<state>PA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="002" designation="us-only">
+<addressbook>
+<last-name>Lin</last-name>
+<first-name>Shaohui</first-name>
+<address>
+<city>Princeton</city>
+<state>NJ</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Fox Rothschild LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Brillian Pharma LLC</orgname>
+<role>02</role>
+<address>
+<city>Monmouth Junction</city>
+<state>NJ</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Posthauer</last-name>
+<first-name>Catherine S</first-name>
+<department>2917</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Diehl</last-name>
+<first-name>Joan E.</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="52.66mm" wi="158.75mm" file="USD0984882-20230502-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="109.81mm" wi="135.38mm" file="USD0984882-20230502-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="74.00mm" wi="127.51mm" file="USD0984882-20230502-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="74.08mm" wi="127.51mm" file="USD0984882-20230502-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="74.00mm" wi="156.97mm" file="USD0984882-20230502-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="74.00mm" wi="156.97mm" file="USD0984882-20230502-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="206.16mm" wi="127.51mm" file="USD0984882-20230502-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="174.58mm" wi="127.51mm" file="USD0984882-20230502-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="74.00mm" wi="156.13mm" file="USD0984882-20230502-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="109.81mm" wi="135.38mm" file="USD0984882-20230502-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="74.00mm" wi="127.51mm" file="USD0984882-20230502-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="74.00mm" wi="127.51mm" file="USD0984882-20230502-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="74.00mm" wi="156.13mm" file="USD0984882-20230502-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="74.08mm" wi="156.04mm" file="USD0984882-20230502-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="206.16mm" wi="127.51mm" file="USD0984882-20230502-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00015" num="00015">
+<img id="EMI-D00015" he="174.58mm" wi="127.51mm" file="USD0984882-20230502-D00015.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00016" num="00016">
+<img id="EMI-D00016" he="74.00mm" wi="156.13mm" file="USD0984882-20230502-D00016.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a perspective view of a first embodiment of a unit dose container showing the new design;</p>
+<p id="p-0002" num="0002"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a front view of the first embodiment;</p>
+<p id="p-0003" num="0003"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a rear view of the first embodiment;</p>
+<p id="p-0004" num="0004"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a right view of the first embodiment;</p>
+<p id="p-0005" num="0005"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a left view of the first embodiment;</p>
+<p id="p-0006" num="0006"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is a top view of the first embodiment;</p>
+<p id="p-0007" num="0007"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is a bottom view of the first embodiment; and</p>
+<p id="p-0008" num="0008"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is a cross-sectional view of the first embodiment taken along axis <b>8</b>-<b>8</b> of <figref idref="DRAWINGS">FIG. <b>6</b></figref>.</p>
+<p id="p-0009" num="0009"><figref idref="DRAWINGS">FIG. <b>9</b></figref> is a perspective view of a second embodiment of the unit dose container showing the new design;</p>
+<p id="p-0010" num="0010"><figref idref="DRAWINGS">FIG. <b>10</b></figref> is a front view of the second embodiment;</p>
+<p id="p-0011" num="0011"><figref idref="DRAWINGS">FIG. <b>11</b></figref> is a rear view of the second embodiment;</p>
+<p id="p-0012" num="0012"><figref idref="DRAWINGS">FIG. <b>12</b></figref> is a right view of the second embodiment;</p>
+<p id="p-0013" num="0013"><figref idref="DRAWINGS">FIG. <b>13</b></figref> is a left view of the second embodiment;</p>
+<p id="p-0014" num="0014"><figref idref="DRAWINGS">FIG. <b>14</b></figref> is a top view of the second embodiment;</p>
+<p id="p-0015" num="0015"><figref idref="DRAWINGS">FIG. <b>15</b></figref> is a bottom view of the second embodiment; and,</p>
+<p id="p-0016" num="0016"><figref idref="DRAWINGS">FIG. <b>16</b></figref> is a cross-sectional view of the second embodiment taken along axis <b>16</b>-<b>16</b> of <figref idref="DRAWINGS">FIG. <b>14</b></figref>.</p>
+<p id="p-0017" num="0017">The broken lines are show for the purpose of illustrating parts of the article that form no part of the claimed design.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>The ornamental design for a unit dose container, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v47-2022-02-17.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.7 2022-02-17" file="USD0984820-20230502.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20230412" date-publ="20230502">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0984820</doc-number>
+<kind>S1</kind>
+<date>20230502</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>29769701</doc-number>
+<date>20210207</date>
+</document-id>
+</application-reference>
+<us-application-series-code>29</us-application-series-code>
+<us-term-of-grant>
+<length-of-grant>15</length-of-grant>
+</us-term-of-grant>
+<classification-locarno>
+<edition>14</edition>
+<main-classification>0601</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D 6379</main-classification>
+</classification-national>
+<invention-title id="d2e53">Chair</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>D193842</doc-number>
+<kind>S</kind>
+<name>Ohlsson</name>
+<date>19621000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6379</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>D233494</doc-number>
+<kind>S</kind>
+<name>Boylos</name>
+<date>19741100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6373</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>D250922</doc-number>
+<kind>S</kind>
+<name>Adkinson</name>
+<date>19790100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6379</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>D359176</doc-number>
+<kind>S</kind>
+<name>Tihany</name>
+<date>19950600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6334</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>D465662</doc-number>
+<kind>S</kind>
+<name>Hutton</name>
+<date>20021100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6334</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>D489188</doc-number>
+<kind>S</kind>
+<name>Ricci</name>
+<date>20040500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6334</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>D534734</doc-number>
+<kind>S</kind>
+<name>Bernett</name>
+<date>20070100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6367</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>D569111</doc-number>
+<kind>S</kind>
+<name>Swanson</name>
+<date>20080500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6381</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>D572935</doc-number>
+<kind>S</kind>
+<name>Sargent</name>
+<date>20080700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6379</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>D664778</doc-number>
+<kind>S</kind>
+<name>Pheasant</name>
+<date>20120800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6334</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>D677911</doc-number>
+<kind>S</kind>
+<name>Hamilton</name>
+<date>20130300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6334</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>D698170</doc-number>
+<kind>S</kind>
+<name>Caldwell</name>
+<date>20140100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6370</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>D848172</doc-number>
+<kind>S</kind>
+<name>Tham</name>
+<date>20190500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6370</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>D874167</doc-number>
+<kind>S</kind>
+<name>Tian</name>
+<date>20200200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6334</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<nplcit num="00015">
+<othercit>Anika Armchair, available in overstock.com, oldest review date of Oct. 4, 2020, site visited Aug. 23, 2022, URL:https://www.overstock.com/Home-Garden/Anika-Armchair/31588934/product.html (Year: 2020).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00016">
+<othercit>Olson Leather Chair, available in highfashionhome.com, site visited Aug. 17, 2022, URL:https://www.highfashionhome.com/collections/accent-chairs/products/olson-leather-chair-sonoma-butterscotch (Year: 2022).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00017">
+<othercit>Luca Modern Mustard Accent Chair, available in lowes.com, site visited on Aug. 23, 2022, URL:https://www.lowes.com/pd/14-Karat-Home-Luca-Modern-Mustard-Accent-Chair-with-Square-Open-framed-Arm-and-Stainless-Steel-Legs/5013702905 (Year: 2022).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+</us-references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D 6334-347</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6367</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6369</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6370</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6371</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6373-375</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6377</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6378</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6379</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6381</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6382</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6717</main-classification>
+</classification-national>
+<classification-cpc-text>A47C 7/18</classification-cpc-text>
+<classification-cpc-text>A47C 7/22</classification-cpc-text>
+<classification-cpc-text>A47C 7/24</classification-cpc-text>
+<classification-cpc-text>A47C 7/54</classification-cpc-text>
+<classification-cpc-text>A47C 7/541</classification-cpc-text>
+<classification-cpc-text>A47C 7/543</classification-cpc-text>
+<classification-cpc-text>A47C 7/546</classification-cpc-text>
+<classification-cpc-text>A47C 17/02</classification-cpc-text>
+<classification-cpc-text>A47C 17/04</classification-cpc-text>
+<classification-cpc-text>A47C 15/002</classification-cpc-text>
+<classification-cpc-text>A47C 5/043</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>8</number-of-drawing-sheets>
+<number-of-figures>8</number-of-figures>
+</figures>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only">
+<addressbook>
+<last-name>Fan</last-name>
+<first-name>Weiping</first-name>
+<address>
+<city>Zhejiang</city>
+<country>CN</country>
+</address>
+</addressbook>
+<residence>
+<country>CN</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Fan</last-name>
+<first-name>Weiping</first-name>
+<address>
+<city>Zhejiang</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Hangzhou Jieziya Home Furnishing Co., Ltd.</orgname>
+<role>03</role>
+<address>
+<city>Hangzhou</city>
+<country>CN</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Calabrese</last-name>
+<first-name>Mary Ann</first-name>
+<department>2913</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Wolfley</last-name>
+<first-name>Mark David</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="155.45mm" wi="302.68mm" file="USD0984820-20230502-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="194.65mm" wi="153.33mm" file="USD0984820-20230502-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="202.18mm" wi="131.57mm" file="USD0984820-20230502-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="202.18mm" wi="131.57mm" file="USD0984820-20230502-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="202.10mm" wi="153.59mm" file="USD0984820-20230502-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="202.01mm" wi="153.50mm" file="USD0984820-20230502-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="189.82mm" wi="131.57mm" file="USD0984820-20230502-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="196.00mm" wi="131.83mm" file="USD0984820-20230502-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="193.04mm" wi="153.59mm" file="USD0984820-20230502-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a perspective view of a chair showing my new design;</p>
+<p id="p-0002" num="0002"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a front elevation view thereof;</p>
+<p id="p-0003" num="0003"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a rear elevation view thereof;</p>
+<p id="p-0004" num="0004"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a left side elevation view thereof;</p>
+<p id="p-0005" num="0005"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a right side elevation view thereof;</p>
+<p id="p-0006" num="0006"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is a top plan view thereof;</p>
+<p id="p-0007" num="0007"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is a bottom plan view thereof; and,</p>
+<p id="p-0008" num="0008"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is a rear, right side perspective view thereof.</p>
+<p id="p-0009" num="0009">The broken lines in the drawings depict portions of the chair that form no part of the claimed design.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>The ornamental design for a chair, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

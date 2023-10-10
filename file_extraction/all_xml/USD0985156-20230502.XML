@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v47-2022-02-17.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.7 2022-02-17" file="USD0985156-20230502.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20230411" date-publ="20230502">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0985156</doc-number>
+<kind>S1</kind>
+<date>20230502</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>29774107</doc-number>
+<date>20210315</date>
+</document-id>
+</application-reference>
+<us-application-series-code>29</us-application-series-code>
+<us-term-of-grant>
+<length-of-grant>15</length-of-grant>
+</us-term-of-grant>
+<classification-locarno>
+<edition>14</edition>
+<main-classification>2604</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D26 25</main-classification>
+</classification-national>
+<invention-title id="d2e53">Mesh light</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>D370984</doc-number>
+<kind>S</kind>
+<name>Stencel</name>
+<date>19960600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D26 25</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>5601361</doc-number>
+<kind>A</kind>
+<name>Lawrence</name>
+<date>19970200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>F21S 4/10</classification-cpc-text>
+<classification-national><country>US</country><main-classification>362238</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>5632550</doc-number>
+<kind>A</kind>
+<name>Yeh</name>
+<date>19970500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>H05B 45/40</classification-cpc-text>
+<classification-national><country>US</country><main-classification>36224916</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>5775802</doc-number>
+<kind>A</kind>
+<name>Kuo</name>
+<date>19980700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>F21S 4/10</classification-cpc-text>
+<classification-national><country>US</country><main-classification>362396</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>5951146</doc-number>
+<kind>A</kind>
+<name>Lin</name>
+<date>19990900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>F21S 4/10</classification-cpc-text>
+<classification-national><country>US</country><main-classification>36224915</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>6315430</doc-number>
+<kind>B1</kind>
+<name>Huang</name>
+<date>20011100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>F21S 4/10</classification-cpc-text>
+<classification-national><country>US</country><main-classification>36224915</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>D603535</doc-number>
+<kind>S</kind>
+<name>Sterijevski</name>
+<date>20091100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D26 25</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>D690038</doc-number>
+<kind>S</kind>
+<name>Colbert, Jr.</name>
+<date>20130900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D26 25</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>D875973</doc-number>
+<kind>S</kind>
+<name>Zhou</name>
+<date>20200200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D26 25</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>11168851</doc-number>
+<kind>B1</kind>
+<name>Chen</name>
+<date>20211100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>F21S 4/15</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>11181242</doc-number>
+<kind>B2</kind>
+<name>Stange</name>
+<date>20211100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>F21V 23/06</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>11231151</doc-number>
+<kind>B1</kind>
+<name>Liu</name>
+<date>20220100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>F21S 4/15</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>D951496</doc-number>
+<kind>S</kind>
+<name>Xiao</name>
+<date>20220500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D26 25</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>D952196</doc-number>
+<kind>S</kind>
+<name>Xu</name>
+<date>20220500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D26 25</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>11353177</doc-number>
+<kind>B1</kind>
+<name>Jia</name>
+<date>20220600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>F21V 33/0016</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>D970760</doc-number>
+<kind>S</kind>
+<name>Li</name>
+<date>20221100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D26 25</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>20030071580</doc-number>
+<kind>A1</kind>
+<name>Chang</name>
+<date>20030400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>F21S 4/15</classification-cpc-text>
+<classification-national><country>US</country><main-classification>315185 S</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>20090146910</doc-number>
+<kind>A1</kind>
+<name>Gardner</name>
+<date>20090600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>G09F 9/3026</classification-cpc-text>
+<classification-national><country>US</country><main-classification>345  13</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>20190113188</doc-number>
+<kind>A1</kind>
+<name>Miller</name>
+<date>20190400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>F21S 4/15</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00020">
+<document-id>
+<country>CN</country>
+<doc-number>307303998</doc-number>
+<date>20220400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00021">
+<othercit>&#x201c;SoftTwinkle&#x201d; reference by Christmas Lights Etc on Amazon.com, date first available Oct. 18, 2018 [online], site visited Nov. 16, 2022, available from internet URL: https://www.amazon.com/dp/B07JWL7GQG (Year: 2018).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00022">
+<othercit>&#x201c;Christmas&#x201d; reference by Subular-US on Amazon.com, date first available Aug. 11, 2022 [online], site visited Nov. 16, 2022, available from internet URL: https://www.amazon.com/Christmas-Decorations-Connectable-Waterproof-Multicolor/dp/B0B9BBXYVF/ (Year: 2022).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00023">
+<othercit>&#x201c;90ct&#x201d; reference on Target.com, oldest customer review date 2022 [online], site visited Nov. 16, 2022, available from internet URL: https://www.target.com/p/90ct-led-smooth-sphere-net-lights-with-green-wire-wondershop/-/A-86722585 (Year: 2022).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00024">
+<othercit>&#x201c;Philips&#x201d; reference on Target.com, oldest customer review date 2020 [online], site visited Nov. 16, 2022, available from internet URL: https://www.target.com/p/philips-battery-operated-led-dew-drop-3-39-x3-39-49ct-christmas-net-lights-multicolored-with-green-wire/-/A-79195378#Ink=sametab (Year: 2020).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+</us-references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D26  1</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D26  2</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D26  4</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D26 24</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D26 25</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D26 27</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D26 57</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D26 61</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D26 67</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D26 73</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D26 94</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D26 98</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D26103</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D26110</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D26119</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D26128</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D11117</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D11121</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D11130</main-classification>
+</classification-national>
+<classification-cpc-text>F21S 4/00</classification-cpc-text>
+<classification-cpc-text>F21S 4/10</classification-cpc-text>
+<classification-cpc-text>F21S 4/15</classification-cpc-text>
+<classification-cpc-text>F21S 4/20</classification-cpc-text>
+<classification-cpc-text>F21S 4/22</classification-cpc-text>
+<classification-cpc-text>F21S 4/24</classification-cpc-text>
+<classification-cpc-text>F21S 4/26</classification-cpc-text>
+<classification-cpc-text>F21W 2121/00</classification-cpc-text>
+<classification-cpc-text>F21W 2121/04</classification-cpc-text>
+<classification-cpc-text>F21W 2131/109</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>10</number-of-drawing-sheets>
+<number-of-figures>10</number-of-figures>
+</figures>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>SHENZHEN EKOLA LIGHTING TECHNOLOGY CO., LTD.</orgname>
+<address>
+<city>Shenzhen</city>
+<country>CN</country>
+</address>
+</addressbook>
+<residence>
+<country>CN</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Liu</last-name>
+<first-name>Jie</first-name>
+<address>
+<city>Shenzhen</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="002" designation="us-only">
+<addressbook>
+<last-name>Chen</last-name>
+<first-name>Jianbo</first-name>
+<address>
+<city>Shenzhen</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="003" designation="us-only">
+<addressbook>
+<last-name>Xie</last-name>
+<first-name>Dingbo</first-name>
+<address>
+<city>Shenzhen</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="004" designation="us-only">
+<addressbook>
+<last-name>Jia</last-name>
+<first-name>Bingbin</first-name>
+<address>
+<city>Shenzhen</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>SHENZHEN EKOLA LIGHTING TECHNOLOGY CO., LTD.</orgname>
+<role>03</role>
+<address>
+<city>Shenzhen</city>
+<country>CN</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Kearney</last-name>
+<first-name>Richard</first-name>
+<department>2916</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Anderson</last-name>
+<first-name>Liv C</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="134.79mm" wi="256.03mm" file="USD0985156-20230502-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="258.06mm" wi="153.84mm" orientation="landscape" file="USD0985156-20230502-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="258.49mm" wi="153.42mm" orientation="landscape" file="USD0985156-20230502-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="257.39mm" wi="172.72mm" orientation="landscape" file="USD0985156-20230502-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="257.39mm" wi="172.72mm" orientation="landscape" file="USD0985156-20230502-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="31.92mm" wi="172.72mm" orientation="landscape" file="USD0985156-20230502-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="31.92mm" wi="172.72mm" file="USD0985156-20230502-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="257.39mm" wi="98.04mm" orientation="landscape" file="USD0985156-20230502-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="257.39mm" wi="98.04mm" orientation="landscape" file="USD0985156-20230502-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="258.74mm" wi="144.10mm" orientation="landscape" file="USD0985156-20230502-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="259.42mm" wi="171.62mm" orientation="landscape" file="USD0985156-20230502-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a perspective view of a mesh light showing my new design;</p>
+<p id="p-0002" num="0002"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is another perspective view thereof;</p>
+<p id="p-0003" num="0003"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a front elevational view thereof;</p>
+<p id="p-0004" num="0004"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a rear elevational view thereof;</p>
+<p id="p-0005" num="0005"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a left side elevational view thereof;</p>
+<p id="p-0006" num="0006"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is a right side elevational view thereof;</p>
+<p id="p-0007" num="0007"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is a top plan view thereof;</p>
+<p id="p-0008" num="0008"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is a bottom plan view thereof.</p>
+<p id="p-0009" num="0009"><figref idref="DRAWINGS">FIG. <b>9</b></figref> is an enlarged view of portion <b>9</b> shown in <figref idref="DRAWINGS">FIG. <b>2</b></figref>; and,</p>
+<p id="p-0010" num="0010"><figref idref="DRAWINGS">FIG. <b>10</b></figref> is an enlarged view of portion <b>10</b> shown in <figref idref="DRAWINGS">FIG. <b>2</b></figref>.</p>
+<p id="p-0011" num="0011">The mesh light is shown with a symbolic break in its length and the appearance of any portion of the mesh light between the break lines form no part of the claimed design. The broken lines in the drawings depict portions of the mesh light that form no part of the claimed design. The dot-dash lines encircling enlarged views in <figref idref="DRAWINGS">FIGS. <b>2</b>, <b>9</b>, and <b>10</b></figref> are for annotative purposes only and form no part of the claimed design.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>The ornamental design for a mesh light, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

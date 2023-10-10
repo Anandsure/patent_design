@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v47-2022-02-17.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.7 2022-02-17" file="USD0984793-20230502.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20230412" date-publ="20230502">
+    <us-bibliographic-data-grant>
+        <publication-reference>
+            <document-id>
+                <country>US</country>
+                <doc-number>D0984793</doc-number>
+                <kind>S1</kind>
+                <date>20230502</date>
+            </document-id>
+        </publication-reference>
+        <application-reference appl-type="design">
+            <document-id>
+                <country>US</country>
+                <doc-number>29764149</doc-number>
+                <date>20201229</date>
+            </document-id>
+        </application-reference>
+        <us-application-series-code>29</us-application-series-code>
+        <priority-claims>
+            <priority-claim sequence="01" kind="national">
+                <country>CN</country>
+                <doc-number>202030340008.9</doc-number>
+                <date>20200629</date>
+            </priority-claim>
+        </priority-claims>
+        <us-term-of-grant>
+            <length-of-grant>15</length-of-grant>
+        </us-term-of-grant>
+        <classification-locarno>
+            <edition>14</edition>
+            <main-classification>0301</main-classification>
+        </classification-locarno>
+        <classification-national>
+            <country>US</country>
+            <main-classification>D 3201</main-classification>
+        </classification-national>
+        <invention-title id="d2e71">Earphone box</invention-title>
+        <us-references-cited>
+            <us-citation>
+                <patcit num="00001">
+                    <document-id>
+                        <country>US</country>
+                        <doc-number>D262152</doc-number>
+                        <kind>S</kind>
+                        <name>Holloway</name>
+                        <date>19811200</date>
+                    </document-id>
+                </patcit>
+                <category>cited by examiner</category>
+                <classification-national>
+                    <country>US</country>
+                    <main-classification>D28 87</main-classification>
+                </classification-national>
+            </us-citation>
+            <us-citation>
+                <patcit num="00002">
+                    <document-id>
+                        <country>US</country>
+                        <doc-number>5102249</doc-number>
+                        <kind>A</kind>
+                        <name>Holloway</name>
+                        <date>19920400</date>
+                    </document-id>
+                </patcit>
+                <category>cited by examiner</category>
+                <classification-cpc-text>A45D 40/04</classification-cpc-text>
+                <classification-national>
+                    <country>US</country>
+                    <main-classification>401172</main-classification>
+                </classification-national>
+            </us-citation>
+            <us-citation>
+                <patcit num="00003">
+                    <document-id>
+                        <country>US</country>
+                        <doc-number>D368328</doc-number>
+                        <kind>S</kind>
+                        <name>Wacker</name>
+                        <date>19960300</date>
+                    </document-id>
+                </patcit>
+                <category>cited by examiner</category>
+                <classification-national>
+                    <country>US</country>
+                    <main-classification>D 9529</main-classification>
+                </classification-national>
+            </us-citation>
+            <us-citation>
+                <patcit num="00004">
+                    <document-id>
+                        <country>US</country>
+                        <doc-number>D471324</doc-number>
+                        <kind>S</kind>
+                        <name>Kalin</name>
+                        <date>20030300</date>
+                    </document-id>
+                </patcit>
+                <category>cited by examiner</category>
+                <classification-national>
+                    <country>US</country>
+                    <main-classification>D28 77</main-classification>
+                </classification-national>
+            </us-citation>
+            <us-citation>
+                <patcit num="00005">
+                    <document-id>
+                        <country>US</country>
+                        <doc-number>D543453</doc-number>
+                        <kind>S</kind>
+                        <name>Fu</name>
+                        <date>20070500</date>
+                    </document-id>
+                </patcit>
+                <category>cited by examiner</category>
+                <classification-national>
+                    <country>US</country>
+                    <main-classification>D21392</main-classification>
+                </classification-national>
+            </us-citation>
+            <us-citation>
+                <patcit num="00006">
+                    <document-id>
+                        <country>US</country>
+                        <doc-number>8556527</doc-number>
+                        <kind>B1</kind>
+                        <name>Chou</name>
+                        <date>20131000</date>
+                    </document-id>
+                </patcit>
+                <category>cited by examiner</category>
+                <classification-cpc-text>A45D 40/04</classification-cpc-text>
+                <classification-national>
+                    <country>US</country>
+                    <main-classification>401 98</main-classification>
+                </classification-national>
+            </us-citation>
+            <us-citation>
+                <patcit num="00007">
+                    <document-id>
+                        <country>US</country>
+                        <doc-number>D694622</doc-number>
+                        <kind>S</kind>
+                        <name>Bulens</name>
+                        <date>20131200</date>
+                    </document-id>
+                </patcit>
+                <category>cited by examiner</category>
+                <classification-national>
+                    <country>US</country>
+                    <main-classification>D 9432</main-classification>
+                </classification-national>
+            </us-citation>
+            <us-citation>
+                <patcit num="00008">
+                    <document-id>
+                        <country>CN</country>
+                        <doc-number>303736053</doc-number>
+                        <kind>S</kind>
+                        <date>20160700</date>
+                    </document-id>
+                </patcit>
+                <category>cited by applicant</category>
+            </us-citation>
+            <us-citation>
+                <patcit num="00009">
+                    <document-id>
+                        <country>CN</country>
+                        <doc-number>304821226</doc-number>
+                        <kind>S</kind>
+                        <date>20180900</date>
+                    </document-id>
+                </patcit>
+                <category>cited by applicant</category>
+            </us-citation>
+            <us-citation>
+                <patcit num="00010">
+                    <document-id>
+                        <country>CN</country>
+                        <doc-number>304857397</doc-number>
+                        <kind>S</kind>
+                        <date>20181000</date>
+                    </document-id>
+                </patcit>
+                <category>cited by applicant</category>
+            </us-citation>
+            <us-citation>
+                <patcit num="00011">
+                    <document-id>
+                        <country>CN</country>
+                        <doc-number>305122169</doc-number>
+                        <kind>S</kind>
+                        <date>20190400</date>
+                    </document-id>
+                </patcit>
+                <category>cited by applicant</category>
+            </us-citation>
+            <us-citation>
+                <patcit num="00012">
+                    <document-id>
+                        <country>CN</country>
+                        <doc-number>305137758</doc-number>
+                        <kind>S</kind>
+                        <date>20190500</date>
+                    </document-id>
+                </patcit>
+                <category>cited by applicant</category>
+            </us-citation>
+            <us-citation>
+                <patcit num="00013">
+                    <document-id>
+                        <country>CN</country>
+                        <doc-number>305144274</doc-number>
+                        <kind>S</kind>
+                        <date>20190500</date>
+                    </document-id>
+                </patcit>
+                <category>cited by applicant</category>
+            </us-citation>
+            <us-citation>
+                <patcit num="00014">
+                    <document-id>
+                        <country>CN</country>
+                        <doc-number>305269514</doc-number>
+                        <kind>S</kind>
+                        <date>20190700</date>
+                    </document-id>
+                </patcit>
+                <category>cited by applicant</category>
+            </us-citation>
+            <us-citation>
+                <patcit num="00015">
+                    <document-id>
+                        <country>CN</country>
+                        <doc-number>305419384</doc-number>
+                        <kind>S</kind>
+                        <date>20191100</date>
+                    </document-id>
+                </patcit>
+                <category>cited by applicant</category>
+            </us-citation>
+            <us-citation>
+                <patcit num="00016">
+                    <document-id>
+                        <country>CN</country>
+                        <doc-number>305661439</doc-number>
+                        <kind>S</kind>
+                        <date>20200300</date>
+                    </document-id>
+                </patcit>
+                <category>cited by applicant</category>
+            </us-citation>
+        </us-references-cited>
+        <number-of-claims>1</number-of-claims>
+        <us-exemplary-claim>1</us-exemplary-claim>
+        <us-field-of-classification-search>
+            <classification-national>
+                <country>US</country>
+                <main-classification>D 3201</main-classification>
+            </classification-national>
+            <classification-national>
+                <country>US</country>
+                <main-classification>D 3207</main-classification>
+            </classification-national>
+            <classification-national>
+                <country>US</country>
+                <main-classification>D 3212</main-classification>
+            </classification-national>
+            <classification-national>
+                <country>US</country>
+                <main-classification>D 3273</main-classification>
+            </classification-national>
+            <classification-national>
+                <country>US</country>
+                <main-classification>D 3274</main-classification>
+            </classification-national>
+            <classification-national>
+                <country>US</country>
+                <main-classification>D 3294</main-classification>
+            </classification-national>
+            <classification-national>
+                <country>US</country>
+                <main-classification>D 3298</main-classification>
+            </classification-national>
+            <classification-national>
+                <country>US</country>
+                <main-classification>D 3302</main-classification>
+            </classification-national>
+            <classification-cpc-text>H04R 1/1025</classification-cpc-text>
+            <classification-cpc-text>A45D 40/06</classification-cpc-text>
+        </us-field-of-classification-search>
+        <figures>
+            <number-of-drawing-sheets>18</number-of-drawing-sheets>
+            <number-of-figures>18</number-of-figures>
+        </figures>
+        <us-parties>
+            <us-applicants>
+                <us-applicant sequence="001" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+                    <addressbook>
+                        <orgname>Huawei Device Co., Ltd.</orgname>
+                        <address>
+                            <city>Dongguan</city>
+                            <country>CN</country>
+                        </address>
+                    </addressbook>
+                    <residence>
+                        <country>CN</country>
+                    </residence>
+                </us-applicant>
+            </us-applicants>
+            <inventors>
+                <inventor sequence="001" designation="us-only">
+                    <addressbook>
+                        <last-name>Zhao</last-name>
+                        <first-name>Ying</first-name>
+                        <address>
+                            <city>Shanghai</city>
+                            <country>CN</country>
+                        </address>
+                    </addressbook>
+                </inventor>
+                <inventor sequence="002" designation="us-only">
+                    <addressbook>
+                        <last-name>Park</last-name>
+                        <first-name>Donghyeok</first-name>
+                        <address>
+                            <city>Shenzhen</city>
+                            <country>CN</country>
+                        </address>
+                    </addressbook>
+                </inventor>
+            </inventors>
+            <agents>
+                <agent sequence="01" rep-type="attorney">
+                    <addressbook>
+                        <orgname>Maier &#x26; Maier, PLLC</orgname>
+                        <address>
+                            <country>unknown</country>
+                        </address>
+                    </addressbook>
+                </agent>
+            </agents>
+        </us-parties>
+        <assignees>
+            <assignee>
+                <addressbook>
+                    <orgname>Huawei Device Co., Ltd.</orgname>
+                    <role>03</role>
+                    <address>
+                        <city>Dongguan</city>
+                        <country>CN</country>
+                    </address>
+                </addressbook>
+            </assignee>
+        </assignees>
+        <examiners>
+            <primary-examiner>
+                <last-name>Rudzinski</last-name>
+                <first-name>Kevin K</first-name>
+                <department>2911</department>
+            </primary-examiner>
+            <assistant-examiner>
+                <last-name>Rabie</last-name>
+                <first-name>Amber J</first-name>
+            </assistant-examiner>
+        </examiners>
+    </us-bibliographic-data-grant>
+    <drawings id="DRAWINGS">
+        <figure id="Fig-EMI-D00000" num="00000">
+            <img id="EMI-D00000" he="159.26mm" wi="158.75mm" file="USD0984793-20230502-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+        </figure>
+        <figure id="Fig-EMI-D00001" num="00001">
+            <img id="EMI-D00001" he="118.53mm" wi="72.22mm" file="USD0984793-20230502-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+        </figure>
+        <figure id="Fig-EMI-D00002" num="00002">
+            <img id="EMI-D00002" he="133.43mm" wi="100.92mm" file="USD0984793-20230502-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+        </figure>
+        <figure id="Fig-EMI-D00003" num="00003">
+            <img id="EMI-D00003" he="135.21mm" wi="89.49mm" file="USD0984793-20230502-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+        </figure>
+        <figure id="Fig-EMI-D00004" num="00004">
+            <img id="EMI-D00004" he="118.53mm" wi="72.47mm" file="USD0984793-20230502-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+        </figure>
+        <figure id="Fig-EMI-D00005" num="00005">
+            <img id="EMI-D00005" he="117.94mm" wi="72.56mm" file="USD0984793-20230502-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+        </figure>
+        <figure id="Fig-EMI-D00006" num="00006">
+            <img id="EMI-D00006" he="146.39mm" wi="72.73mm" file="USD0984793-20230502-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+        </figure>
+        <figure id="Fig-EMI-D00007" num="00007">
+            <img id="EMI-D00007" he="173.40mm" wi="72.81mm" file="USD0984793-20230502-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+        </figure>
+        <figure id="Fig-EMI-D00008" num="00008">
+            <img id="EMI-D00008" he="183.05mm" wi="80.69mm" file="USD0984793-20230502-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+        </figure>
+        <figure id="Fig-EMI-D00009" num="00009">
+            <img id="EMI-D00009" he="173.48mm" wi="72.56mm" file="USD0984793-20230502-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+        </figure>
+        <figure id="Fig-EMI-D00010" num="00010">
+            <img id="EMI-D00010" he="187.71mm" wi="91.10mm" file="USD0984793-20230502-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+        </figure>
+        <figure id="Fig-EMI-D00011" num="00011">
+            <img id="EMI-D00011" he="181.02mm" wi="71.88mm" file="USD0984793-20230502-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+        </figure>
+        <figure id="Fig-EMI-D00012" num="00012">
+            <img id="EMI-D00012" he="181.02mm" wi="72.81mm" file="USD0984793-20230502-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+        </figure>
+        <figure id="Fig-EMI-D00013" num="00013">
+            <img id="EMI-D00013" he="153.92mm" wi="72.14mm" file="USD0984793-20230502-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+        </figure>
+        <figure id="Fig-EMI-D00014" num="00014">
+            <img id="EMI-D00014" he="154.01mm" wi="72.81mm" file="USD0984793-20230502-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+        </figure>
+        <figure id="Fig-EMI-D00015" num="00015">
+            <img id="EMI-D00015" he="201.59mm" wi="87.29mm" file="USD0984793-20230502-D00015.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+        </figure>
+        <figure id="Fig-EMI-D00016" num="00016">
+            <img id="EMI-D00016" he="197.95mm" wi="84.92mm" file="USD0984793-20230502-D00016.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+        </figure>
+        <figure id="Fig-EMI-D00017" num="00017">
+            <img id="EMI-D00017" he="207.77mm" wi="89.92mm" file="USD0984793-20230502-D00017.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+        </figure>
+        <figure id="Fig-EMI-D00018" num="00018">
+            <img id="EMI-D00018" he="208.62mm" wi="95.76mm" file="USD0984793-20230502-D00018.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+        </figure>
+    </drawings>
+    <description id="description">
+        <?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+        <description-of-drawings>
+            <p id="p-0001" num="0001">
+                <figref idref="DRAWINGS">FIG. <b>1</b>
+                </figref> is a front view of the lid portion of an earphone box, showing our new design, shown separate;</p>
+            <p id="p-0002" num="0002">
+                <figref idref="DRAWINGS">FIG. <b>2</b>
+                </figref> is a front perspective view thereof;</p>
+            <p id="p-0003" num="0003">
+                <figref idref="DRAWINGS">FIG. <b>3</b>
+                </figref> is a back perspective view thereof;</p>
+            <p id="p-0004" num="0004">
+                <figref idref="DRAWINGS">FIG. <b>4</b>
+                </figref> is a left side view thereof;</p>
+            <p id="p-0005" num="0005">
+                <figref idref="DRAWINGS">FIG. <b>5</b>
+                </figref> is a top view thereof;</p>
+            <p id="p-0006" num="0006">
+                <figref idref="DRAWINGS">FIG. <b>6</b>
+                </figref> is a bottom view thereof;</p>
+            <p id="p-0007" num="0007">
+                <figref idref="DRAWINGS">FIG. <b>7</b>
+                </figref> is a front view of the base of an earphone box, showing our new design, shown separate;</p>
+            <p id="p-0008" num="0008">
+                <figref idref="DRAWINGS">FIG. <b>8</b>
+                </figref> is a front perspective view thereof;</p>
+            <p id="p-0009" num="0009">
+                <figref idref="DRAWINGS">FIG. <b>9</b>
+                </figref> is a back view thereof;</p>
+            <p id="p-0010" num="0010">
+                <figref idref="DRAWINGS">FIG. <b>10</b>
+                </figref> is a back perspective view thereof;</p>
+            <p id="p-0011" num="0011">
+                <figref idref="DRAWINGS">FIG. <b>11</b>
+                </figref> is a left side view thereof;</p>
+            <p id="p-0012" num="0012">
+                <figref idref="DRAWINGS">FIG. <b>12</b>
+                </figref> is a right side view thereof;</p>
+            <p id="p-0013" num="0013">
+                <figref idref="DRAWINGS">FIG. <b>13</b>
+                </figref> is a top view thereof;</p>
+            <p id="p-0014" num="0014">
+                <figref idref="DRAWINGS">FIG. <b>14</b>
+                </figref> is a bottom view thereof;</p>
+            <p id="p-0015" num="0015">
+                <figref idref="DRAWINGS">FIG. <b>15</b>
+                </figref> is a perspective view of the base of the earphone box, shown with environment;</p>
+            <p id="p-0016" num="0016">
+                <figref idref="DRAWINGS">FIG. <b>16</b>
+                </figref> is another perspective view thereof;</p>
+            <p id="p-0017" num="0017">
+                <figref idref="DRAWINGS">FIG. <b>17</b>
+                </figref> is a front perspective view of the earphone box in a closed state; and,</p>
+            <p id="p-0018" num="0018">
+                <figref idref="DRAWINGS">FIG. <b>18</b>
+                </figref> is a back perspective view thereof.</p>
+            <p id="p-0019" num="0019">The broken lines in <figref idref="DRAWINGS">FIGS. <b>6</b>,                <b>14</b> and <b>18</b>
+            </figref> show portions of the earphone box and form no part of the claimed design. The broken lines illustrating earphones in <figref idref="DRAWINGS">FIGS. <b>15</b> and <b>16</b>
+        </figref> represent environment and form no part of the claimed design.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+    <claim-text>The ornamental design for an earphone box, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

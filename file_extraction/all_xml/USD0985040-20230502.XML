@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v47-2022-02-17.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.7 2022-02-17" file="USD0985040-20230502.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20230412" date-publ="20230502">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0985040</doc-number>
+<kind>S1</kind>
+<date>20230502</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>29795698</doc-number>
+<date>20210621</date>
+</document-id>
+</application-reference>
+<us-application-series-code>29</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>CN</country>
+<doc-number>202130161739.1</doc-number>
+<date>20210324</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<length-of-grant>15</length-of-grant>
+</us-term-of-grant>
+<classification-locarno>
+<edition>14</edition>
+<main-classification>1605</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D16244</main-classification>
+</classification-national>
+<invention-title id="d2e71">Tripod</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>D463877</doc-number>
+<kind>S</kind>
+<name>Kung</name>
+<date>20021000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D26 49</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>D532436</doc-number>
+<kind>S</kind>
+<name>Kruse</name>
+<date>20061100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D16244</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>D533578</doc-number>
+<kind>S</kind>
+<name>Oka</name>
+<date>20061200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D16244</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>D718365</doc-number>
+<kind>S</kind>
+<name>Kim</name>
+<date>20141100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D16244</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>D800206</doc-number>
+<kind>S</kind>
+<name>Moon</name>
+<date>20171000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D16244</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>D822092</doc-number>
+<kind>S</kind>
+<name>Bergman</name>
+<date>20180700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>F16M 11/041</classification-cpc-text>
+<classification-national><country>US</country><main-classification>D16244</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>D836703</doc-number>
+<kind>S</kind>
+<name>Song</name>
+<date>20181200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D16244</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>D882672</doc-number>
+<kind>S</kind>
+<name>Xia</name>
+<date>20200400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D16243</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>D908274</doc-number>
+<kind>S</kind>
+<name>Wang</name>
+<date>20210100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D26 63</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>D922471</doc-number>
+<kind>S</kind>
+<name>Li</name>
+<date>20210600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D16244</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>D955466</doc-number>
+<kind>S</kind>
+<name>Wada</name>
+<date>20220600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D16244</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>D969202</doc-number>
+<kind>S</kind>
+<name>Li</name>
+<date>20221100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D16244</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>20200371410</doc-number>
+<kind>A1</kind>
+<name>Shan</name>
+<date>20201100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>F16M 13/00</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>20210294186</doc-number>
+<kind>A1</kind>
+<name>Zou</name>
+<date>20210900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>F16M 11/242</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>20220221102</doc-number>
+<kind>A1</kind>
+<name>Yang</name>
+<date>20220700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>G03B 15/00</classification-cpc-text>
+</us-citation>
+<us-citation>
+<nplcit num="00016">
+<othercit>Ista360 Mini Tripod, https://www.bhphotovideo.com/c/product/1719903-REG/insta360_cinsaavb_mini_2_in_1_tripod.html. retrieved Dec. 6, 2022 (Year: 2022).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+</us-references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D 8349</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 8363</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 8373</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D16219</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D16235</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D16237-245</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D26 67</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D26 93</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D26142</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D26150</main-classification>
+</classification-national>
+<classification-cpc-text>F16M 11/14</classification-cpc-text>
+<classification-cpc-text>F16M 11/16</classification-cpc-text>
+<classification-cpc-text>F16M 11/32</classification-cpc-text>
+<classification-cpc-text>F16M 11/38</classification-cpc-text>
+<classification-cpc-text>G03B 17/561</classification-cpc-text>
+<classification-cpc-text>G03B 17/566</classification-cpc-text>
+<classification-cpc-text>G02B 7/00-002</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>20</number-of-drawing-sheets>
+<number-of-figures>20</number-of-figures>
+</figures>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>WINNERS' SUN PLASTIC &#x26; ELECTRONIC (SHENZHEN) CO., LTD.</orgname>
+<address>
+<city>Shenzhen</city>
+<country>CN</country>
+</address>
+</addressbook>
+<residence>
+<country>CN</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Peng</last-name>
+<first-name>Yi Bing</first-name>
+<address>
+<city>Shenzhen</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="002" designation="us-only">
+<addressbook>
+<last-name>Zeng</last-name>
+<first-name>Jun</first-name>
+<address>
+<city>Shenzhen</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>WINNERS' SUN PLASTIC &#x26; ELECTRONIC (SHENZHEN) CO., LTD.</orgname>
+<role>03</role>
+<address>
+<city>Shenzhen</city>
+<country>CN</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Kearney</last-name>
+<first-name>Richard</first-name>
+<department>2924</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Weeks</last-name>
+<first-name>Benjamin M</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="233.68mm" wi="216.15mm" file="USD0985040-20230502-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="254.51mm" wi="48.26mm" file="USD0985040-20230502-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="212.60mm" wi="172.80mm" file="USD0985040-20230502-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="254.68mm" wi="43.86mm" file="USD0985040-20230502-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="254.68mm" wi="43.86mm" file="USD0985040-20230502-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="254.68mm" wi="43.86mm" file="USD0985040-20230502-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="254.68mm" wi="43.86mm" file="USD0985040-20230502-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="162.39mm" wi="43.86mm" file="USD0985040-20230502-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="162.39mm" wi="43.86mm" file="USD0985040-20230502-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="254.42mm" wi="41.66mm" file="USD0985040-20230502-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="249.60mm" wi="172.04mm" file="USD0985040-20230502-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="254.68mm" wi="48.26mm" file="USD0985040-20230502-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="219.20mm" wi="172.30mm" file="USD0985040-20230502-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="254.68mm" wi="43.86mm" file="USD0985040-20230502-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="254.68mm" wi="43.86mm" file="USD0985040-20230502-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00015" num="00015">
+<img id="EMI-D00015" he="254.68mm" wi="43.86mm" file="USD0985040-20230502-D00015.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00016" num="00016">
+<img id="EMI-D00016" he="254.68mm" wi="43.86mm" file="USD0985040-20230502-D00016.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00017" num="00017">
+<img id="EMI-D00017" he="162.39mm" wi="43.86mm" file="USD0985040-20230502-D00017.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00018" num="00018">
+<img id="EMI-D00018" he="162.39mm" wi="43.86mm" file="USD0985040-20230502-D00018.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00019" num="00019">
+<img id="EMI-D00019" he="254.59mm" wi="40.30mm" file="USD0985040-20230502-D00019.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00020" num="00020">
+<img id="EMI-D00020" he="241.81mm" wi="172.04mm" file="USD0985040-20230502-D00020.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a perspective view of a first embodiment of a tripod showing my new design;</p>
+<p id="p-0002" num="0002"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is another perspective view thereof;</p>
+<p id="p-0003" num="0003"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a front elevational view thereof;</p>
+<p id="p-0004" num="0004"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a rear elevational view thereof;</p>
+<p id="p-0005" num="0005"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a left side elevational view thereof;</p>
+<p id="p-0006" num="0006"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is a right side elevational view thereof;</p>
+<p id="p-0007" num="0007"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is a top plan view thereof;</p>
+<p id="p-0008" num="0008"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is a bottom plan view thereof;</p>
+<p id="p-0009" num="0009"><figref idref="DRAWINGS">FIG. <b>9</b></figref> is a perspective view of the tripod where the tripod is in a first configuration of use;</p>
+<p id="p-0010" num="0010"><figref idref="DRAWINGS">FIG. <b>10</b></figref> is a perspective view of the tripod where the tripod is in a second configuration of use;</p>
+<p id="p-0011" num="0011"><figref idref="DRAWINGS">FIG. <b>11</b></figref> is a perspective view of a second embodiment of the tripod showing my new design;</p>
+<p id="p-0012" num="0012"><figref idref="DRAWINGS">FIG. <b>12</b></figref> is another perspective view thereof;</p>
+<p id="p-0013" num="0013"><figref idref="DRAWINGS">FIG. <b>13</b></figref> is a front elevational view thereof;</p>
+<p id="p-0014" num="0014"><figref idref="DRAWINGS">FIG. <b>14</b></figref> is a rear elevational view thereof;</p>
+<p id="p-0015" num="0015"><figref idref="DRAWINGS">FIG. <b>15</b></figref> is a left side elevational view thereof;</p>
+<p id="p-0016" num="0016"><figref idref="DRAWINGS">FIG. <b>16</b></figref> is a right side elevational view thereof;</p>
+<p id="p-0017" num="0017"><figref idref="DRAWINGS">FIG. <b>17</b></figref> is a top plan view thereof;</p>
+<p id="p-0018" num="0018"><figref idref="DRAWINGS">FIG. <b>18</b></figref> is a bottom plan view thereof;</p>
+<p id="p-0019" num="0019"><figref idref="DRAWINGS">FIG. <b>19</b></figref> is a perspective view of the tripod where the tripod is in a first configuration of use; and,</p>
+<p id="p-0020" num="0020"><figref idref="DRAWINGS">FIG. <b>20</b></figref> is a perspective view of the tripod where the tripod is in a second configuration of use.</p>
+<p id="p-0021" num="0021">The broken lines in the drawings depict portions of the tripod that form no part of the claimed design.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>The ornamental design for a tripod, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

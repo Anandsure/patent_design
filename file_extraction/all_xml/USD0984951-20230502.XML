@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v47-2022-02-17.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.7 2022-02-17" file="USD0984951-20230502.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20230412" date-publ="20230502">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0984951</doc-number>
+<kind>S1</kind>
+<date>20230502</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>29833467</doc-number>
+<date>20220404</date>
+</document-id>
+</application-reference>
+<us-application-series-code>29</us-application-series-code>
+<us-term-of-grant>
+<length-of-grant>15</length-of-grant>
+</us-term-of-grant>
+<classification-locarno>
+<edition>14</edition>
+<main-classification>1216</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D12202</main-classification>
+</classification-national>
+<invention-title id="d2e53">Modular spare tire mount for accessories</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>1186073</doc-number>
+<kind>A</kind>
+<name>Brown</name>
+<date>19160600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B60R 9/06</classification-cpc-text>
+<classification-national><country>US</country><main-classification>206304</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>1845292</doc-number>
+<kind>A</kind>
+<name>Kuzmicz</name>
+<date>19320200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B62D 43/007</classification-cpc-text>
+<classification-national><country>US</country><main-classification>224 4225</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>D206185</doc-number>
+<kind>S</kind>
+<name>Davis</name>
+<date>19661100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12202</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>5203479</doc-number>
+<kind>A</kind>
+<name>Lucas</name>
+<date>19930400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B62D 43/02</classification-cpc-text>
+<classification-national><country>US</country><main-classification>296 376</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>5228608</doc-number>
+<kind>A</kind>
+<name>Stout, III</name>
+<date>19930700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B62D 43/005</classification-cpc-text>
+<classification-national><country>US</country><main-classification>D12202</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>5871327</doc-number>
+<kind>A</kind>
+<name>McWha</name>
+<date>19990200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B60B 29/00</classification-cpc-text>
+<classification-national><country>US</country><main-classification>414466</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>6003922</doc-number>
+<kind>A</kind>
+<name>Giesey</name>
+<date>19991200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B60R 13/105</classification-cpc-text>
+<classification-national><country>US</country><main-classification>224 4221</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>6098855</doc-number>
+<kind>A</kind>
+<name>Grabowski</name>
+<date>20000800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B62D 43/02</classification-cpc-text>
+<classification-national><country>US</country><main-classification> 40200</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>6477798</doc-number>
+<kind>B1</kind>
+<name>Giesey</name>
+<date>20021100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B62D 43/02</classification-cpc-text>
+<classification-national><country>US</country><main-classification>224 422</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>D792826</doc-number>
+<kind>S</kind>
+<name>Me</name>
+<date>20170700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12202</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>D859496</doc-number>
+<kind>S</kind>
+<name>Diaz</name>
+<date>20190900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D16208</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>D866449</doc-number>
+<kind>S</kind>
+<name>Walker</name>
+<date>20191100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12412</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>10479284</doc-number>
+<kind>B1</kind>
+<name>Salyer</name>
+<date>20191100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B60R 9/06</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>D877040</doc-number>
+<kind>S</kind>
+<name>Schellens</name>
+<date>20200300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12412</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>D912606</doc-number>
+<kind>S</kind>
+<name>Chen</name>
+<date>20210300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12412</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>D916645</doc-number>
+<kind>S</kind>
+<name>McGraw</name>
+<date>20210400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12412</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>D952540</doc-number>
+<kind>S</kind>
+<name>Yang</name>
+<date>20220500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12412</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>20020050500</doc-number>
+<kind>A1</kind>
+<name>Vasseur</name>
+<date>20020500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B62D 43/08</classification-cpc-text>
+<classification-national><country>US</country><main-classification>224 4221</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>20050000990</doc-number>
+<kind>A1</kind>
+<name>Gilstrap</name>
+<date>20050100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B62J 9/22</classification-cpc-text>
+<classification-national><country>US</country><main-classification>224 422</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>20060285953</doc-number>
+<kind>A1</kind>
+<name>Wooten</name>
+<date>20061200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B62D 43/02</classification-cpc-text>
+<classification-national><country>US</country><main-classification>414463</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>20120031934</doc-number>
+<kind>A1</kind>
+<name>Danze</name>
+<date>20120200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B62D 43/00</classification-cpc-text>
+<classification-national><country>US</country><main-classification>224 4212</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>20150230599</doc-number>
+<kind>A1</kind>
+<name>Larimer</name>
+<date>20150800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B62D 43/02</classification-cpc-text>
+<classification-national><country>US</country><main-classification>108 13</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>20200298917</doc-number>
+<kind>A1</kind>
+<name>Unger</name>
+<date>20200900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B62D 43/02</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00024">
+<document-id>
+<country>CN</country>
+<doc-number>303438532</doc-number>
+<date>20151100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<patcit num="00025">
+<document-id>
+<country>CN</country>
+<doc-number>305715113</doc-number>
+<date>20200400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<patcit num="00026">
+<document-id>
+<country>CN</country>
+<doc-number>305808085</doc-number>
+<date>20200500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<patcit num="00027">
+<document-id>
+<country>CN</country>
+<doc-number>307158990</doc-number>
+<date>20220300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<patcit num="00028">
+<document-id>
+<country>IN</country>
+<doc-number>222082-0001</doc-number>
+<date>20101200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00029">
+<othercit>Smittybilt 2739 I-Rack2 Intelligent Rack, download from the Internet at https://smile.amazon.com/Smittybilt-2739-Intelligent-Universal-Platform/dp/B00AQFE93l/ref=sr_1_1?crid=VVUMCLKN262Q&#x26;keywords=Smittybilt+I-rack&#x26;qid=1648847118&#x26;sprefix=smittybilt+i-rack+%2Caps%2C179&#x26;sr=8-1 on Apr. 1, 2022.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+</us-references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D12223</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D12202</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D12412</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D124141</main-classification>
+</classification-national>
+<classification-cpc-text>B62D 43/00</classification-cpc-text>
+<classification-cpc-text>B62D 43/005</classification-cpc-text>
+<classification-cpc-text>B62D 43/007</classification-cpc-text>
+<classification-cpc-text>B62D 43/02</classification-cpc-text>
+<classification-cpc-text>B62D 43/06</classification-cpc-text>
+<classification-cpc-text>B62D 43/08</classification-cpc-text>
+<classification-cpc-text>B62D 43/10</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>6</number-of-drawing-sheets>
+<number-of-figures>9</number-of-figures>
+</figures>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only">
+<addressbook>
+<last-name>Sullivan</last-name>
+<first-name>Royce</first-name>
+<address>
+<city>Temecula</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+<us-applicant sequence="002" app-type="applicant" designation="us-only">
+<addressbook>
+<last-name>Sullivan</last-name>
+<first-name>Jerry</first-name>
+<address>
+<city>Temecula</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Sullivan</last-name>
+<first-name>Royce</first-name>
+<address>
+<city>Temecula</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="002" designation="us-only">
+<addressbook>
+<last-name>Sullivan</last-name>
+<first-name>Jerry</first-name>
+<address>
+<city>Temecula</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>QuickPatents, LLC</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+<agent sequence="02" rep-type="attorney">
+<addressbook>
+<last-name>Prince</last-name>
+<first-name>Kevin</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<examiners>
+<primary-examiner>
+<last-name>Lane</last-name>
+<first-name>Sheryl</first-name>
+<department>2915</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Price</last-name>
+<first-name>Ieisha N</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="175.09mm" wi="164.93mm" file="USD0984951-20230502-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="187.20mm" wi="166.96mm" file="USD0984951-20230502-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="206.50mm" wi="167.39mm" file="USD0984951-20230502-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="164.42mm" wi="154.52mm" file="USD0984951-20230502-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="164.42mm" wi="154.43mm" file="USD0984951-20230502-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="237.32mm" wi="154.43mm" file="USD0984951-20230502-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="199.31mm" wi="154.43mm" file="USD0984951-20230502-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a top perspective view of a modular spare tire mount for accessories, showing our new design;</p>
+<p id="p-0002" num="0002"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a bottom perspective view thereof;</p>
+<p id="p-0003" num="0003"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a front elevational view of <figref idref="DRAWINGS">FIG. <b>2</b></figref>;</p>
+<p id="p-0004" num="0004"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a rear elevational view of <figref idref="DRAWINGS">FIG. <b>2</b></figref>;</p>
+<p id="p-0005" num="0005"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a top plan view of <figref idref="DRAWINGS">FIG. <b>2</b></figref>;</p>
+<p id="p-0006" num="0006"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is a bottom plan view of <figref idref="DRAWINGS">FIG. <b>2</b></figref>;</p>
+<p id="p-0007" num="0007"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is a left-side elevational view of <figref idref="DRAWINGS">FIG. <b>2</b></figref>, the right-side elevational view being a mirror image thereof;</p>
+<p id="p-0008" num="0008"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is a cross-sectional view thereof, taken along line <b>8</b>--<b>8</b>- of <figref idref="DRAWINGS">FIG. <b>2</b></figref>; and,</p>
+<p id="p-0009" num="0009"><figref idref="DRAWINGS">FIG. <b>9</b></figref> is a cross-sectional view thereof, taken along line <b>9</b>--<b>9</b> of <figref idref="DRAWINGS">FIG. <b>2</b></figref>.</p>
+<p id="p-0010" num="0010">The broken lines showing of the top platform, side mounting plates, and a wheel, in <figref idref="DRAWINGS">FIG. <b>1</b></figref>, illustrates the environment of the claimed design and forms no part thereof.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>The ornamental design for a modular spare tire mount for accessories, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

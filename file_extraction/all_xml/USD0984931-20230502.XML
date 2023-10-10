@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v47-2022-02-17.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.7 2022-02-17" file="USD0984931-20230502.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20230412" date-publ="20230502">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0984931</doc-number>
+<kind>S1</kind>
+<date>20230502</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>29768330</doc-number>
+<date>20210128</date>
+</document-id>
+</application-reference>
+<us-application-series-code>29</us-application-series-code>
+<us-term-of-grant>
+<length-of-grant>15</length-of-grant>
+</us-term-of-grant>
+<classification-locarno>
+<edition>14</edition>
+<main-classification>1212</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D12129</main-classification>
+</classification-national>
+<invention-title id="d2e53">Baby carriage</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>D476926</doc-number>
+<kind>S</kind>
+<name>Chen</name>
+<date>20030700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12129</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>D480994</doc-number>
+<kind>S</kind>
+<name>Grohmann</name>
+<date>20031000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12129</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>D515986</doc-number>
+<kind>S</kind>
+<name>Donay</name>
+<date>20060200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12129</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>D519421</doc-number>
+<kind>S</kind>
+<name>Huang</name>
+<date>20060400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12129</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>D585336</doc-number>
+<kind>S</kind>
+<name>van Buul</name>
+<date>20090100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12129</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>D639214</doc-number>
+<kind>S</kind>
+<name>Zhong</name>
+<date>20110600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12129</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>D755685</doc-number>
+<kind>S</kind>
+<name>Angelfoss</name>
+<date>20160500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12129</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>9981678</doc-number>
+<kind>B1</kind>
+<name>Chen</name>
+<date>20180500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B62B 7/068</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>D856198</doc-number>
+<kind>S</kind>
+<name>Conley</name>
+<date>20190800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12129</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>11155292</doc-number>
+<kind>B2</kind>
+<name>Duan</name>
+<date>20211000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B62B 7/08</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>D969033</doc-number>
+<kind>S</kind>
+<name>Huntley</name>
+<date>20221100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12129</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<nplcit num="00012">
+<othercit>&#x201c;Ready2Grow&#x2122; 2.0 Double Stroller&#x201d; Graco., posted date Apr. 10, 2017 [online], [retrieved on Feb. 23, 2023]. Retrieved from the Internet &#x3c;URL: https://www.gracobaby.com/strollers/double-strollers/ready2grow-2.0-double-stroller/SAP_2140042.html&#x3e; (Year: 2017).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00013">
+<othercit>&#x201c;Qool Double Bundle Stroller&#x201d; Joovy., posted date Dec. 3, 2022 [online], [retrieved on Feb. 23, 2023]. Retrieved from the Internet &#x3c;URL: https://joovy.com/qool-double-bundle-stroller/&#x3e; (Year: 2022).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00014">
+<othercit>&#x201c;Mockingbird Stroller Review&#x201d; Mockingbird., posted date May 28, 2020 [online], [retrieved on Feb. 23, 2023]. Retrieved from the Internet &#x3c;URL: https://thriftyniftymommy.com/mockingbird-stroller-review/&#x3e; (Year: 2020).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+</us-references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D12112</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D12113</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D12129</main-classification>
+</classification-national>
+<classification-cpc-text>B62B 7/00</classification-cpc-text>
+<classification-cpc-text>B62B 7/002</classification-cpc-text>
+<classification-cpc-text>B62B 7/004</classification-cpc-text>
+<classification-cpc-text>B62B 7/006</classification-cpc-text>
+<classification-cpc-text>B62B 7/04</classification-cpc-text>
+<classification-cpc-text>B62B 7/044</classification-cpc-text>
+<classification-cpc-text>B62B 7/048</classification-cpc-text>
+<classification-cpc-text>B62B 7/06</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>13</number-of-drawing-sheets>
+<number-of-figures>13</number-of-figures>
+</figures>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only" applicant-authority-category="obligated-assignee">
+<addressbook>
+<orgname>Wonderland Switzerland AG</orgname>
+<address>
+<city>Steinhausen</city>
+<country>CH</country>
+</address>
+</addressbook>
+<residence>
+<country>CH</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Bowers</last-name>
+<first-name>Patrick J. G.</first-name>
+<address>
+<city>West Chester</city>
+<state>PA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<last-name>Hsu</last-name>
+<first-name>Winston</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Wonderland Switzerland AG</orgname>
+<role>03</role>
+<address>
+<city>Steinhausen</city>
+<country>CH</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Ly</last-name>
+<first-name>Darlington</first-name>
+<department>2925</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Ali</last-name>
+<first-name>Nasim Abdulaziz</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="134.96mm" wi="123.95mm" file="USD0984931-20230502-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="173.99mm" wi="126.15mm" file="USD0984931-20230502-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="172.13mm" wi="70.53mm" file="USD0984931-20230502-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="171.53mm" wi="70.78mm" file="USD0984931-20230502-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="171.87mm" wi="126.83mm" file="USD0984931-20230502-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="171.45mm" wi="126.49mm" file="USD0984931-20230502-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="169.16mm" wi="70.61mm" file="USD0984931-20230502-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="174.41mm" wi="128.19mm" file="USD0984931-20230502-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="190.08mm" wi="126.75mm" file="USD0984931-20230502-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="175.60mm" wi="72.47mm" file="USD0984931-20230502-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="176.19mm" wi="72.56mm" file="USD0984931-20230502-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="176.19mm" wi="128.35mm" file="USD0984931-20230502-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="175.77mm" wi="127.85mm" file="USD0984931-20230502-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="168.91mm" wi="71.88mm" file="USD0984931-20230502-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a top, front and right side perspective view of a baby carriage, embodying my new design;</p>
+<p id="p-0002" num="0002"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a front perspective view thereof;</p>
+<p id="p-0003" num="0003"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a rear perspective view thereof;</p>
+<p id="p-0004" num="0004"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a left side perspective view thereof;</p>
+<p id="p-0005" num="0005"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a right side perspective view thereof;</p>
+<p id="p-0006" num="0006"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is a top perspective view thereof;</p>
+<p id="p-0007" num="0007"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is a top, front and right side perspective view thereof, with the rear toddler seat in a stowed non-used position;</p>
+<p id="p-0008" num="0008"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is a top, front and right side perspective view of the baby carriage of <figref idref="DRAWINGS">FIG. <b>1</b></figref>, with exemplary structures of a hood and infant seat attached;</p>
+<p id="p-0009" num="0009"><figref idref="DRAWINGS">FIG. <b>9</b></figref> is a front elevation view thereof, with exemplary structures of a hood and infant seat attached;</p>
+<p id="p-0010" num="0010"><figref idref="DRAWINGS">FIG. <b>10</b></figref> is a rear elevation view thereof, with exemplary structures of a hood and infant seat attached;</p>
+<p id="p-0011" num="0011"><figref idref="DRAWINGS">FIG. <b>11</b></figref> is a left side elevation view thereof, with exemplary structures of a hood and infant seat attached;</p>
+<p id="p-0012" num="0012"><figref idref="DRAWINGS">FIG. <b>12</b></figref> is a right side elevation view thereof, with exemplary structures of a hood and infant seat attached; and,</p>
+<p id="p-0013" num="0013"><figref idref="DRAWINGS">FIG. <b>13</b></figref> is a top plan view thereof, with exemplary structures of a hood and infant seat attached.</p>
+<p id="p-0014" num="0014">The ghosted and overexposed showings of the seat canopy hood and top infant seat are provided for the purpose of illustrating environmental structure and form no part of the claimed design.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>The ornamental design for a baby carriage, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

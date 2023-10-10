@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v47-2022-02-17.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.7 2022-02-17" file="USD0984794-20230502.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20230412" date-publ="20230502">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0984794</doc-number>
+<kind>S1</kind>
+<date>20230502</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>29769485</doc-number>
+<date>20210205</date>
+</document-id>
+</application-reference>
+<us-application-series-code>29</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>KR</country>
+<doc-number>30-2020-0036639</doc-number>
+<date>20200806</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<length-of-grant>15</length-of-grant>
+</us-term-of-grant>
+<classification-locarno>
+<edition>14</edition>
+<main-classification>0301</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D 32031</main-classification>
+</classification-national>
+<invention-title id="d2e71">Case for mask</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>D257790</doc-number>
+<kind>S</kind>
+<name>Kesling</name>
+<date>19810100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24227</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>D369902</doc-number>
+<kind>S</kind>
+<name>Petruzzi</name>
+<date>19960500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 3207</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>D496154</doc-number>
+<kind>S</kind>
+<name>Herman</name>
+<date>20040900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 32031</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>D570596</doc-number>
+<kind>S</kind>
+<name>Berg</name>
+<date>20080600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 3204</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>D602245</doc-number>
+<kind>S</kind>
+<name>Christie</name>
+<date>20091000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 3205</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>D697302</doc-number>
+<kind>S</kind>
+<name>Pourcho</name>
+<date>20140100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 32031</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>D705532</doc-number>
+<kind>S</kind>
+<name>Kolton</name>
+<date>20140500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 3294</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>D740692</doc-number>
+<kind>S</kind>
+<name>Christie</name>
+<date>20151000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9748</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>D850103</doc-number>
+<kind>S</kind>
+<name>Natsume</name>
+<date>20190600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 3265</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>D874062</doc-number>
+<kind>S</kind>
+<name>McGarry</name>
+<date>20200100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 3205</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>D876820</doc-number>
+<kind>S</kind>
+<name>Griffin</name>
+<date>20200300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 32031</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>D887351</doc-number>
+<kind>S</kind>
+<name>Bonahoom</name>
+<date>20200600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D13108</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>D897664</doc-number>
+<kind>S</kind>
+<name>Li</name>
+<date>20201000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 3273</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>D906280</doc-number>
+<kind>S</kind>
+<name>Matarese</name>
+<date>20201200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14204</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>D911274</doc-number>
+<kind>S</kind>
+<name>Ding</name>
+<date>20210200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D13108</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>D946895</doc-number>
+<kind>S</kind>
+<name>Xie</name>
+<date>20220300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 3294</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00017">
+<document-id>
+<country>CN</country>
+<doc-number>305419229</doc-number>
+<date>20191100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<patcit num="00018">
+<document-id>
+<country>CN</country>
+<doc-number>307239211</doc-number>
+<date>20220400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<patcit num="00019">
+<document-id>
+<country>CN</country>
+<doc-number>307405147</doc-number>
+<date>20220600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<patcit num="00020">
+<document-id>
+<country>TW</country>
+<doc-number>216726-0001</doc-number>
+<date>20220100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00021">
+<othercit>LG PuriCare Wearable Air Purifier UV-C Case, available at youtube.com, posted Dec. 14, 2020 [online], site visited Aug. 2, 2022, available from the internet URL: https://www.youtube.com/watch?v=TYmxAF911sA (Year: 2020).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00022">
+<othercit>Nike Venturer Performance Face Mask, available at nike.com, earliest customer review date Aug. 6, 2021 [online], site visited Aug. 2, 2022, available from the internet URL: https://www.nike.com/in/t/venturer-face-mask-7FpwM7 (Year: 2021).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00023">
+<othercit>EVA Headphone Case Bag for Sony, available at walmart.com, date not available [online], site visited Aug. 2, 2022, available from the internet URL: https://www.walmart.com/ip/EVA-Headphone-Case-Bag-for-SONY-WH-1000XM4-Audio-technica-ATH-M50X-Grey/511388891? (Year: 2022).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00024">
+<othercit>New Mary Kay Round Black Makeup Case, available at ebay.com, earliest date available Apr. 17, 2021 [online], site visited Aug. 2, 2022, available from the internet URL: https://www.ebay.com/itm/284251809827 (Year: 2021).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+</us-references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D 3201</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 32031</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 32032</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 32033</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 32034</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 32035</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 32036</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 32037</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 32038</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 3204-212</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 3254-258</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 3263</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 3264</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 3273</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 3294</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 3298</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 3299</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 7601</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 7602</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 7609</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 76191</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 7631-633</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 7635</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 7637</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 7638</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9414</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9420-423</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9434</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9435</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9499</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9700</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 9701</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D13108</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D142034</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D142035</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D142036</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D14509-511</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D14205</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D14223</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D24224-227</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-cpc-text>A45D 29/20</classification-cpc-text>
+<classification-cpc-text>A45D 44/18</classification-cpc-text>
+<classification-cpc-text>A45F 3/48</classification-cpc-text>
+<classification-cpc-text>A45C 11/00</classification-cpc-text>
+<classification-cpc-text>A45C 11/005</classification-cpc-text>
+<classification-cpc-text>A45C 11/008</classification-cpc-text>
+<classification-cpc-text>A45C 11/04</classification-cpc-text>
+<classification-cpc-text>A45C 11/043</classification-cpc-text>
+<classification-cpc-text>A45C 11/046</classification-cpc-text>
+<classification-cpc-text>A45C 11/08</classification-cpc-text>
+<classification-cpc-text>A45C 11/14</classification-cpc-text>
+<classification-cpc-text>A45C 11/182</classification-cpc-text>
+<classification-cpc-text>A45C 11/24</classification-cpc-text>
+<classification-cpc-text>A45C 11/26</classification-cpc-text>
+<classification-cpc-text>A45C 11/32</classification-cpc-text>
+<classification-cpc-text>A45C 11/321</classification-cpc-text>
+<classification-cpc-text>A45C 11/34</classification-cpc-text>
+<classification-cpc-text>A45C 11/36</classification-cpc-text>
+<classification-cpc-text>A45C 2011/001</classification-cpc-text>
+<classification-cpc-text>A45C 2011/002</classification-cpc-text>
+<classification-cpc-text>A45C 2011/003</classification-cpc-text>
+<classification-cpc-text>A45C 2011/006</classification-cpc-text>
+<classification-cpc-text>A45C 2011/007</classification-cpc-text>
+<classification-cpc-text>A45C 2011/188</classification-cpc-text>
+<classification-cpc-text>A45C 2011/322</classification-cpc-text>
+<classification-cpc-text>A45C 2011/323</classification-cpc-text>
+<classification-cpc-text>A45C 2011/324</classification-cpc-text>
+<classification-cpc-text>A45C 2011/325</classification-cpc-text>
+<classification-cpc-text>A45C 2011/326</classification-cpc-text>
+<classification-cpc-text>A45C 2011/327</classification-cpc-text>
+<classification-cpc-text>A45C 2011/329</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>15</number-of-drawing-sheets>
+<number-of-figures>15</number-of-figures>
+</figures>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>LG ELECTRONICS INC.</orgname>
+<address>
+<city>Seoul</city>
+<country>KR</country>
+</address>
+</addressbook>
+<residence>
+<country>KR</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>So</last-name>
+<first-name>Ilseop</first-name>
+<address>
+<city>Seoul</city>
+<country>KR</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="002" designation="us-only">
+<addressbook>
+<last-name>Kim</last-name>
+<first-name>Dongsoon</first-name>
+<address>
+<city>Seoul</city>
+<country>KR</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Birch, Stewart, Kolasch &#x26; Birch, LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>LG ELECTRONICS INC.</orgname>
+<role>03</role>
+<address>
+<city>Seoul</city>
+<country>KR</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Bell</last-name>
+<first-name>Tracey J</first-name>
+<department>2922</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Mazzola</last-name>
+<first-name>Jillian</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="169.93mm" wi="268.82mm" file="USD0984794-20230502-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="185.93mm" wi="129.79mm" file="USD0984794-20230502-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="167.89mm" wi="132.33mm" file="USD0984794-20230502-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="167.89mm" wi="132.33mm" file="USD0984794-20230502-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="167.89mm" wi="104.06mm" file="USD0984794-20230502-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="167.89mm" wi="103.97mm" file="USD0984794-20230502-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="189.40mm" wi="132.33mm" file="USD0984794-20230502-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="189.40mm" wi="132.33mm" file="USD0984794-20230502-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="217.93mm" wi="143.17mm" file="USD0984794-20230502-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="182.80mm" wi="132.33mm" file="USD0984794-20230502-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="182.80mm" wi="132.33mm" file="USD0984794-20230502-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="182.80mm" wi="129.79mm" file="USD0984794-20230502-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="182.80mm" wi="129.88mm" file="USD0984794-20230502-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="178.05mm" wi="132.33mm" file="USD0984794-20230502-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="178.14mm" wi="132.33mm" file="USD0984794-20230502-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00015" num="00015">
+<img id="EMI-D00015" he="259.93mm" wi="154.01mm" file="USD0984794-20230502-D00015.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a front perspective view of a case for mask showing our new design;</p>
+<p id="p-0002" num="0002"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a front view thereof;</p>
+<p id="p-0003" num="0003"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a back view thereof;</p>
+<p id="p-0004" num="0004"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a left side view thereof;</p>
+<p id="p-0005" num="0005"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a right side view thereof;</p>
+<p id="p-0006" num="0006"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is a top plan view thereof;</p>
+<p id="p-0007" num="0007"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is a bottom plan view thereof;</p>
+<p id="p-0008" num="0008"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is a front perspective view of the case for mask shown in an alternate configuration with the cover in an opened condition;</p>
+<p id="p-0009" num="0009"><figref idref="DRAWINGS">FIG. <b>9</b></figref> is a front view of <figref idref="DRAWINGS">FIG. <b>8</b></figref>;</p>
+<p id="p-0010" num="0010"><figref idref="DRAWINGS">FIG. <b>10</b></figref> is a back view of <figref idref="DRAWINGS">FIG. <b>8</b></figref>;</p>
+<p id="p-0011" num="0011"><figref idref="DRAWINGS">FIG. <b>11</b></figref> is a left side view of <figref idref="DRAWINGS">FIG. <b>8</b></figref>;</p>
+<p id="p-0012" num="0012"><figref idref="DRAWINGS">FIG. <b>12</b></figref> is a right side view of <figref idref="DRAWINGS">FIG. <b>8</b></figref>;</p>
+<p id="p-0013" num="0013"><figref idref="DRAWINGS">FIG. <b>13</b></figref> is a top plan view of <figref idref="DRAWINGS">FIG. <b>8</b></figref>;</p>
+<p id="p-0014" num="0014"><figref idref="DRAWINGS">FIG. <b>14</b></figref> is a bottom plan view of <figref idref="DRAWINGS">FIG. <b>8</b></figref>; and,</p>
+<p id="p-0015" num="0015"><figref idref="DRAWINGS">FIG. <b>15</b></figref> is an exploded view of the case for mask shown in an environment of use with a mask.</p>
+<p id="p-0016" num="0016">The broken lines depict portions of the case for mask that form no part of the claimed design. The broken line showing of a mask in <figref idref="DRAWINGS">FIG. <b>15</b></figref> depicts environmental structure only and forms no part of the claimed design.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>The ornamental design for a case for mask, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

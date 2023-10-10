@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v47-2022-02-17.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.7 2022-02-17" file="USD0985226-20230502.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20230412" date-publ="20230502">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0985226</doc-number>
+<kind>S1</kind>
+<date>20230502</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>29850887</doc-number>
+<date>20220824</date>
+</document-id>
+</application-reference>
+<us-application-series-code>29</us-application-series-code>
+<us-term-of-grant>
+<length-of-grant>15</length-of-grant>
+</us-term-of-grant>
+<classification-locarno>
+<edition>14</edition>
+<main-classification>1205</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D34 28</main-classification>
+</classification-national>
+<invention-title id="d2e53">Fishing magnet</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>2626175</doc-number>
+<kind>A</kind>
+<name>Jessop</name>
+<date>19530100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B66C 1/04</classification-cpc-text>
+<classification-national><country>US</country><main-classification>294 8211</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>3009727</doc-number>
+<kind>A</kind>
+<name>Jones</name>
+<date>19611100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B66C 1/04</classification-cpc-text>
+<classification-national><country>US</country><main-classification>212251</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>3584909</doc-number>
+<kind>A</kind>
+<name>Behnke</name>
+<date>19710600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B66C 1/04</classification-cpc-text>
+<classification-national><country>US</country><main-classification>294 815</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>D390100</doc-number>
+<kind>S</kind>
+<name>Thatcher</name>
+<date>19980200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 8394</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>6002317</doc-number>
+<kind>A</kind>
+<name>Pignataro</name>
+<date>19991200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>H01F 7/04</classification-cpc-text>
+<classification-national><country>US</country><main-classification>335289</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>6076873</doc-number>
+<kind>A</kind>
+<name>Jung</name>
+<date>20000600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B66C 1/04</classification-cpc-text>
+<classification-national><country>US</country><main-classification>335295</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>6104271</doc-number>
+<kind>A</kind>
+<name>Barrett</name>
+<date>20000800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>H01F 7/0268</classification-cpc-text>
+<classification-national><country>US</country><main-classification>335291</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>D490201</doc-number>
+<kind>S</kind>
+<name>Liao</name>
+<date>20040500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D34 28</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>D554482</doc-number>
+<kind>S</kind>
+<name>Hager</name>
+<date>20071100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>D680852</doc-number>
+<kind>S</kind>
+<name>Gilboe</name>
+<date>20130400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>D707537</doc-number>
+<kind>S</kind>
+<name>Schraufnagel</name>
+<date>20140600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>D769705</doc-number>
+<kind>S</kind>
+<name>Moreau</name>
+<date>20161000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 8382</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>D787303</doc-number>
+<kind>S</kind>
+<name>Garvin</name>
+<date>20170500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>D801789</doc-number>
+<kind>S</kind>
+<name>Angay</name>
+<date>20171100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>D808779</doc-number>
+<kind>S</kind>
+<name>Shoenhair</name>
+<date>20180100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>D809354</doc-number>
+<kind>S</kind>
+<name>Richer</name>
+<date>20180200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 8 14</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>D814257</doc-number>
+<kind>S</kind>
+<name>Berndt</name>
+<date>20180400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 8 14</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>D839722</doc-number>
+<kind>S</kind>
+<name>Schaubach</name>
+<date>20190200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>D852150</doc-number>
+<kind>S</kind>
+<name>Turksu</name>
+<date>20190600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D13183</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>D895923</doc-number>
+<kind>S</kind>
+<name>Jie</name>
+<date>20200900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D22136</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>D908477</doc-number>
+<kind>S</kind>
+<name>Liu</name>
+<date>20210100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 8367</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>D917266</doc-number>
+<kind>S</kind>
+<name>Winnie</name>
+<date>20210400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>D934527</doc-number>
+<kind>S</kind>
+<name>Zhao</name>
+<date>20211000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D22136</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>D945866</doc-number>
+<kind>S</kind>
+<name>Luo</name>
+<date>20220300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>D960694</doc-number>
+<kind>S</kind>
+<name>Chen</name>
+<date>20220800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00026">
+<othercit>Walmart.com Nov. 8, 2022, Mgaxyff D75 recovery super strong pull sea fishing neodymium magnet, https://www.walmart.com/ip/Mgaxyff-D75-Recovery-Super-Strong-Pull-Sea-Fishing-Neodymium-Magnet-Hunting-Charm-Eyebolt-Sea-Fishing-Magnet/618254833 (Year: 2022).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00027">
+<othercit>Eaglemagnet.com Nov. 8, 2022, D75 Fishing magnets with one hook, 2022, https://www.eaglemagnet.com/product/d75-fishing-magnets-with-one-hook (Year: 2022).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00028">
+<othercit>AliExpress.com Nov. 8, 2022, 10 Size fishing magnet salvage fishing hook magnets, 2022, https://www.aliexpress.us/item/2255801152225877.html?isdl=y&#x26;gatewayAdapt=glo2usa4itemAdapt&#x26;_randl_shipto=US (Year: 2022).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00029">
+<othercit>Senseipro.pl Nov. 8, 2022, Magnes neodymowy Sensei 250kg, Review dated Aug. 16, 2022, https://senseipro.pl/magnes-neodymowy-sensei-250-kg/ (Year: 2022).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+</us-references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D34 28</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D34 33</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D34 35</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D22136</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 8 14</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 8387</main-classification>
+</classification-national>
+<classification-cpc-text>H01F 7/0257</classification-cpc-text>
+<classification-cpc-text>B66C 1/00</classification-cpc-text>
+<classification-cpc-text>B66C 1/04</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>7</number-of-drawing-sheets>
+<number-of-figures>7</number-of-figures>
+</figures>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only">
+<addressbook>
+<last-name>Song</last-name>
+<first-name>Yunxia</first-name>
+<address>
+<city>Shanghai</city>
+<country>CN</country>
+</address>
+</addressbook>
+<residence>
+<country>CN</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Song</last-name>
+<first-name>Yunxia</first-name>
+<address>
+<city>Shanghai</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<last-name>Kanakia</last-name>
+<first-name>Rumit Ranjit</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<examiners>
+<primary-examiner>
+<last-name>Ramirez</last-name>
+<first-name>Cynthia</first-name>
+<department>2911</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="147.15mm" wi="151.55mm" file="USD0985226-20230502-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="233.09mm" wi="153.59mm" file="USD0985226-20230502-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="237.74mm" wi="154.86mm" file="USD0985226-20230502-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="230.63mm" wi="153.59mm" file="USD0985226-20230502-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="232.75mm" wi="153.67mm" file="USD0985226-20230502-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="236.39mm" wi="153.59mm" file="USD0985226-20230502-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="239.18mm" wi="153.59mm" file="USD0985226-20230502-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="241.13mm" wi="162.39mm" file="USD0985226-20230502-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a perspective view of a fishing magnet showing my new design;</p>
+<p id="p-0002" num="0002"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is another perspective view thereof;</p>
+<p id="p-0003" num="0003"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a front elevational view thereof, the rear elevational view is identical;</p>
+<p id="p-0004" num="0004"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a left side view thereof, the right side view is identical;</p>
+<p id="p-0005" num="0005"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a top plan view thereof;</p>
+<p id="p-0006" num="0006"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is a bottom plan view thereof; and,</p>
+<p id="p-0007" num="0007"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is a partial enlarged view of <figref idref="DRAWINGS">FIG. <b>1</b></figref>.</p>
+<p id="p-0008" num="0008">The broken lines in the figures show boundaries of enlargements and form no part of the claimed design.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>The ornamental design for a fishing magnet, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

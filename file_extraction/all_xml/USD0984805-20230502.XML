@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v47-2022-02-17.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.7 2022-02-17" file="USD0984805-20230502.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20230412" date-publ="20230502">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0984805</doc-number>
+<kind>S1</kind>
+<date>20230502</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>29881681</doc-number>
+<date>20230105</date>
+</document-id>
+</application-reference>
+<us-application-series-code>29</us-application-series-code>
+<us-term-of-grant>
+<length-of-grant>15</length-of-grant>
+</us-term-of-grant>
+<classification-locarno>
+<edition>14</edition>
+<main-classification>0301</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D 3281</main-classification>
+<further-classification> D3284</further-classification>
+<further-classification> D3901</further-classification>
+</classification-national>
+<invention-title id="d2e53">Suitcase</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>D315247</doc-number>
+<kind>S</kind>
+<name>Lovell</name>
+<date>19910300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 3901</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>D337198</doc-number>
+<kind>S</kind>
+<name>Chauvin</name>
+<date>19930700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 3901</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>D351283</doc-number>
+<kind>S</kind>
+<name>Wolff</name>
+<date>19941000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 3205</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>D354622</doc-number>
+<kind>S</kind>
+<name>Lovell</name>
+<date>19950100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 3901</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>D371906</doc-number>
+<kind>S</kind>
+<name>Peters</name>
+<date>19960700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 3276</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>D657915</doc-number>
+<kind>S</kind>
+<name>Lai</name>
+<date>20120400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 3901</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>D853113</doc-number>
+<kind>S</kind>
+<name>Wang</name>
+<date>20190700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>D872477</doc-number>
+<kind>S</kind>
+<name>Perella</name>
+<date>20200100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 3901</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>D937562</doc-number>
+<kind>S</kind>
+<name>Lateef</name>
+<date>20211200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 32031</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>D946883</doc-number>
+<kind>S</kind>
+<name>Lateef</name>
+<date>20220300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 32031</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<nplcit num="00011">
+<othercit>Amazon, &#x201c;OSteed Craft Storage Organizer . . . &#x201d;, First on sale Dec. 12, 2022. (https://www.amazon.com/dp/B0BPSB2R24/?th=1) (Year: 2022).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00012">
+<othercit>Amazon, &#x201c;Sooyee Craft Organizers and Storage . . . &#x201d;, First on sale Jan. 14, 2021. (https://www.amazon.com/dp/B08T1DWGH3/?th=1) (Year: 2021).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00013">
+<othercit>Joybos, &#x201c;Joybos&#xae; Craft Storage Box With 3-Tier Fold Tray and Handle&#x201d;, First reviewed &#x201c;three months ago&#x201d;. Estimated Dec. 1, 2022. (https://joybos.com/products/storage-box-2?variant=41868192547000) (Year: 2022).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+</us-references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D 3276</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 3282</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 3291</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 3294</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 3905</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 3901</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 3903</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 3284</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 3289</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 3302</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 32712</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 3281</main-classification>
+</classification-national>
+<classification-cpc-text>B25H 3/02</classification-cpc-text>
+<classification-cpc-text>B25H 3/00</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>10</number-of-drawing-sheets>
+<number-of-figures>10</number-of-figures>
+</figures>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only">
+<addressbook>
+<last-name>Cheng</last-name>
+<first-name>Yao</first-name>
+<address>
+<city>Nanchang</city>
+<country>CN</country>
+</address>
+</addressbook>
+<residence>
+<country>CN</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Cheng</last-name>
+<first-name>Yao</first-name>
+<address>
+<city>Nanchang</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<examiners>
+<primary-examiner>
+<last-name>Rivas</last-name>
+<first-name>April</first-name>
+<department>2921</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="127.76mm" wi="148.25mm" file="USD0984805-20230502-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="173.06mm" wi="150.28mm" file="USD0984805-20230502-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="177.12mm" wi="150.28mm" file="USD0984805-20230502-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="128.19mm" wi="138.60mm" file="USD0984805-20230502-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="132.93mm" wi="138.60mm" file="USD0984805-20230502-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="138.35mm" wi="106.51mm" file="USD0984805-20230502-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="137.08mm" wi="93.13mm" file="USD0984805-20230502-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="148.84mm" wi="138.60mm" file="USD0984805-20230502-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="156.72mm" wi="138.60mm" file="USD0984805-20230502-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="205.32mm" wi="144.27mm" file="USD0984805-20230502-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="185.42mm" wi="130.73mm" file="USD0984805-20230502-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a front perspective view of a suitcase, showing my new design;</p>
+<p id="p-0002" num="0002"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a rear perspective view thereof;</p>
+<p id="p-0003" num="0003"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a front view thereof;</p>
+<p id="p-0004" num="0004"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a rear view thereof;</p>
+<p id="p-0005" num="0005"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a left side view thereof;</p>
+<p id="p-0006" num="0006"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is a right side view thereof;</p>
+<p id="p-0007" num="0007"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is a top view thereof;</p>
+<p id="p-0008" num="0008"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is a bottom view thereof;</p>
+<p id="p-0009" num="0009"><figref idref="DRAWINGS">FIG. <b>9</b></figref> is front perspective view of the suitcase, shown in an open configuration; and,</p>
+<p id="p-0010" num="0010"><figref idref="DRAWINGS">FIG. <b>10</b></figref> is a partial enlargement of <figref idref="DRAWINGS">FIG. <b>5</b></figref>.</p>
+<p id="p-0011" num="0011">The broken lines in the drawings illustrate portion of the suitcase, which form no part of the claimed design. The dash-dot broken lines illustrate the bounds of the enlarged view only and form no part of the claimed design.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>The ornamental design for a suitcase, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

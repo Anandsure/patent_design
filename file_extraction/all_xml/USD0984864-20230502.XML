@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v47-2022-02-17.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.7 2022-02-17" file="USD0984864-20230502.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20230411" date-publ="20230502">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0984864</doc-number>
+<kind>S1</kind>
+<date>20230502</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>35514334</doc-number>
+<date>20220404</date>
+</document-id>
+</application-reference>
+<us-application-series-code>35</us-application-series-code>
+<us-term-of-grant>
+<length-of-grant>15</length-of-grant>
+</us-term-of-grant>
+<classification-locarno>
+<edition>14</edition>
+<main-classification>0709</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D 7701</main-classification>
+</classification-national>
+<invention-title id="d2e53">Cup holder</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>1778425</doc-number>
+<kind>A</kind>
+<name>Maddocks</name>
+<date>19301000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A47G 23/065</classification-cpc-text>
+<classification-national><country>US</country><main-classification>294159</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>1884970</doc-number>
+<kind>A</kind>
+<name>Davis</name>
+<date>19321000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A47G 23/065</classification-cpc-text>
+<classification-national><country>US</country><main-classification>D 7706</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>2534680</doc-number>
+<kind>A</kind>
+<name>Poirier</name>
+<date>19501200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A47G 23/025</classification-cpc-text>
+<classification-national><country>US</country><main-classification>211205</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>3142425</doc-number>
+<kind>A</kind>
+<name>Cobb</name>
+<date>19640700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A47G 23/065</classification-cpc-text>
+<classification-national><country>US</country><main-classification>D 7543</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>3768710</doc-number>
+<kind>A</kind>
+<name>Eggers</name>
+<date>19731000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A47G 23/0208</classification-cpc-text>
+<classification-national><country>US</country><main-classification>294143</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>5074421</doc-number>
+<kind>A</kind>
+<name>Coulter</name>
+<date>19911200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A47F 5/02</classification-cpc-text>
+<classification-national><country>US</country><main-classification>211163</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>D398482</doc-number>
+<kind>S</kind>
+<name>Wang</name>
+<date>19980900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 7706</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>D494429</doc-number>
+<kind>S</kind>
+<name>Tuite</name>
+<date>20040800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 7701</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>D760032</doc-number>
+<kind>S</kind>
+<name>Thompson</name>
+<date>20160600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 76004</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>D760559</doc-number>
+<kind>S</kind>
+<name>Chu</name>
+<date>20160700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 7701</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>D880261</doc-number>
+<kind>S</kind>
+<name>Stewart</name>
+<date>20200400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 7707</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>20120031806</doc-number>
+<kind>A1</kind>
+<name>Riley</name>
+<date>20120200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A47G 23/0208</classification-cpc-text>
+<classification-national><country>US</country><main-classification>206563</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>GB</country>
+<doc-number>260419</doc-number>
+<kind>A</kind>
+<date>19261100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</us-citation>
+</us-references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D 7701-708</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D12419</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D12420</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D12317</main-classification>
+</classification-national>
+<classification-cpc-text>B60N 3/00</classification-cpc-text>
+<classification-cpc-text>B60N 3/10</classification-cpc-text>
+<classification-cpc-text>B60N 3/105</classification-cpc-text>
+<classification-cpc-text>A47F 7/0064</classification-cpc-text>
+<classification-cpc-text>A47G 23/00</classification-cpc-text>
+<classification-cpc-text>A47G 23/02</classification-cpc-text>
+<classification-cpc-text>A47G 23/0208</classification-cpc-text>
+<classification-cpc-text>A47G 23/0225</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>5</number-of-drawing-sheets>
+<number-of-figures>5</number-of-figures>
+</figures>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only">
+<addressbook>
+<orgname>Portus &#x26; Navis ApS</orgname>
+<address>
+<city>Silkeborg</city>
+<country>DK</country>
+</address>
+</addressbook>
+<residence>
+<country>DK</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Hansen</last-name>
+<first-name>Andreas &#xd8;stergaard</first-name>
+<address>
+<city>Silkeborg</city>
+<country>DK</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="002" designation="us-only">
+<addressbook>
+<last-name>Jensen</last-name>
+<first-name>John</first-name>
+<address>
+<city>Silkeborg</city>
+<country>DK</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="003" designation="us-only">
+<addressbook>
+<last-name>Berg</last-name>
+<first-name>Jesper Abildskov</first-name>
+<address>
+<city>Silkeborg</city>
+<country>DK</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<examiners>
+<primary-examiner>
+<last-name>Wallace</last-name>
+<first-name>Terry A</first-name>
+<department>2916</department>
+</primary-examiner>
+</examiners>
+<hague-agreement-data>
+<international-filing-date><date>20220404</date></international-filing-date>
+<international-registration-publication-date><date>20220520</date></international-registration-publication-date>
+<international-registration-number>DM/220722</international-registration-number>
+<international-registration-date><date>20220404</date></international-registration-date>
+</hague-agreement-data>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="125.56mm" wi="136.14mm" file="USD0984864-20230502-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="158.67mm" wi="138.18mm" file="USD0984864-20230502-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="147.07mm" wi="143.85mm" file="USD0984864-20230502-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="160.10mm" wi="135.04mm" file="USD0984864-20230502-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="158.67mm" wi="133.69mm" file="USD0984864-20230502-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="162.22mm" wi="115.65mm" file="USD0984864-20230502-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001">1. Cup holder</p>
+<p id="p-0002" num="0002"><figref idref="DRAWINGS"><b>1</b>.<b>1</b> </figref>: Perspective</p>
+<p id="p-0003" num="0003"><figref idref="DRAWINGS"><b>1</b>.<b>2</b> </figref>: Left</p>
+<p id="p-0004" num="0004"><figref idref="DRAWINGS"><b>1</b>.<b>3</b> </figref>: Bottom</p>
+<p id="p-0005" num="0005"><figref idref="DRAWINGS"><b>1</b>.<b>4</b> </figref>: Top</p>
+<p id="p-0006" num="0006"><figref idref="DRAWINGS"><b>1</b>.<b>5</b> </figref>: Exploded</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>The ornamental design for a cup holder, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>
