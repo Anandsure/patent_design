@@ -22,6 +22,13 @@ This project implements a search engine for USPTO design patents based on variou
 The United States Patent and Trademark Office (USPTO) provides a dataset of design patents, including information about various design patents granted by the USPTO. This project aims to create a search engine that enables users to search for design patents based on specific criteria.
 
 ## Search Engine Architecture
+### Flow 1 -> converting the xml files into meanningful data for PostgreSQL and ElasticSearch
+<img width="705" alt="image" src="https://github.com/Anandsure/patent_design/assets/43916800/d7a6b74c-cbbf-425a-8a58-a42d0885ad4a">
+### Flow 2 -> Fuzzy Search API to retrieve data from ElasticSeach with scores. (it's very fast, because the db doesn't have a lot of junk)
+
+### Flow 3 -> PostgreSQL Query with PatentNumber to retruieve full data
+
+
 
 
 ## Features
