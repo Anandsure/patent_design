@@ -43,10 +43,10 @@ To run this project, you need the following prerequisites:
 ### Installation
 
 1. Clone the repository:
-   ```bash
+   bash
    git clone https://github.com/yourusername/patent_designs.git
    cd patent_designs
-   ```
+   
 
 ### Usage
     ```bash
