@@ -1,8 +1,8 @@
 package migrations
 
 import (
-	"github.com/LegalForceLawRAPC/go-template/api/db"
-	"github.com/LegalForceLawRAPC/go-template/pkg/models"
+	"github.com/Anandsure/patent_design/api/db"
+	"github.com/Anandsure/patent_design/pkg/models"
 )
 
 func Migrate() {

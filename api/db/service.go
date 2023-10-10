@@ -1,6 +1,6 @@
 package db
 
-import "github.com/LegalForceLawRAPC/go-template/pkg/users"
+import "github.com/Anandsure/patent_design/pkg/users"
 
 var (
 	UsersSvc users.Service = nil

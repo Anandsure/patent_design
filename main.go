@@ -10,11 +10,11 @@ import (
 	"github.com/gofiber/fiber/v2/middleware/recover"
 	"github.com/spf13/viper"
 
-	"github.com/LegalForceLawRAPC/go-template/api/cache"
-	"github.com/LegalForceLawRAPC/go-template/api/db"
-	"github.com/LegalForceLawRAPC/go-template/api/migrations"
-	"github.com/LegalForceLawRAPC/go-template/api/router"
-	"github.com/LegalForceLawRAPC/go-template/api/utils"
+	"github.com/Anandsure/patent_design/api/cache"
+	"github.com/Anandsure/patent_design/api/db"
+	"github.com/Anandsure/patent_design/api/migrations"
+	"github.com/Anandsure/patent_design/api/router"
+	"github.com/Anandsure/patent_design/api/utils"
 )
 
 func healthCheck(c *fiber.Ctx) error {

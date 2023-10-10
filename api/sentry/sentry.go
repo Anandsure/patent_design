@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/LegalForceLawRAPC/go-template/api/utils"
+	"github.com/Anandsure/patent_design/api/utils"
 	"github.com/valyala/fasthttp"
 	"github.com/valyala/fasthttp/fasthttpadaptor"
 

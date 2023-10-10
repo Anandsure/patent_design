@@ -1,4 +1,4 @@
-module github.com/LegalForceLawRAPC/go-template
+module github.com/Anandsure/patent_design
 
 go 1.17
 

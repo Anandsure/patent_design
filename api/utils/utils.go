@@ -5,7 +5,7 @@ import (
 	"log"
 	"strconv"
 
-	"github.com/LegalForceLawRAPC/go-template/api/constants"
+	"github.com/Anandsure/patent_design/api/constants"
 	"github.com/spf13/viper"
 )
 
