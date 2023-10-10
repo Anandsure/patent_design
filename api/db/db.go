@@ -6,6 +6,7 @@ import (
 	"log"
 	"time"
 
+	_ "github.com/lib/pq"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 	"gorm.io/gorm/logger"
