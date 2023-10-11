@@ -22,6 +22,9 @@ This project implements a search engine for USPTO design patents based on variou
 The United States Patent and Trademark Office (USPTO) provides a dataset of design patents, including information about various design patents granted by the USPTO. This project aims to create a search engine that enables users to search for design patents based on specific criteria.
 
 ## Search Engine Architecture
+### Flow 1 -> Json Extraction and bulk inserts into postgreSQL and elasticSearch
+<img width="705" alt="image" src="https://github.com/Anandsure/patent_design/assets/43916800/fb5e0c09-6e4e-44b3-b8cc-99044d486b26">
+
 
 
 ## Features
