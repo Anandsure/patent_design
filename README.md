@@ -25,8 +25,11 @@ The United States Patent and Trademark Office (USPTO) provides a dataset of desi
 ### Flow 1 -> Json Extraction and bulk inserts into postgreSQL and elasticSearch
 <img width="705" alt="image" src="https://github.com/Anandsure/patent_design/assets/43916800/fb5e0c09-6e4e-44b3-b8cc-99044d486b26">
 
-### Flow 2 -> Optimised wildcard search from ElasticSearch with all hits
+### Flow 2 -> Optimised wildcard search from ElasticSearch with all hits and Pagination
+<img width="837" alt="image" src="https://github.com/Anandsure/patent_design/assets/43916800/a321bdd8-d7ab-4215-a5b1-dfd95e02a75b">
 
+### Flow 3 -> Optimised Query to get all the patent metadata from PostgreSQL 
+<img width="828" alt="image" src="https://github.com/Anandsure/patent_design/assets/43916800/0d3c8932-8514-478b-ba1c-6d8baac89808">
 
 
 ## Features
