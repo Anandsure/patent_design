@@ -96,6 +96,30 @@ Bulk insertion was done in two places from the combined_json generated from the 
 db_bulk_insertion - the file handling the bulk insert into postgres. The code is extremely modular and inserts data according to the specifed schema defined in models.
 es_bulk_insertion - This file handles chunking of the json_data and effeciently inserting the data into ES_INDEX = design_patents 
 
+## Performance Optimization
+
+This repository demonstrates a performance-optimized search functionality using Elasticsearch (ES) for Postgres data. The optimization involves a two-step process:
+
+### Elasticsearch Indexing
+
+- Elasticsearch is utilized to index searchable fields, optimizing search performance.
+- Only specific searchable fields are stored in Elasticsearch, enhancing efficiency.
+
+### Search and Retrieval
+
+1. **Search Process:**
+   - The search process involves querying Elasticsearch for relevant results based on the search query.
+
+2. **Data Retrieval:**
+   - Once search results are obtained, a second query is made to the original data source (e.g., Postgres) using the retrieved unique identifiers (e.g., Patent Number).
+
+This two-step approach minimizes the load on the original data source, enhancing response speed and efficiency. By implementing pagination within the Elasticsearch query and selectively indexing necessary fields, we achieve an efficient search mechanism. Additionally, leveraging Elasticsearch for primary search operations optimizes the overall system's performance.
+
+## Search Functionality
+
+The Search engine uses fuzzy logic coupled with ElasticSearch (indexed against a postgres DB)
+The search engine allows users to search for design patents based on various criteria, including patent title, patent number, inventor(s) name, assignee (owner) name, application date, issue date, and design class (if available).
+
 ## Getting Started
 
 ### Prerequisites
@@ -120,32 +144,12 @@ To run this project, you need the following prerequisites:
     go mod download
     go run main.go
 
-## Search Functionality
 
-The Search engine uses fuzzy logic coupled with ElasticSearch (indexed against a postgres DB)
-The search engine allows users to search for design patents based on various criteria, including patent title, patent number, inventor(s) name, assignee (owner) name, application date, issue date, and design class (if available).
 
 ## Postman Documentation 
 - [Postman Documentation](https://documenter.getpostman.com/view/9325142/2s9YJjQden) Please refer to the API documentation over here. 
 
-## Performance Optimization
 
-This repository demonstrates a performance-optimized search functionality using Elasticsearch (ES) for Postgres data. The optimization involves a two-step process:
-
-### Elasticsearch Indexing
-
-- Elasticsearch is utilized to index searchable fields, optimizing search performance.
-- Only specific searchable fields are stored in Elasticsearch, enhancing efficiency.
-
-### Search and Retrieval
-
-1. **Search Process:**
-   - The search process involves querying Elasticsearch for relevant results based on the search query.
-
-2. **Data Retrieval:**
-   - Once search results are obtained, a second query is made to the original data source (e.g., Postgres) using the retrieved unique identifiers (e.g., Patent Number).
-
-This two-step approach minimizes the load on the original data source, enhancing response speed and efficiency. By implementing pagination within the Elasticsearch query and selectively indexing necessary fields, we achieve an efficient search mechanism. Additionally, leveraging Elasticsearch for primary search operations optimizes the overall system's performance.
 
 
 
