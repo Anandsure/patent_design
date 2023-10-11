@@ -38,6 +38,22 @@ The United States Patent and Trademark Office (USPTO) provides a dataset of desi
 - Efficiently parse and store USPTO design patent data.
 - Optimize search engine performance for large datasets.
 
+## Patent Model
+```
+type Patent struct {
+	PatentNumber    string         `json:"PatentNumber" gorm:"primaryKey"`
+	PatentTitle     string         `json:"PatentTitle"`
+	Authors         pq.StringArray `json:"Authors" gorm:"type:text[]"`
+	Assignee        string         `json:"Assignee"`
+	ApplicationDate string         `json:"ApplicationDate"`
+	IssueDate       string         `json:"IssueDate"`
+	DesignClass     string         `json:"DesignClass"`
+	ReferencesCited pq.StringArray `json:"ReferencesCited" gorm:"type:text[]"`
+	Description     pq.StringArray `json:"Description" gorm:"type:text[]"`
+}
+```
+The fields have been highly optimiised to hold list of data, the extraction has been done refering to the dtd from the USPTO page for design patents
+
 ## Getting Started
 
 ### Prerequisites
