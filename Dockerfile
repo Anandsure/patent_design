@@ -40,7 +40,8 @@ COPY --from=builder /go/bin/main /go/bin/main
 # Use an unprivileged user.
 USER appuser:appuser
 
-# Run the binary.
-ENTRYPOINT ["/go/bin/main"]
+# Expose the ports needed for Elasticsearch and PostgreSQL
+EXPOSE 9200 5432
 
+# Run the binary.
 ENTRYPOINT ["/go/bin/main"]
