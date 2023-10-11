@@ -14,7 +14,7 @@ This project implements a search engine for USPTO design patents based on variou
 - [Database](#database)
 - [Search Functionality](#search-functionality)
 - [Performance Optimization](#performance-optimization)
-- [Documentation](#documentation)
+- [Postman Documentation](#documentation)
 - [License](#license)
 
 ## Introduction
@@ -124,3 +124,28 @@ To run this project, you need the following prerequisites:
 
 The Search engine uses fuzzy logic coupled with ElasticSearch (indexed against a postgres DB)
 The search engine allows users to search for design patents based on various criteria, including patent title, patent number, inventor(s) name, assignee (owner) name, application date, issue date, and design class (if available).
+
+## Postman Documentation 
+- [Postman Documentation](https://documenter.getpostman.com/view/9325142/2s9YJjQden) Please refer to the API documentation over here. 
+
+## Performance Optimization
+
+This repository demonstrates a performance-optimized search functionality using Elasticsearch (ES) for Postgres data. The optimization involves a two-step process:
+
+### Elasticsearch Indexing
+
+- Elasticsearch is utilized to index searchable fields, optimizing search performance.
+- Only specific searchable fields are stored in Elasticsearch, enhancing efficiency.
+
+### Search and Retrieval
+
+1. **Search Process:**
+   - The search process involves querying Elasticsearch for relevant results based on the search query.
+
+2. **Data Retrieval:**
+   - Once search results are obtained, a second query is made to the original data source (e.g., Postgres) using the retrieved unique identifiers (e.g., Patent Number).
+
+This two-step approach minimizes the load on the original data source, enhancing response speed and efficiency. By implementing pagination within the Elasticsearch query and selectively indexing necessary fields, we achieve an efficient search mechanism. Additionally, leveraging Elasticsearch for primary search operations optimizes the overall system's performance.
+
+
+
