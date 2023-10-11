@@ -52,7 +52,44 @@ type Patent struct {
 	Description     pq.StringArray `json:"Description" gorm:"type:text[]"`
 }
 ```
-The fields have been highly optimiised to hold list of data, the extraction has been done refering to the dtd from the USPTO page for design patents
+The fields have been highly optimiised to hold list of data, the extraction has been done refering to the dtd from the USPTO page for design patents.
+
+For extaction, i'd written a script to first unzip all the data and extract the XML files to a folder called all_xml. 
+The second step was to use use encoding/xml and encoding/json to derive all the extracted fields by specifing model structs. 
+```
+type Inventor struct {
+	LastName  string `xml:"addressbook>last-name"`
+	FirstName string `xml:"addressbook>first-name"`
+}
+
+type UsPatentGrant struct {
+	PatentTitle     string      `xml:"us-bibliographic-data-grant>invention-title"`
+	PatentNumber    string      `xml:"us-bibliographic-data-grant>publication-reference>document-id>doc-number"`
+	Authors         []Inventor  `xml:"us-bibliographic-data-grant>us-parties>inventors>inventor"`
+	Assignee        string      `xml:"us-bibliographic-data-grant>us-parties>us-applicants>us-applicant>addressbook>orgname"`
+	ApplicationDate CustomTime  `xml:"us-bibliographic-data-grant>application-reference>document-id>date"`
+	IssueDate       CustomTime  `xml:"us-bibliographic-data-grant>publication-reference>document-id>date"`
+	DesignClass     string      `xml:"us-bibliographic-data-grant>classification-national>main-classification"`
+	ReferencesCited []Reference `xml:"us-bibliographic-data-grant>us-references-cited>us-citation,omitempty"`
+	Description     Description `xml:"description"`
+}
+
+type Reference struct {
+	Name string `xml:"patcit>document-id>name"`
+}
+
+type Description struct {
+	DescriptionDrawings []string `xml:"description-of-drawings>p"`
+}
+
+type CustomTime struct {
+	Time string `xml:",chardata"`
+}
+```
+Above you can see the Etree mappings, to extract the data from the xml and map it to the respective json attribute. 
+The xml data was extracted using the NewEncoder method and appended to a combined json file.
+
+Please refer json_generator.go and xml_file_extractor.go
 
 ## Getting Started
 
