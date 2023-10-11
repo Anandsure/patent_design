@@ -91,6 +91,11 @@ The xml data was extracted using the NewEncoder method and appended to a combine
 
 Please refer json_generator.go and xml_file_extractor.go
 
+## Bulk Insertion
+Bulk insertion was done in two places from the combined_json generated from the file extraction with all the metadata. 
+db_bulk_insertion - the file handling the bulk insert into postgres. The code is extremely modular and inserts data according to the specifed schema defined in models.
+es_bulk_insertion - This file handles chunking of the json_data and effeciently inserting the data into ES_INDEX = design_patents 
+
 ## Getting Started
 
 ### Prerequisites
