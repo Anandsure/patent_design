@@ -67,9 +67,10 @@ The search engine allows users to search for design patents based on various cri
 according to the 2 Flows,
 1. The search engine data in ES only has the searchable fields (title, authors, asignee, etc;) along with the unique key (patent number)
 the returned response is a linear json that can be used in the front-end as a list view , to show the search results immediately.  <br>
-2. when the User wants to retrieve all the data about the patent, the data is queried with the patent_number(pk) field from the postgres DB directly.
-The returned response is now a full metadata json with all the fields pertaining to the Patent.
-3. The Search query uses the wildcard mode to effectively apply logic on all requested fields and weigh it by the most likey score. 
+2. The ES results are paginated , making sure it doesn't take a hit on the performance. <br>
+3. when the User wants to retrieve all the data about the patent, the data is queried with the patent_number(pk) field from the postgres DB directly.
+The returned response is now a full metadata json with all the fields pertaining to the Patent. <br>
+4. The Search query uses the wildcard mode to effectively apply logic on all requested fields and weigh it by the most likey score. 
 
 ## Documentation
 - [Postman Documentation](https://documenter.getpostman.com/view/9325142/2s9YJjQden) Please refer to this for API documentation. 
