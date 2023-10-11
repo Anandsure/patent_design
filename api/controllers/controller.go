@@ -3,7 +3,6 @@ package controllers
 import (
 	"encoding/json"
 	"fmt"
-	"strconv"
 
 	"github.com/Anandsure/patent_design/api/db"
 	"github.com/Anandsure/patent_design/api/es_utils"
@@ -15,28 +14,17 @@ type SearchResponse struct {
 }
 
 func SearchHandler(c *fiber.Ctx) error {
-	// Get the search term and pagination parameters from the URL query
-	searchTerm := c.Query("q")                      // Get the search term from the URL parameter 'q'
-	from, err := strconv.Atoi(c.Query("from", "0")) // Get the 'from' parameter for pagination (default: 0)
-	if err != nil {
-		return c.Status(400).JSON(fiber.Map{
-			"error": "Invalid 'from' parameter. Please provide a valid integer.",
-		})
-	}
-	size, err := strconv.Atoi(c.Query("size", "10")) // Get the 'size' parameter for pagination (default: 10)
-	if err != nil {
-		return c.Status(400).JSON(fiber.Map{
-			"error": "Invalid 'size' parameter. Please provide a valid integer.",
-		})
-	}
+	searchTerm := c.Query("q") // Get the search term from the URL parameter 'q'
 
-	// Perform the Elasticsearch query with pagination
-	results, err := es_utils.SearchWithPagination(searchTerm, from, size)
+	// Perform the Elasticsearch query
+	fmt.Println(searchTerm)
+	results, err := es_utils.Search(searchTerm)
 	if err != nil {
 		return c.Status(500).JSON(fiber.Map{
 			"error": fmt.Sprintf("Failed to perform Elasticsearch query: %v", err),
 		})
 	}
+	fmt.Printf("Search poppers: %+v\n", results)
 	hitsInterface, hitsExist := results["hits"]
 	if !hitsExist {
 		return c.Status(500).JSON(fiber.Map{
@@ -54,9 +42,7 @@ func SearchHandler(c *fiber.Ctx) error {
 
 	// Respond with the hits as JSON
 	return c.Send(hitsJSON)
-
 }
-
 func QueryHandler(c *fiber.Ctx) error {
 	searchTerm := c.Query("patent_number", "")
 

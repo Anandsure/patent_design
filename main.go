@@ -5,6 +5,7 @@ import (
 	"strings"
 
 	"github.com/Anandsure/patent_design/api/router"
+	"github.com/Anandsure/patent_design/bulk_insertion"
 
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/cors"
@@ -21,7 +22,7 @@ func healthCheck(c *fiber.Ctx) error {
 	return c.SendString("Running fine bro")
 }
 
-func main() {
+func startServer() {
 	// Set global configuration
 	utils.ImportEnv()
 
@@ -61,5 +62,13 @@ func main() {
 	err := app.Listen(fmt.Sprintf(":%s", port))
 	if err != nil {
 		panic(err)
+	}
+}
+
+func main() {
+	if viper.GetBool("START_SERVER") {
+		startServer()
+	} else {
+		bulk_insertion.StartBulk()
 	}
 }
