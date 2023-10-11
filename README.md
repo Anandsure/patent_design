@@ -38,7 +38,7 @@ The United States Patent and Trademark Office (USPTO) provides a dataset of desi
 - Efficiently parse and store USPTO design patent data.
 - Optimize search engine performance for large datasets.
 
-## Patent Model
+## Data Extraction
 ```
 type Patent struct {
 	PatentNumber    string         `json:"PatentNumber" gorm:"primaryKey"`
