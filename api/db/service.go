@@ -1,14 +1,14 @@
 package db
 
-import "github.com/Anandsure/patent_design/pkg/users"
+import "github.com/Anandsure/patent_design/pkg/patents"
 
 var (
-	UsersSvc users.Service = nil
+	PatentSvc patents.Service = nil
 )
 
 func InitServices() {
 	db := GetDB()
 
-	usersRepo := users.NewPostgresRepo(db)
-	UsersSvc = users.NewService(usersRepo)
+	patentsRepo := patents.NewPostgresRepo(db)
+	PatentSvc = patents.NewService(patentsRepo)
 }
